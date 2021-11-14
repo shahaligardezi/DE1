@@ -26,7 +26,7 @@ data-analyst team member. I would require a dataset to provide me information ab
 
 In order to achieve the desired analytics results my plan of action involved 
 - Loading the data into tables in MySQL
-- Creating an ETL pipeline to create a data warehouse called racesinfo_dw
+- Creating an ETL pipeline to create a data warehouse called _**racesinfo_dw**_
 - Creating an ETL pipeline to create data marts for analysis 
 The figure below illustrates the above.
 
@@ -54,7 +54,7 @@ Displays the constructors with respect engine failure as car status. It also dis
 Displays performance of the driver in every race and includes information about driver’s fastest lap, fastest lap time, fastest speed, time to complete race etc. This view will allow the users see the analyze the performance of their chosen driver in any Grand Prix
 
 -	**`View 3: Finished_races`**:
-Displays race events and sorts on the basis of highest finished car status. Meaning maximum number of drivers finished race without accidents. This view will allow the users see the analyze the which race circuit is safest for drivers.
+Displays race events and sorts on the basis of highest finished car status. Meaning maximum number of drivers finished race without accidents. This view will allow the users see the analyze which race circuit is safest for drivers.
 
 -	**`View 4 : Constructor_points`**:
 Displays constructors and their points during the season.
@@ -63,13 +63,13 @@ Displays constructors and their points during the season.
 
 As extra step, I performed a test analysis of my `View 1, View 2 and View 4 views` of the data mart.
 
--	**`For View 1`**, I created a stored procedure called **engine_troubles**. This function takes two inputs from the user, engine failure type as _car_status_ and _race_year_ and out puts the constructors name and the number of times in the season they had the particular engine failure.
+-	**`For View 1`**, I created a stored procedure called _**engine_troubles**_. This function takes two inputs from the user, engine failure type as _car_status_ and _race_year_ and out puts the constructors name and the number of times in the season they had the particular engine failure.
 
 
--	**`For View 2`**, I created a stored procedure called **driver_in_race**. This function takes two inputs from the user, _driver_name_ and _race_name_ and outputs a table with the driver’s performance parameters such grid placement, final position in the race, fastest lap, fastest lap time, fastest speed, time to complete race.
+-	**`For View 2`**, I created a stored procedure called _**driver_in_race**_. This function takes two inputs from the user, _driver_name_ and _race_name_ and outputs a table with the driver’s performance parameters such grid placement, final position in the race, fastest lap, fastest lap time, fastest speed, time to complete race.
 
 
--	**`For View 4`**, I performed the analysis to record the total points gained by each constructor at the end of race season. For this, I used **MAX** aggregate function of MySQL to record the total points gained by each constructor.
+-	**`For View 4`**, I performed the analysis to record the total points gained by each constructor at the end of race season. For this, I used _**MAX**_ aggregate function of MySQL to record the total points gained by each constructor.
 
 
 
