@@ -1,0 +1,4240 @@
+constructorStandingsId,raceId,constructorId,name,nationality,points,position,positionText,wins
+4044,1,2,BMW Sauber,German,0,7,7,0
+4041,1,3,Williams,British,3,4,4,0
+4040,1,4,Renault,French,4,3,3,0
+4042,1,5,Toro Rosso,Italian,3,5,5,0
+4046,1,6,Ferrari,Italian,0,9,9,0
+4039,1,7,Toyota,Japanese,11,2,2,0
+4045,1,9,Red Bull,Austrian,0,8,8,0
+4043,1,10,Force India,Indian,0,6,6,0
+4038,1,23,Brawn,British,18,1,1,1
+8533,2,1,McLaren,British,1,8,8,0
+8539,2,2,BMW Sauber,German,4,3,3,0
+8536,2,3,Williams,British,3.5,5,5,0
+8535,2,4,Renault,French,4,4,4,0
+8537,2,5,Toro Rosso,Italian,3,6,6,0
+8541,2,6,Ferrari,Italian,0,10,10,0
+8534,2,7,Toyota,Japanese,16.5,2,2,0
+8540,2,9,Red Bull,Austrian,1.5,7,7,0
+8538,2,10,Force India,Indian,0,9,9,0
+8532,2,23,Brawn,British,25,1,1,2
+8563,3,1,McLaren,British,8,4,4,0
+8569,3,2,BMW Sauber,German,4,5,5,0
+8566,3,3,Williams,British,3.5,8,8,0
+8565,3,4,Renault,French,4,6,6,0
+8567,3,5,Toro Rosso,Italian,4,7,7,0
+8571,3,6,Ferrari,Italian,0,9,9,0
+8564,3,7,Toyota,Japanese,18.5,3,3,0
+8570,3,9,Red Bull,Austrian,19.5,2,2,1
+8568,3,10,Force India,Indian,0,10,10,0
+8562,3,23,Brawn,British,36,1,1,2
+8583,4,1,McLaren,British,13,4,4,0
+8589,4,2,BMW Sauber,German,4,6,6,0
+8586,4,3,Williams,British,3.5,8,8,0
+8585,4,4,Renault,French,5,5,5,0
+8587,4,5,Toro Rosso,Italian,4,7,7,0
+8591,4,6,Ferrari,Italian,3,9,9,0
+8584,4,7,Toyota,Japanese,26.5,3,3,0
+8590,4,9,Red Bull,Austrian,27.5,2,2,1
+8588,4,10,Force India,Indian,0,10,10,0
+8582,4,23,Brawn,British,50,1,1,3
+8593,5,1,McLaren,British,13,4,4,0
+8599,5,2,BMW Sauber,German,6,6,6,0
+8596,5,3,Williams,British,4.5,8,8,0
+8595,5,4,Renault,French,9,5,5,0
+8597,5,5,Toro Rosso,Italian,4,9,9,0
+8601,5,6,Ferrari,Italian,6,7,7,0
+8594,5,7,Toyota,Japanese,26.5,3,3,0
+8600,5,9,Red Bull,Austrian,38.5,2,2,1
+8598,5,10,Force India,Indian,0,10,10,0
+8592,5,23,Brawn,British,68,1,1,4
+8673,6,1,McLaren,British,13,5,5,0
+8679,6,2,BMW Sauber,German,6,8,8,0
+8676,6,3,Williams,British,7.5,7,7,0
+8675,6,4,Renault,French,11,6,6,0
+8677,6,5,Toro Rosso,Italian,5,9,9,0
+8681,6,6,Ferrari,Italian,17,4,4,0
+8674,6,7,Toyota,Japanese,26.5,3,3,0
+8680,6,9,Red Bull,Austrian,42.5,2,2,1
+8678,6,10,Force India,Indian,0,10,10,0
+8672,6,23,Brawn,British,86,1,1,5
+8643,7,1,McLaren,British,13,5,5,0
+8649,7,2,BMW Sauber,German,8,8,8,0
+8646,7,3,Williams,British,11.5,6,6,0
+8645,7,4,Renault,French,11,7,7,0
+8647,7,5,Toro Rosso,Italian,5,9,9,0
+8651,7,6,Ferrari,Italian,20,4,4,0
+8644,7,7,Toyota,Japanese,32.5,3,3,0
+8650,7,9,Red Bull,Austrian,56.5,2,2,1
+8648,7,10,Force India,Indian,0,10,10,0
+8642,7,23,Brawn,British,96,1,1,6
+8663,8,1,McLaren,British,13,6,6,0
+8669,8,2,BMW Sauber,German,8,8,8,0
+8666,8,3,Williams,British,15.5,5,5,0
+8665,8,4,Renault,French,11,7,7,0
+8667,8,5,Toro Rosso,Italian,5,9,9,0
+8671,8,6,Ferrari,Italian,26,4,4,0
+8664,8,7,Toyota,Japanese,34.5,3,3,0
+8670,8,9,Red Bull,Austrian,74.5,2,2,2
+8668,8,10,Force India,Indian,0,10,10,0
+8662,8,23,Brawn,British,105,1,1,6
+8683,9,1,McLaren,British,14,6,6,0
+8689,9,2,BMW Sauber,German,8,8,8,0
+8686,9,3,Williams,British,20.5,5,5,0
+8685,9,4,Renault,French,13,7,7,0
+8687,9,5,Toro Rosso,Italian,5,9,9,0
+8691,9,6,Ferrari,Italian,32,4,4,0
+8684,9,7,Toyota,Japanese,34.5,3,3,0
+8690,9,9,Red Bull,Austrian,92.5,2,2,3
+8688,9,10,Force India,Indian,0,10,10,0
+8682,9,23,Brawn,British,112,1,1,6
+8693,10,1,McLaren,British,28,5,5,1
+8699,10,2,BMW Sauber,German,8,8,8,0
+8696,10,3,Williams,British,25.5,6,6,0
+8695,10,4,Renault,French,13,7,7,0
+8697,10,5,Toro Rosso,Italian,5,9,9,0
+8701,10,6,Ferrari,Italian,40,3,3,0
+8694,10,7,Toyota,Japanese,38.5,4,4,0
+8700,10,9,Red Bull,Austrian,98.5,2,2,3
+8698,10,10,Force India,Indian,0,10,10,0
+8692,10,23,Brawn,British,114,1,1,6
+8703,11,1,McLaren,British,41,4,4,1
+8709,11,2,BMW Sauber,German,9,8,8,0
+8706,11,3,Williams,British,29.5,6,6,0
+8705,11,4,Renault,French,16,7,7,0
+8707,11,5,Toro Rosso,Italian,5,9,9,0
+8711,11,6,Ferrari,Italian,46,3,3,0
+8704,11,7,Toyota,Japanese,38.5,5,5,0
+8710,11,9,Red Bull,Austrian,98.5,2,2,3
+8708,11,10,Force India,Indian,0,10,10,0
+8702,11,23,Brawn,British,126,1,1,7
+8713,12,1,McLaren,British,44,4,4,1
+8719,12,2,BMW Sauber,German,18,7,7,0
+8716,12,3,Williams,British,30.5,6,6,0
+8715,12,4,Renault,French,16,8,8,0
+8717,12,5,Toro Rosso,Italian,5,10,10,0
+8721,12,6,Ferrari,Italian,56,3,3,1
+8714,12,7,Toyota,Japanese,38.5,5,5,0
+8720,12,9,Red Bull,Austrian,104.5,2,2,3
+8718,12,10,Force India,Indian,8,9,9,0
+8712,12,23,Brawn,British,128,1,1,7
+8723,13,1,McLaren,British,47,4,4,1
+8729,13,2,BMW Sauber,German,20,7,7,0
+8726,13,3,Williams,British,30.5,6,6,0
+8725,13,4,Renault,French,20,8,8,0
+8727,13,5,Toro Rosso,Italian,5,10,10,0
+8731,13,6,Ferrari,Italian,62,3,3,1
+8724,13,7,Toyota,Japanese,38.5,5,5,0
+8730,13,9,Red Bull,Austrian,105.5,2,2,3
+8728,13,10,Force India,Indian,13,9,9,0
+8722,13,23,Brawn,British,146,1,1,8
+8733,14,1,McLaren,British,59,4,4,2
+8739,14,2,BMW Sauber,German,21,8,8,0
+8736,14,3,Williams,British,30.5,6,6,0
+8735,14,4,Renault,French,26,7,7,0
+8737,14,5,Toro Rosso,Italian,5,10,10,0
+8741,14,6,Ferrari,Italian,62,3,3,1
+8734,14,7,Toyota,Japanese,46.5,5,5,0
+8740,14,9,Red Bull,Austrian,110.5,2,2,3
+8738,14,10,Force India,Indian,13,9,9,0
+8732,14,23,Brawn,British,153,1,1,8
+8753,15,1,McLaren,British,65,4,4,2
+8759,15,2,BMW Sauber,German,24,8,8,0
+8756,15,3,Williams,British,34.5,6,6,0
+8755,15,4,Renault,French,26,7,7,0
+8757,15,5,Toro Rosso,Italian,5,10,10,0
+8761,15,6,Ferrari,Italian,67,3,3,1
+8754,15,7,Toyota,Japanese,54.5,5,5,0
+8760,15,9,Red Bull,Austrian,120.5,2,2,4
+8758,15,10,Force India,Indian,13,9,9,0
+8752,15,23,Brawn,British,156,1,1,8
+8763,16,1,McLaren,British,71,3,3,2
+8769,16,2,BMW Sauber,German,32,7,7,0
+8766,16,3,Williams,British,34.5,6,6,0
+8765,16,4,Renault,French,26,8,8,0
+8767,16,5,Toro Rosso,Italian,7,10,10,0
+8771,16,6,Ferrari,Italian,70,4,4,1
+8764,16,7,Toyota,Japanese,54.5,5,5,0
+8770,16,9,Red Bull,Austrian,135.5,2,2,5
+8768,16,10,Force India,Indian,13,9,9,0
+8762,16,23,Brawn,British,161,1,1,8
+13919,17,1,McLaren,British,71,3,3,2
+13925,17,2,BMW Sauber,German,36,6,6,0
+13922,17,3,Williams,British,34.5,7,7,0
+13921,17,4,Renault,French,26,8,8,0
+13923,17,5,Toro Rosso,Italian,8,10,10,0
+13927,17,6,Ferrari,Italian,70,4,4,1
+13920,17,7,Toyota,Japanese,59.5,5,5,0
+13926,17,9,Red Bull,Austrian,153.5,2,2,6
+13924,17,10,Force India,Indian,13,9,9,0
+13918,17,23,Brawn,British,172,1,1,8
+1,18,1,McLaren,British,14,1,1,1
+2,18,2,BMW Sauber,German,8,3,3,0
+3,18,3,Williams,British,9,2,2,0
+4,18,4,Renault,French,5,4,4,0
+5,18,5,Toro Rosso,Italian,2,5,5,0
+6,18,6,Ferrari,Italian,1,6,6,0
+7,19,1,McLaren,British,24,1,1,1
+8,19,2,BMW Sauber,German,19,2,2,0
+9,19,3,Williams,British,9,4,4,0
+10,19,4,Renault,French,6,5,5,0
+11,19,5,Toro Rosso,Italian,2,8,8,0
+12,19,6,Ferrari,Italian,11,3,3,1
+13,19,7,Toyota,Japanese,5,6,6,0
+17,19,8,Super Aguri,Japanese,0,11,11,0
+14,19,9,Red Bull,Austrian,2,7,7,0
+16,19,10,Force India,Indian,0,10,10,0
+15,19,11,Honda,Japanese,0,9,9,0
+18,20,1,McLaren,British,28,3,3,1
+19,20,2,BMW Sauber,German,30,1,1,0
+20,20,3,Williams,British,10,4,4,0
+21,20,4,Renault,French,6,6,6,0
+22,20,5,Toro Rosso,Italian,2,8,8,0
+23,20,6,Ferrari,Italian,29,2,2,2
+24,20,7,Toyota,Japanese,8,5,5,0
+28,20,8,Super Aguri,Japanese,0,11,11,0
+25,20,9,Red Bull,Austrian,4,7,7,0
+27,20,10,Force India,Indian,0,10,10,0
+26,20,11,Honda,Japanese,0,9,9,0
+29,21,1,McLaren,British,34,3,3,1
+30,21,2,BMW Sauber,German,35,2,2,0
+31,21,3,Williams,British,12,4,4,0
+32,21,4,Renault,French,6,7,7,0
+33,21,5,Toro Rosso,Italian,2,9,9,0
+34,21,6,Ferrari,Italian,47,1,1,3
+35,21,7,Toyota,Japanese,9,5,5,0
+39,21,8,Super Aguri,Japanese,0,11,11,0
+36,21,9,Red Bull,Austrian,8,6,6,0
+38,21,10,Force India,Indian,0,10,10,0
+37,21,11,Honda,Japanese,3,8,8,0
+40,22,1,McLaren,British,42,3,3,1
+41,22,2,BMW Sauber,German,44,2,2,0
+42,22,3,Williams,British,13,4,4,0
+43,22,4,Renault,French,9,7,7,0
+44,22,5,Toro Rosso,Italian,2,9,9,0
+45,22,6,Ferrari,Italian,63,1,1,4
+46,22,7,Toyota,Japanese,9,6,6,0
+50,22,8,Super Aguri,Japanese,0,11,11,0
+47,22,9,Red Bull,Austrian,10,5,5,0
+49,22,10,Force India,Indian,0,10,10,0
+48,22,11,Honda,Japanese,3,8,8,0
+51,23,1,McLaren,British,53,2,2,2
+52,23,2,BMW Sauber,German,52,3,3,0
+53,23,3,Williams,British,15,4,4,0
+54,23,4,Renault,French,9,7,7,0
+55,23,5,Toro Rosso,Italian,6,8,8,0
+56,23,6,Ferrari,Italian,69,1,1,4
+57,23,7,Toyota,Japanese,9,6,6,0
+61,23,8,Super Aguri,Japanese,0,11,11,0
+58,23,9,Red Bull,Austrian,15,5,5,0
+60,23,10,Force India,Indian,0,10,10,0
+59,23,11,Honda,Japanese,6,9,9,0
+62,24,1,McLaren,British,53,3,3,2
+63,24,2,BMW Sauber,German,70,2,2,1
+64,24,3,Williams,British,15,6,6,0
+65,24,4,Renault,French,9,7,7,0
+66,24,5,Toro Rosso,Italian,7,9,9,0
+67,24,6,Ferrari,Italian,73,1,1,4
+68,24,7,Toyota,Japanese,17,5,5,0
+72,24,8,Super Aguri,Japanese,0,11,11,0
+69,24,9,Red Bull,Austrian,21,4,4,0
+71,24,10,Force India,Indian,0,10,10,0
+70,24,11,Honda,Japanese,8,8,8,0
+73,25,1,McLaren,British,58,3,3,2
+74,25,2,BMW Sauber,German,74,2,2,1
+75,25,3,Williams,British,15,6,6,0
+76,25,4,Renault,French,12,7,7,0
+77,25,5,Toro Rosso,Italian,7,9,9,0
+78,25,6,Ferrari,Italian,91,1,1,5
+79,25,7,Toyota,Japanese,23,5,5,0
+83,25,8,Super Aguri,Japanese,0,11,11,0
+80,25,9,Red Bull,Austrian,24,4,4,0
+82,25,10,Force India,Indian,0,10,10,0
+81,25,11,Honda,Japanese,8,8,8,0
+84,26,1,McLaren,British,72,3,3,3
+85,26,2,BMW Sauber,German,82,2,2,1
+86,26,3,Williams,British,16,6,6,0
+87,26,4,Renault,French,15,7,7,0
+88,26,5,Toro Rosso,Italian,7,9,9,0
+89,26,6,Ferrari,Italian,96,1,1,5
+90,26,7,Toyota,Japanese,25,4,4,0
+94,26,8,Super Aguri,Japanese,0,11,11,0
+91,26,9,Red Bull,Austrian,24,5,5,0
+93,26,10,Force India,Indian,0,10,10,0
+92,26,11,Honda,Japanese,14,8,8,0
+95,27,1,McLaren,British,86,3,3,4
+96,27,2,BMW Sauber,German,89,2,2,1
+97,27,3,Williams,British,16,7,7,0
+98,27,4,Renault,French,23,6,6,0
+99,27,5,Toro Rosso,Italian,8,9,9,0
+100,27,6,Ferrari,Italian,105,1,1,5
+101,27,7,Toyota,Japanese,25,4,4,0
+105,27,8,Super Aguri,Japanese,0,11,11,0
+102,27,9,Red Bull,Austrian,24,5,5,0
+104,27,10,Force India,Indian,0,10,10,0
+103,27,11,Honda,Japanese,14,8,8,0
+106,28,1,McLaren,British,100,2,2,5
+107,28,2,BMW Sauber,German,90,3,3,1
+108,28,3,Williams,British,16,7,7,0
+109,28,4,Renault,French,31,5,5,0
+110,28,5,Toro Rosso,Italian,8,9,9,0
+111,28,6,Ferrari,Italian,111,1,1,5
+112,28,7,Toyota,Japanese,35,4,4,0
+116,28,8,Super Aguri,Japanese,0,11,11,0
+113,28,9,Red Bull,Austrian,24,6,6,0
+115,28,10,Force India,Indian,0,10,10,0
+114,28,11,Honda,Japanese,14,8,8,0
+117,29,1,McLaren,British,113,2,2,5
+118,29,2,BMW Sauber,German,96,3,3,1
+119,29,3,Williams,British,17,7,7,0
+120,29,4,Renault,French,31,5,5,0
+121,29,5,Toro Rosso,Italian,11,9,9,0
+122,29,6,Ferrari,Italian,121,1,1,6
+123,29,7,Toyota,Japanese,41,4,4,0
+127,29,8,Super Aguri,Japanese,0,11,11,0
+124,29,9,Red Bull,Austrian,24,6,6,0
+126,29,10,Force India,Indian,0,10,10,0
+125,29,11,Honda,Japanese,14,8,8,0
+128,30,1,McLaren,British,119,2,2,5
+129,30,2,BMW Sauber,German,107,3,3,1
+130,30,3,Williams,British,17,7,7,0
+131,30,4,Renault,French,36,5,5,0
+132,30,5,Toro Rosso,Italian,17,8,8,0
+133,30,6,Ferrari,Italian,131,1,1,7
+134,30,7,Toyota,Japanese,41,4,4,0
+138,30,8,Super Aguri,Japanese,0,11,11,0
+135,30,9,Red Bull,Austrian,25,6,6,0
+137,30,10,Force India,Indian,0,10,10,0
+136,30,11,Honda,Japanese,14,9,9,0
+139,31,1,McLaren,British,129,2,2,5
+140,31,2,BMW Sauber,German,117,3,3,1
+141,31,3,Williams,British,17,8,8,0
+142,31,4,Renault,French,41,5,5,0
+143,31,5,Toro Rosso,Italian,27,6,6,1
+144,31,6,Ferrari,Italian,134,1,1,7
+145,31,7,Toyota,Japanese,41,4,4,0
+149,31,8,Super Aguri,Japanese,0,11,11,0
+146,31,9,Red Bull,Austrian,26,7,7,0
+148,31,10,Force India,Indian,0,10,10,0
+147,31,11,Honda,Japanese,14,9,9,0
+150,32,1,McLaren,British,135,1,1,5
+151,32,2,BMW Sauber,German,120,3,3,1
+152,32,3,Williams,British,26,8,8,0
+153,32,4,Renault,French,51,4,4,1
+154,32,5,Toro Rosso,Italian,31,6,6,1
+155,32,6,Ferrari,Italian,134,2,2,7
+156,32,7,Toyota,Japanese,46,5,5,0
+160,32,8,Super Aguri,Japanese,0,11,11,0
+157,32,9,Red Bull,Austrian,28,7,7,0
+159,32,10,Force India,Indian,0,10,10,0
+158,32,11,Honda,Japanese,14,9,9,0
+161,33,1,McLaren,British,135,2,2,5
+162,33,2,BMW Sauber,German,128,3,3,1
+163,33,3,Williams,British,26,8,8,0
+164,33,4,Renault,French,66,4,4,2
+165,33,5,Toro Rosso,Italian,34,6,6,1
+166,33,6,Ferrari,Italian,142,1,1,7
+167,33,7,Toyota,Japanese,50,5,5,0
+171,33,8,Super Aguri,Japanese,0,11,11,0
+168,33,9,Red Bull,Austrian,29,7,7,0
+170,33,10,Force India,Indian,0,10,10,0
+169,33,11,Honda,Japanese,14,9,9,0
+1633,34,1,McLaren,British,145,2,2,6
+1634,34,2,BMW Sauber,German,135,3,3,1
+1635,34,3,Williams,British,26,8,8,0
+1636,34,4,Renault,French,72,4,4,2
+1637,34,5,Toro Rosso,Italian,34,6,6,1
+1638,34,6,Ferrari,Italian,156,1,1,7
+1639,34,7,Toyota,Japanese,52,5,5,0
+1643,34,8,Super Aguri,Japanese,0,11,11,0
+1640,34,9,Red Bull,Austrian,29,7,7,0
+1642,34,10,Force India,Indian,0,10,10,0
+1641,34,11,Honda,Japanese,14,9,9,0
+183,35,1,McLaren,British,151,2,2,6
+184,35,2,BMW Sauber,German,135,3,3,1
+185,35,3,Williams,British,26,8,8,0
+186,35,4,Renault,French,80,4,4,2
+187,35,5,Toro Rosso,Italian,39,6,6,1
+188,35,6,Ferrari,Italian,172,1,1,8
+189,35,7,Toyota,Japanese,56,5,5,0
+193,35,8,Super Aguri,Japanese,0,11,11,0
+190,35,9,Red Bull,Austrian,29,7,7,0
+192,35,10,Force India,Indian,0,10,10,0
+191,35,11,Honda,Japanese,14,9,9,0
+25734,36,1,McLaren,British,14,11,E,0
+25735,36,2,BMW Sauber,German,5,2,2,0
+25737,36,3,Williams,British,2,4,4,0
+25736,36,4,Renault,French,4,3,3,0
+25742,36,5,Toro Rosso,Italian,0,9,9,0
+25733,36,6,Ferrari,Italian,13,1,1,1
+25738,36,7,Toyota,Japanese,1,5,5,0
+25740,36,8,Super Aguri,Japanese,0,7,7,0
+25741,36,9,Red Bull,Austrian,0,8,8,0
+25739,36,11,Honda,Japanese,0,6,6,0
+25743,36,12,Spyker,Dutch,0,10,10,0
+25745,37,1,McLaren,British,32,11,E,1
+25746,37,2,BMW Sauber,German,10,2,2,0
+25748,37,3,Williams,British,2,5,5,0
+25747,37,4,Renault,French,8,3,3,0
+25753,37,5,Toro Rosso,Italian,0,9,9,0
+25744,37,6,Ferrari,Italian,23,1,1,1
+25749,37,7,Toyota,Japanese,3,4,4,0
+25751,37,8,Super Aguri,Japanese,0,8,8,0
+25752,37,9,Red Bull,Austrian,0,6,6,0
+25750,37,11,Honda,Japanese,0,7,7,0
+25754,37,12,Spyker,Dutch,0,10,10,0
+25756,38,1,McLaren,British,44,11,E,1
+25757,38,2,BMW Sauber,German,18,2,2,0
+25759,38,3,Williams,British,2,5,5,0
+25758,38,4,Renault,French,9,3,3,0
+25764,38,5,Toro Rosso,Italian,0,9,9,0
+25755,38,6,Ferrari,Italian,39,1,1,2
+25760,38,7,Toyota,Japanese,5,4,4,0
+25762,38,8,Super Aguri,Japanese,0,8,8,0
+25763,38,9,Red Bull,Austrian,0,6,6,0
+25761,38,11,Honda,Japanese,0,7,7,0
+25765,38,12,Spyker,Dutch,0,10,10,0
+25767,39,1,McLaren,British,58,11,E,1
+25768,39,2,BMW Sauber,German,23,2,2,0
+25770,39,3,Williams,British,5,4,4,0
+25769,39,4,Renault,French,11,3,3,0
+25775,39,5,Toro Rosso,Italian,0,10,10,0
+25766,39,6,Ferrari,Italian,49,1,1,3
+25771,39,7,Toyota,Japanese,5,5,5,0
+25773,39,8,Super Aguri,Japanese,1,7,7,0
+25774,39,9,Red Bull,Austrian,4,6,6,0
+25772,39,11,Honda,Japanese,0,8,8,0
+25776,39,12,Spyker,Dutch,0,9,9,0
+25778,40,1,McLaren,British,76,11,E,2
+25779,40,2,BMW Sauber,German,30,2,2,0
+25781,40,3,Williams,British,7,4,4,0
+25780,40,4,Renault,French,16,3,3,0
+25786,40,5,Toro Rosso,Italian,0,8,8,0
+25777,40,6,Ferrari,Italian,56,1,1,3
+25782,40,7,Toyota,Japanese,5,5,5,0
+25784,40,8,Super Aguri,Japanese,1,7,7,0
+25785,40,9,Red Bull,Austrian,4,6,6,0
+25783,40,11,Honda,Japanese,0,9,9,0
+25787,40,12,Spyker,Dutch,0,10,10,0
+25789,41,1,McLaren,British,88,11,E,3
+25790,41,2,BMW Sauber,German,38,2,2,0
+25792,41,3,Williams,British,13,4,4,0
+25791,41,4,Renault,French,21,3,3,0
+25797,41,5,Toro Rosso,Italian,0,8,8,0
+25788,41,6,Ferrari,Italian,60,1,1,3
+25793,41,7,Toyota,Japanese,6,5,5,0
+25795,41,8,Super Aguri,Japanese,4,7,7,0
+25796,41,9,Red Bull,Austrian,4,6,6,0
+25794,41,11,Honda,Japanese,0,9,9,0
+25798,41,12,Spyker,Dutch,0,10,10,0
+25800,42,1,McLaren,British,106,11,E,4
+25801,42,2,BMW Sauber,German,39,2,2,0
+25803,42,3,Williams,British,13,4,4,0
+25802,42,4,Renault,French,25,3,3,0
+25808,42,5,Toro Rosso,Italian,0,8,8,0
+25799,42,6,Ferrari,Italian,71,1,1,3
+25804,42,7,Toyota,Japanese,9,5,5,0
+25806,42,8,Super Aguri,Japanese,4,7,7,0
+25807,42,9,Red Bull,Austrian,6,6,6,0
+25805,42,11,Honda,Japanese,0,9,9,0
+25809,42,12,Spyker,Dutch,0,10,10,0
+25811,43,1,McLaren,British,114,11,E,4
+25812,43,2,BMW Sauber,German,48,2,2,0
+25814,43,3,Williams,British,13,4,4,0
+25813,43,4,Renault,French,28,3,3,0
+25819,43,5,Toro Rosso,Italian,0,9,9,0
+25810,43,6,Ferrari,Italian,89,1,1,4
+25815,43,7,Toyota,Japanese,9,5,5,0
+25817,43,8,Super Aguri,Japanese,4,7,7,0
+25818,43,9,Red Bull,Austrian,6,6,6,0
+25816,43,11,Honda,Japanese,1,8,8,0
+25820,43,12,Spyker,Dutch,0,10,10,0
+25822,44,1,McLaren,British,128,11,E,5
+25823,44,2,BMW Sauber,German,56,2,2,0
+25825,44,3,Williams,British,13,4,4,0
+25824,44,4,Renault,French,31,3,3,0
+25830,44,5,Toro Rosso,Italian,0,9,9,0
+25821,44,6,Ferrari,Italian,103,1,1,5
+25826,44,7,Toyota,Japanese,9,5,5,0
+25828,44,8,Super Aguri,Japanese,4,7,7,0
+25829,44,9,Red Bull,Austrian,6,6,6,0
+25827,44,11,Honda,Japanese,1,8,8,0
+25831,44,12,Spyker,Dutch,0,10,10,0
+25833,45,1,McLaren,British,138,11,E,5
+25834,45,2,BMW Sauber,German,61,2,2,0
+25836,45,3,Williams,British,18,4,4,0
+25835,45,4,Renault,French,32,3,3,0
+25841,45,5,Toro Rosso,Italian,0,9,9,0
+25832,45,6,Ferrari,Italian,111,1,1,5
+25837,45,7,Toyota,Japanese,9,6,6,0
+25839,45,8,Super Aguri,Japanese,4,7,7,0
+25840,45,9,Red Bull,Austrian,16,5,5,0
+25838,45,11,Honda,Japanese,1,8,8,0
+25842,45,12,Spyker,Dutch,0,10,10,0
+25844,46,1,McLaren,British,138,11,E,6
+25845,46,2,BMW Sauber,German,71,2,2,0
+25847,46,3,Williams,British,20,4,4,0
+25846,46,4,Renault,French,33,3,3,0
+25852,46,5,Toro Rosso,Italian,0,9,9,0
+25843,46,6,Ferrari,Italian,119,1,1,5
+25848,46,7,Toyota,Japanese,12,6,6,0
+25850,46,8,Super Aguri,Japanese,4,7,7,0
+25851,46,9,Red Bull,Austrian,16,5,5,0
+25849,46,11,Honda,Japanese,1,8,8,0
+25853,46,12,Spyker,Dutch,0,10,10,0
+25855,47,1,McLaren,British,148,11,E,6
+25856,47,2,BMW Sauber,German,77,2,2,0
+25858,47,3,Williams,British,22,4,4,0
+25857,47,4,Renault,French,36,3,3,0
+25863,47,5,Toro Rosso,Italian,0,9,9,0
+25854,47,6,Ferrari,Italian,137,1,1,6
+25859,47,7,Toyota,Japanese,12,6,6,0
+25861,47,8,Super Aguri,Japanese,4,7,7,0
+25862,47,9,Red Bull,Austrian,16,5,5,0
+25860,47,11,Honda,Japanese,1,8,8,0
+25864,47,12,Spyker,Dutch,0,10,10,0
+25866,48,1,McLaren,British,166,11,E,7
+25867,48,2,BMW Sauber,German,86,2,2,0
+25869,48,3,Williams,British,25,4,4,0
+25868,48,4,Renault,French,38,3,3,0
+25874,48,5,Toro Rosso,Italian,0,9,9,0
+25865,48,6,Ferrari,Italian,143,1,1,6
+25870,48,7,Toyota,Japanese,12,6,6,0
+25872,48,8,Super Aguri,Japanese,4,7,7,0
+25873,48,9,Red Bull,Austrian,16,5,5,0
+25871,48,11,Honda,Japanese,2,8,8,0
+25875,48,12,Spyker,Dutch,0,10,10,0
+25877,49,1,McLaren,British,192,11,E,7
+25878,49,2,BMW Sauber,German,90,2,2,0
+25880,49,3,Williams,British,28,4,4,0
+25879,49,4,Renault,French,39,3,3,0
+25885,49,5,Toro Rosso,Italian,0,9,9,0
+25876,49,6,Ferrari,Italian,161,1,1,7
+25881,49,7,Toyota,Japanese,12,6,6,0
+25883,49,8,Super Aguri,Japanese,4,7,7,0
+25884,49,9,Red Bull,Austrian,18,5,5,0
+25882,49,11,Honda,Japanese,2,8,8,0
+25886,49,12,Spyker,Dutch,0,10,10,0
+25888,50,1,McLaren,British,202,11,E,8
+25889,50,2,BMW Sauber,German,92,2,2,0
+25891,50,3,Williams,British,28,4,4,0
+25890,50,4,Renault,French,51,3,3,0
+25896,50,5,Toro Rosso,Italian,0,10,10,0
+25887,50,6,Ferrari,Italian,170,1,1,7
+25892,50,7,Toyota,Japanese,12,6,6,0
+25894,50,8,Super Aguri,Japanese,4,7,7,0
+25895,50,9,Red Bull,Austrian,23,5,5,0
+25893,50,11,Honda,Japanese,2,8,8,0
+25897,50,12,Spyker,Dutch,1,9,9,0
+25899,51,1,McLaren,British,210,11,E,8
+25900,51,2,BMW Sauber,German,94,2,2,0
+25902,51,3,Williams,British,28,4,4,0
+25901,51,4,Renault,French,51,3,3,0
+25907,51,5,Toro Rosso,Italian,8,7,7,0
+25898,51,6,Ferrari,Italian,186,1,1,8
+25903,51,7,Toyota,Japanese,12,6,6,0
+25905,51,8,Super Aguri,Japanese,4,9,9,0
+25906,51,9,Red Bull,Austrian,24,5,5,0
+25904,51,11,Honda,Japanese,6,8,8,0
+25908,51,12,Spyker,Dutch,1,10,10,0
+25910,52,1,McLaren,British,118,11,E,8
+25911,52,2,BMW Sauber,German,101,2,2,0
+25913,52,3,Williams,British,33,4,4,0
+25912,52,4,Renault,French,51,3,3,0
+25918,52,5,Toro Rosso,Italian,8,7,7,0
+25909,52,6,Ferrari,Italian,204,1,1,9
+25914,52,7,Toyota,Japanese,13,6,6,0
+25916,52,8,Super Aguri,Japanese,4,9,9,0
+25917,52,9,Red Bull,Austrian,24,5,5,0
+25915,52,11,Honda,Japanese,6,8,8,0
+25919,52,12,Spyker,Dutch,1,10,10,0
+6319,53,1,McLaren,British,10,2,2,0
+6324,53,2,BMW Sauber,German,0,8,8,0
+6321,53,3,Williams,British,5,5,5,0
+6317,53,4,Renault,French,10,1,1,1
+6323,53,5,Toro Rosso,Italian,0,7,7,0
+6318,53,6,Ferrari,Italian,8,3,3,0
+6325,53,7,Toyota,Japanese,0,9,9,0
+6327,53,8,Super Aguri,Japanese,0,11,11,0
+6322,53,9,Red Bull,Austrian,1,6,6,0
+6320,53,11,Honda,Japanese,5,4,4,0
+6326,53,13,MF1,Russian,0,10,10,0
+6330,54,1,McLaren,British,15,3,3,0
+6335,54,2,BMW Sauber,German,2,6,6,0
+6332,54,3,Williams,British,5,5,5,0
+6328,54,4,Renault,French,28,1,1,2
+6334,54,5,Toro Rosso,Italian,0,9,9,0
+6329,54,6,Ferrari,Italian,15,2,2,0
+6336,54,7,Toyota,Japanese,1,7,7,0
+6338,54,8,Super Aguri,Japanese,0,11,11,0
+6333,54,9,Red Bull,Austrian,1,8,8,0
+6331,54,11,Honda,Japanese,11,4,4,0
+6337,54,13,MF1,Russian,0,10,10,0
+6341,55,1,McLaren,British,23,2,2,0
+6346,55,2,BMW Sauber,German,10,5,5,0
+6343,55,3,Williams,British,5,7,7,0
+6339,55,4,Renault,French,42,1,1,3
+6345,55,5,Toro Rosso,Italian,0,9,9,0
+6340,55,6,Ferrari,Italian,15,3,3,0
+6347,55,7,Toyota,Japanese,7,6,6,0
+6349,55,8,Super Aguri,Japanese,0,11,11,0
+6344,55,9,Red Bull,Austrian,2,8,8,0
+6342,55,11,Honda,Japanese,13,4,4,0
+6348,55,13,MF1,Russian,0,10,10,0
+6352,56,1,McLaren,British,33,2,2,0
+6357,56,2,BMW Sauber,German,10,5,5,0
+6354,56,3,Williams,British,8,6,6,0
+6350,56,4,Renault,French,51,1,1,3
+6356,56,5,Toro Rosso,Italian,0,9,9,0
+6351,56,6,Ferrari,Italian,30,3,3,1
+6358,56,7,Toyota,Japanese,7,7,7,0
+6360,56,8,Super Aguri,Japanese,0,11,11,0
+6355,56,9,Red Bull,Austrian,2,8,8,0
+6353,56,11,Honda,Japanese,15,4,4,0
+6359,56,13,MF1,Russian,0,10,10,0
+6363,57,1,McLaren,British,38,3,3,0
+6368,57,2,BMW Sauber,German,11,5,5,0
+6365,57,3,Williams,British,10,6,6,0
+6361,57,4,Renault,French,62,1,1,3
+6367,57,5,Toro Rosso,Italian,0,9,9,0
+6362,57,6,Ferrari,Italian,46,2,2,2
+6369,57,7,Toyota,Japanese,7,7,7,0
+6371,57,8,Super Aguri,Japanese,0,11,11,0
+6366,57,9,Red Bull,Austrian,2,8,8,0
+6364,57,11,Honda,Japanese,19,4,4,0
+6370,57,13,MF1,Russian,0,10,10,0
+6374,58,1,McLaren,British,42,3,3,0
+6379,58,2,BMW Sauber,German,12,5,5,0
+6376,58,3,Williams,British,10,6,6,0
+6372,58,4,Renault,French,78,1,1,4
+6378,58,5,Toro Rosso,Italian,0,9,9,0
+6373,58,6,Ferrari,Italian,59,2,2,2
+6380,58,7,Toyota,Japanese,7,7,7,0
+6382,58,8,Super Aguri,Japanese,0,11,11,0
+6377,58,9,Red Bull,Austrian,2,8,8,0
+6375,58,11,Honda,Japanese,24,4,4,0
+6381,58,13,MF1,Russian,0,10,10,0
+6385,59,1,McLaren,British,50,3,3,0
+6390,59,2,BMW Sauber,German,14,5,5,0
+6387,59,3,Williams,British,10,6,6,0
+6383,59,4,Renault,French,91,1,1,5
+6389,59,5,Toro Rosso,Italian,0,9,9,0
+6384,59,6,Ferrari,Italian,63,2,2,2
+6391,59,7,Toyota,Japanese,8,7,7,0
+6393,59,8,Super Aguri,Japanese,0,11,11,0
+6388,59,9,Red Bull,Austrian,8,8,8,0
+6386,59,11,Honda,Japanese,29,4,4,0
+6392,59,13,MF1,Russian,0,10,10,0
+6396,60,1,McLaren,British,59,3,3,0
+6401,60,2,BMW Sauber,German,17,5,5,0
+6398,60,3,Williams,British,10,6,6,0
+6394,60,4,Renault,French,106,1,1,6
+6400,60,5,Toro Rosso,Italian,0,9,9,0
+6395,60,6,Ferrari,Italian,75,2,2,2
+6402,60,7,Toyota,Japanese,8,7,7,0
+6404,60,8,Super Aguri,Japanese,0,11,11,0
+6399,60,9,Red Bull,Austrian,8,8,8,0
+6397,60,11,Honda,Japanese,29,4,4,0
+6403,60,13,MF1,Russian,0,10,10,0
+6407,61,1,McLaren,British,65,3,3,0
+6412,61,2,BMW Sauber,German,19,5,5,0
+6409,61,3,Williams,British,10,7,7,0
+6405,61,4,Renault,French,121,1,1,7
+6411,61,5,Toro Rosso,Italian,0,9,9,0
+6406,61,6,Ferrari,Italian,87,2,2,2
+6413,61,7,Toyota,Japanese,11,6,6,0
+6415,61,8,Super Aguri,Japanese,0,11,11,0
+6410,61,9,Red Bull,Austrian,9,8,8,0
+6408,61,11,Honda,Japanese,29,4,4,0
+6414,61,13,MF1,Russian,0,10,10,0
+6418,62,1,McLaren,British,65,3,3,0
+6423,62,2,BMW Sauber,German,19,5,5,0
+6420,62,3,Williams,British,10,8,8,0
+6416,62,4,Renault,French,131,1,1,7
+6422,62,5,Toro Rosso,Italian,1,9,9,0
+6417,62,6,Ferrari,Italian,105,2,2,3
+6424,62,7,Toyota,Japanese,16,6,6,0
+6426,62,8,Super Aguri,Japanese,0,11,11,0
+6421,62,9,Red Bull,Austrian,11,7,7,0
+6419,62,11,Honda,Japanese,32,4,4,0
+6425,62,13,MF1,Russian,0,10,10,0
+6429,63,1,McLaren,British,71,3,3,0
+6434,63,2,BMW Sauber,German,20,6,6,0
+6431,63,3,Williams,British,10,8,8,0
+6427,63,4,Renault,French,142,1,1,7
+6433,63,5,Toro Rosso,Italian,1,9,9,0
+6428,63,6,Ferrari,Italian,121,2,2,4
+6435,63,7,Toyota,Japanese,21,5,5,0
+6437,63,8,Super Aguri,Japanese,0,11,11,0
+6432,63,9,Red Bull,Austrian,11,7,7,0
+6430,63,11,Honda,Japanese,32,4,4,0
+6436,63,13,MF1,Russian,0,10,10,0
+6440,64,1,McLaren,British,77,3,3,0
+6445,64,2,BMW Sauber,German,20,6,6,0
+6442,64,3,Williams,British,10,8,8,0
+6438,64,4,Renault,French,149,1,1,7
+6444,64,5,Toro Rosso,Italian,1,9,9,0
+6439,64,6,Ferrari,Italian,139,2,2,5
+6446,64,7,Toyota,Japanese,23,5,5,0
+6448,64,8,Super Aguri,Japanese,0,11,11,0
+6443,64,9,Red Bull,Austrian,12,7,7,0
+6441,64,11,Honda,Japanese,37,4,4,0
+6447,64,13,MF1,Russian,0,10,10,0
+6451,65,1,McLaren,British,85,3,3,0
+6456,65,2,BMW Sauber,German,26,6,6,0
+6453,65,3,Williams,British,10,8,8,0
+6449,65,4,Renault,French,149,1,1,7
+6455,65,5,Toro Rosso,Italian,1,9,9,0
+6450,65,6,Ferrari,Italian,142,2,2,5
+6457,65,7,Toyota,Japanese,26,5,5,0
+6459,65,8,Super Aguri,Japanese,0,11,11,0
+6454,65,9,Red Bull,Austrian,16,7,7,0
+6452,65,11,Honda,Japanese,52,4,4,1
+6458,65,13,MF1,Russian,0,10,10,0
+6462,66,1,McLaren,British,89,3,3,0
+6467,66,2,BMW Sauber,German,26,6,6,0
+6464,66,3,Williams,British,10,8,8,0
+6460,66,4,Renault,French,160,1,1,7
+6466,66,5,Toro Rosso,Italian,1,9,9,0
+6461,66,6,Ferrari,Italian,158,2,2,6
+6468,66,7,Toyota,Japanese,28,5,5,0
+6470,66,8,Super Aguri,Japanese,0,11,11,0
+6465,66,9,Red Bull,Austrian,16,7,7,0
+6463,66,11,Honda,Japanese,58,4,4,1
+6469,66,13,MF1,Russian,0,10,10,0
+6473,67,1,McLaren,British,97,3,3,0
+6478,67,2,BMW Sauber,German,33,5,5,0
+6475,67,3,Williams,British,10,8,8,0
+6471,67,4,Renault,French,165,2,2,7
+6477,67,5,Toro Rosso,Italian,1,9,9,0
+6472,67,6,Ferrari,Italian,168,1,1,7
+6479,67,7,Toyota,Japanese,30,6,6,0
+6481,67,8,Super Aguri,Japanese,0,11,11,0
+6476,67,9,Red Bull,Austrian,16,7,7,0
+6474,67,11,Honda,Japanese,65,4,4,1
+6480,67,13,MF1,Russian,0,10,10,0
+6482,67,14,Spyker MF1,Dutch,0,12,12,0
+6485,68,1,McLaren,British,101,3,3,0
+6490,68,2,BMW Sauber,German,35,5,5,0
+6487,68,3,Williams,British,11,8,8,0
+6483,68,4,Renault,French,179,1,1,7
+6489,68,5,Toro Rosso,Italian,1,9,9,0
+6484,68,6,Ferrari,Italian,178,2,2,8
+6491,68,7,Toyota,Japanese,30,6,6,0
+6493,68,8,Super Aguri,Japanese,0,11,11,0
+6488,68,9,Red Bull,Austrian,16,7,7,0
+6486,68,11,Honda,Japanese,73,4,4,1
+6492,68,13,MF1,Russian,0,10,10,0
+6494,68,14,Spyker MF1,Dutch,0,12,12,0
+6497,69,1,McLaren,British,105,3,3,0
+6502,69,2,BMW Sauber,German,36,5,5,0
+6499,69,3,Williams,British,11,8,8,0
+6495,69,4,Renault,French,195,1,1,8
+6501,69,5,Toro Rosso,Italian,1,9,9,0
+6496,69,6,Ferrari,Italian,186,2,2,8
+6503,69,7,Toyota,Japanese,35,6,6,0
+6505,69,8,Super Aguri,Japanese,0,11,11,0
+6500,69,9,Red Bull,Austrian,16,7,7,0
+6498,69,11,Honda,Japanese,78,4,4,1
+6504,69,13,MF1,Russian,0,10,10,0
+6506,69,14,Spyker MF1,Dutch,0,12,12,0
+6509,70,1,McLaren,British,110,3,3,0
+6514,70,2,BMW Sauber,German,36,5,5,0
+6511,70,3,Williams,British,11,8,8,0
+6507,70,4,Renault,French,206,1,1,8
+6513,70,5,Toro Rosso,Italian,1,9,9,0
+6508,70,6,Ferrari,Italian,201,2,2,9
+6515,70,7,Toyota,Japanese,35,6,6,0
+6517,70,8,Super Aguri,Japanese,0,11,11,0
+6512,70,9,Red Bull,Austrian,16,7,7,0
+6510,70,11,Honda,Japanese,86,4,4,1
+6516,70,13,MF1,Russian,0,10,10,0
+6518,70,14,Spyker MF1,Dutch,0,12,12,0
+571,71,1,McLaren,British,4,5,5,0
+570,71,3,Williams,British,4,4,4,0
+567,71,4,Renault,French,16,1,1,1
+568,71,6,Ferrari,Italian,8,2,2,0
+572,71,7,Toyota,Japanese,0,6,6,0
+569,71,9,Red Bull,Austrian,7,3,3,0
+573,71,15,Sauber,Swiss,0,7,7,0
+574,71,17,Jordan,Irish,0,8,8,0
+575,71,18,Minardi,Italian,0,9,9,0
+580,72,1,McLaren,British,9,6,6,0
+579,72,3,Williams,British,10,5,5,0
+576,72,4,Renault,French,26,1,1,2
+577,72,6,Ferrari,Italian,10,4,4,0
+581,72,7,Toyota,Japanese,12,2,2,0
+578,72,9,Red Bull,Austrian,11,3,3,0
+582,72,15,Sauber,Swiss,0,7,7,0
+583,72,17,Jordan,Irish,0,8,8,0
+584,72,18,Minardi,Italian,0,9,9,0
+1804,73,1,McLaren,British,19,3,3,0
+1803,73,3,Williams,British,13,4,4,0
+1800,73,4,Renault,French,36,1,1,3
+1801,73,6,Ferrari,Italian,10,6,6,0
+1805,73,7,Toyota,Japanese,25,2,2,0
+1802,73,9,Red Bull,Austrian,12,5,5,0
+1806,73,15,Sauber,Swiss,2,7,7,0
+1807,73,17,Jordan,Irish,0,8,8,0
+1808,73,18,Minardi,Italian,0,9,9,0
+1813,74,1,McLaren,British,25,3,3,0
+1812,74,3,Williams,British,18,5,5,0
+1809,74,4,Renault,French,46,1,1,4
+1810,74,6,Ferrari,Italian,18,4,4,0
+1814,74,7,Toyota,Japanese,29,2,2,0
+1811,74,9,Red Bull,Austrian,13,6,6,0
+1815,74,15,Sauber,Swiss,7,7,7,0
+1816,74,17,Jordan,Irish,0,8,8,0
+1817,74,18,Minardi,Italian,0,9,9,0
+24512,75,1,McLaren,British,37,3,3,1
+24511,75,3,Williams,British,21,4,4,0
+24508,75,4,Renault,French,58,1,1,4
+24509,75,6,Ferrari,Italian,18,5,5,0
+24513,75,7,Toyota,Japanese,40,2,2,0
+24510,75,9,Red Bull,Austrian,14,6,6,0
+24514,75,15,Sauber,Swiss,7,7,7,0
+24515,75,16,BAR,British,0,10,10,0
+24516,75,17,Jordan,Irish,0,8,8,0
+24517,75,18,Minardi,Italian,0,9,9,0
+616,76,1,McLaren,British,51,2,2,2
+615,76,3,Williams,British,35,4,4,0
+612,76,4,Renault,French,63,1,1,4
+613,76,6,Ferrari,Italian,21,5,5,0
+617,76,7,Toyota,Japanese,43,3,3,0
+614,76,9,Red Bull,Austrian,14,6,6,0
+618,76,15,Sauber,Swiss,7,7,7,0
+619,76,17,Jordan,Irish,0,8,8,0
+620,76,18,Minardi,Italian,0,9,9,0
+625,77,1,McLaren,British,53,2,2,2
+624,77,3,Williams,British,43,4,4,0
+621,77,4,Renault,French,76,1,1,5
+622,77,6,Ferrari,Italian,31,5,5,0
+626,77,7,Toyota,Japanese,44,3,3,0
+623,77,9,Red Bull,Austrian,19,6,6,0
+627,77,15,Sauber,Swiss,7,7,7,0
+630,77,16,BAR,British,0,9,9,0
+628,77,17,Jordan,Irish,0,8,8,0
+629,77,18,Minardi,Italian,0,10,10,0
+1822,78,1,McLaren,British,63,2,2,3
+1821,78,3,Williams,British,47,3,3,0
+1818,78,4,Renault,French,76,1,1,5
+1819,78,6,Ferrari,Italian,45,5,5,0
+1823,78,7,Toyota,Japanese,47,4,4,0
+1820,78,9,Red Bull,Austrian,22,6,6,0
+1824,78,15,Sauber,Swiss,12,7,7,0
+1827,78,16,BAR,British,0,9,9,0
+1825,78,17,Jordan,Irish,0,8,8,0
+1826,78,18,Minardi,Italian,0,10,10,0
+1667,79,1,McLaren,British,63,2,2,3
+1666,79,3,Williams,British,47,4,4,0
+1663,79,4,Renault,French,76,1,1,5
+1664,79,6,Ferrari,Italian,63,3,3,1
+1668,79,7,Toyota,Japanese,47,5,5,0
+1665,79,9,Red Bull,Austrian,22,6,6,0
+1669,79,15,Sauber,Swiss,12,7,7,0
+1672,79,16,BAR,British,0,10,10,0
+1670,79,17,Jordan,Irish,11,8,8,0
+1671,79,18,Minardi,Italian,7,9,9,0
+655,80,1,McLaren,British,71,2,2,3
+654,80,3,Williams,British,47,5,5,0
+651,80,4,Renault,French,89,1,1,6
+652,80,6,Ferrari,Italian,69,3,3,1
+656,80,7,Toyota,Japanese,53,4,4,0
+653,80,9,Red Bull,Austrian,22,6,6,0
+657,80,15,Sauber,Swiss,13,7,7,0
+660,80,16,BAR,British,5,10,10,0
+658,80,17,Jordan,Irish,11,8,8,0
+659,80,18,Minardi,Italian,7,9,9,0
+665,81,1,McLaren,British,87,2,2,4
+664,81,3,Williams,British,47,5,5,0
+661,81,4,Renault,French,102,1,1,6
+662,81,6,Ferrari,Italian,74,3,3,1
+666,81,7,Toyota,Japanese,54,4,4,0
+663,81,9,Red Bull,Austrian,22,6,6,0
+667,81,15,Sauber,Swiss,13,7,7,0
+670,81,16,BAR,British,9,9,9,0
+668,81,17,Jordan,Irish,11,8,8,0
+669,81,18,Minardi,Italian,7,10,10,0
+675,82,1,McLaren,British,95,2,2,4
+674,82,3,Williams,British,47,5,5,0
+671,82,4,Renault,French,117,1,1,7
+672,82,6,Ferrari,Italian,78,3,3,1
+676,82,7,Toyota,Japanese,57,4,4,0
+673,82,9,Red Bull,Austrian,24,6,6,0
+677,82,15,Sauber,Swiss,14,8,8,0
+680,82,16,BAR,British,15,7,7,0
+678,82,17,Jordan,Irish,11,9,9,0
+679,82,18,Minardi,Italian,7,10,10,0
+685,83,1,McLaren,British,105,2,2,5
+684,83,3,Williams,British,52,5,5,0
+681,83,4,Renault,French,117,1,1,7
+682,83,6,Ferrari,Italian,86,3,3,1
+686,83,7,Toyota,Japanese,68,4,4,0
+683,83,9,Red Bull,Austrian,24,6,6,0
+687,83,15,Sauber,Swiss,14,8,8,0
+690,83,16,BAR,British,20,7,7,0
+688,83,17,Jordan,Irish,11,9,9,0
+689,83,18,Minardi,Italian,7,10,10,0
+695,84,1,McLaren,British,121,2,2,6
+694,84,3,Williams,British,52,5,5,0
+691,84,4,Renault,French,130,1,1,7
+692,84,6,Ferrari,Italian,86,3,3,1
+696,84,7,Toyota,Japanese,71,4,4,0
+693,84,9,Red Bull,Austrian,27,6,6,0
+697,84,15,Sauber,Swiss,14,8,8,0
+700,84,16,BAR,British,24,7,7,0
+698,84,17,Jordan,Irish,11,9,9,0
+699,84,18,Minardi,Italian,7,10,10,0
+705,85,1,McLaren,British,136,2,2,7
+704,85,3,Williams,British,54,5,5,0
+701,85,4,Renault,French,144,1,1,7
+702,85,6,Ferrari,Italian,86,3,3,1
+706,85,7,Toyota,Japanese,78,4,4,0
+703,85,9,Red Bull,Austrian,27,6,6,0
+707,85,15,Sauber,Swiss,14,8,8,0
+710,85,16,BAR,British,25,7,7,0
+708,85,17,Jordan,Irish,11,9,9,0
+709,85,18,Minardi,Italian,7,10,10,0
+715,86,1,McLaren,British,146,2,2,8
+714,86,3,Williams,British,59,5,5,0
+711,86,4,Renault,French,152,1,1,7
+712,86,6,Ferrari,Italian,90,3,3,1
+716,86,7,Toyota,Japanese,80,4,4,0
+713,86,9,Red Bull,Austrian,27,7,7,0
+717,86,15,Sauber,Swiss,17,8,8,0
+720,86,16,BAR,British,31,6,6,0
+718,86,17,Jordan,Irish,12,9,9,0
+719,86,18,Minardi,Italian,7,10,10,0
+725,87,1,McLaren,British,164,1,1,9
+724,87,3,Williams,British,59,5,5,0
+721,87,4,Renault,French,162,2,2,7
+722,87,6,Ferrari,Italian,98,3,3,1
+726,87,7,Toyota,Japanese,81,4,4,0
+723,87,9,Red Bull,Austrian,27,7,7,0
+727,87,15,Sauber,Swiss,17,8,8,0
+730,87,16,BAR,British,33,6,6,0
+728,87,17,Jordan,Irish,12,9,9,0
+729,87,18,Minardi,Italian,7,10,10,0
+735,88,1,McLaren,British,174,2,2,10
+734,88,3,Williams,British,64,5,5,0
+731,88,4,Renault,French,176,1,1,7
+732,88,6,Ferrari,Italian,100,3,3,1
+736,88,7,Toyota,Japanese,82,4,4,0
+733,88,9,Red Bull,Austrian,30,7,7,0
+737,88,15,Sauber,Swiss,17,8,8,0
+740,88,16,BAR,British,37,6,6,0
+738,88,17,Jordan,Irish,12,9,9,0
+739,88,18,Minardi,Italian,7,10,10,0
+745,89,1,McLaren,British,182,2,2,10
+744,89,3,Williams,British,66,5,5,0
+741,89,4,Renault,French,191,1,1,8
+742,89,6,Ferrari,Italian,100,3,3,1
+746,89,7,Toyota,Japanese,88,4,4,0
+743,89,9,Red Bull,Austrian,34,7,7,0
+747,89,15,Sauber,Swiss,20,8,8,0
+750,89,16,BAR,British,38,6,6,0
+748,89,17,Jordan,Irish,12,9,9,0
+749,89,18,Minardi,Italian,7,10,10,0
+6142,90,1,McLaren,British,1,5,5,0
+6140,90,3,Williams,British,9,2,2,0
+6139,90,4,Renault,French,8,3,3,0
+6138,90,6,Ferrari,Italian,18,1,1,1
+6145,90,7,Toyota,Japanese,0,8,8,0
+6143,90,15,Sauber,Swiss,0,6,6,0
+6141,90,16,BAR,British,3,4,4,0
+6146,90,17,Jordan,Irish,0,9,9,0
+6144,90,19,Jaguar,British,0,7,7,0
+6151,91,1,McLaren,British,4,5,5,0
+6149,91,3,Williams,British,17,2,2,0
+6148,91,4,Renault,French,14,3,3,0
+6147,91,6,Ferrari,Italian,33,1,1,2
+6154,91,7,Toyota,Japanese,0,7,7,0
+6152,91,15,Sauber,Swiss,1,6,6,0
+6150,91,16,BAR,British,9,4,4,0
+6155,91,17,Jordan,Irish,0,9,9,0
+6156,91,18,Minardi,Italian,0,10,10,0
+6153,91,19,Jaguar,British,0,8,8,0
+6161,92,1,McLaren,British,4,5,5,0
+6159,92,3,Williams,British,19,3,3,0
+6158,92,4,Renault,French,22,2,2,0
+6157,92,6,Ferrari,Italian,51,1,1,3
+6164,92,7,Toyota,Japanese,0,8,8,0
+6162,92,15,Sauber,Swiss,1,6,6,0
+6160,92,16,BAR,British,19,4,4,0
+6165,92,17,Jordan,Irish,0,9,9,0
+6166,92,18,Minardi,Italian,0,10,10,0
+6163,92,19,Jaguar,British,1,7,7,0
+6171,93,1,McLaren,British,5,5,5,0
+6169,93,3,Williams,British,27,4,4,0
+6168,93,4,Renault,French,31,2,2,0
+6167,93,6,Ferrari,Italian,64,1,1,4
+6174,93,7,Toyota,Japanese,0,8,8,0
+6172,93,15,Sauber,Swiss,1,6,6,0
+6170,93,16,BAR,British,27,3,3,0
+6175,93,17,Jordan,Irish,0,9,9,0
+6176,93,18,Minardi,Italian,0,10,10,0
+6173,93,19,Jaguar,British,1,7,7,0
+6181,94,1,McLaren,British,5,5,5,0
+6179,94,3,Williams,British,30,4,4,0
+6178,94,4,Renault,French,42,2,2,0
+6177,94,6,Ferrari,Italian,82,1,1,5
+6184,94,7,Toyota,Japanese,0,8,8,0
+6182,94,15,Sauber,Swiss,3,6,6,0
+6180,94,16,BAR,British,32,3,3,0
+6185,94,17,Jordan,Irish,0,9,9,0
+6186,94,18,Minardi,Italian,0,10,10,0
+6183,94,19,Jaguar,British,1,7,7,0
+6191,95,1,McLaren,British,5,6,6,0
+6189,95,3,Williams,British,35,4,4,0
+6188,95,4,Renault,French,52,2,2,1
+6187,95,6,Ferrari,Italian,88,1,1,5
+6194,95,7,Toyota,Japanese,4,7,7,0
+6192,95,15,Sauber,Swiss,7,5,5,0
+6190,95,16,BAR,British,40,3,3,0
+6195,95,17,Jordan,Irish,2,8,8,0
+6196,95,18,Minardi,Italian,0,10,10,0
+6193,95,19,Jaguar,British,1,9,9,0
+6201,96,1,McLaren,British,5,6,6,0
+6199,96,3,Williams,British,36,4,4,0
+6198,96,4,Renault,French,61,2,2,1
+6197,96,6,Ferrari,Italian,106,1,1,6
+6204,96,7,Toyota,Japanese,4,7,7,0
+6202,96,15,Sauber,Swiss,10,5,5,0
+6200,96,16,BAR,British,46,3,3,0
+6205,96,17,Jordan,Irish,2,9,9,0
+6206,96,18,Minardi,Italian,0,10,10,0
+6203,96,19,Jaguar,British,3,8,8,0
+6211,97,1,McLaren,British,12,6,6,0
+6209,97,3,Williams,British,36,4,4,0
+6208,97,4,Renault,French,61,2,2,1
+6207,97,6,Ferrari,Italian,124,1,1,7
+6214,97,7,Toyota,Japanese,4,8,8,0
+6212,97,15,Sauber,Swiss,15,5,5,0
+6210,97,16,BAR,British,52,3,3,0
+6215,97,17,Jordan,Irish,5,7,7,0
+6216,97,18,Minardi,Italian,0,10,10,0
+6213,97,19,Jaguar,British,3,9,9,0
+6221,98,1,McLaren,British,17,5,5,0
+6219,98,3,Williams,British,36,4,4,0
+6218,98,4,Renault,French,66,2,2,1
+6217,98,6,Ferrari,Italian,142,1,1,8
+6224,98,7,Toyota,Japanese,8,7,7,0
+6222,98,15,Sauber,Swiss,15,6,6,0
+6220,98,16,BAR,British,58,3,3,0
+6225,98,17,Jordan,Irish,5,8,8,0
+6226,98,18,Minardi,Italian,1,10,10,0
+6223,98,19,Jaguar,British,3,9,9,0
+6231,99,1,McLaren,British,22,5,5,0
+6229,99,3,Williams,British,37,4,4,0
+6228,99,4,Renault,French,79,2,2,1
+6227,99,6,Ferrari,Italian,158,1,1,9
+6234,99,7,Toyota,Japanese,8,7,7,0
+6232,99,15,Sauber,Swiss,15,6,6,0
+6230,99,16,BAR,British,62,3,3,0
+6235,99,17,Jordan,Irish,5,8,8,0
+6236,99,18,Minardi,Italian,1,10,10,0
+6233,99,19,Jaguar,British,3,9,9,0
+6241,100,1,McLaren,British,32,5,5,0
+6239,100,3,Williams,British,41,4,4,0
+6238,100,4,Renault,French,79,2,2,1
+6237,100,6,Ferrari,Italian,174,1,1,10
+6244,100,7,Toyota,Japanese,8,7,7,0
+6242,100,15,Sauber,Swiss,18,6,6,0
+6240,100,16,BAR,British,67,3,3,0
+6245,100,17,Jordan,Irish,5,8,8,0
+6246,100,18,Minardi,Italian,1,10,10,0
+6243,100,19,Jaguar,British,4,9,9,0
+6251,101,1,McLaren,British,37,5,5,0
+6249,101,3,Williams,British,47,4,4,0
+6248,101,4,Renault,French,85,2,2,1
+6247,101,6,Ferrari,Italian,184,1,1,11
+6254,101,7,Toyota,Japanese,8,7,7,0
+6252,101,15,Sauber,Swiss,18,6,6,0
+6250,101,16,BAR,British,76,3,3,0
+6255,101,17,Jordan,Irish,5,9,9,0
+6256,101,18,Minardi,Italian,1,10,10,0
+6253,101,19,Jaguar,British,7,8,8,0
+6261,102,1,McLaren,British,37,5,5,0
+6259,102,3,Williams,British,54,4,4,0
+6258,102,4,Renault,French,91,2,2,1
+6257,102,6,Ferrari,Italian,202,1,1,12
+6264,102,7,Toyota,Japanese,8,7,7,0
+6262,102,15,Sauber,Swiss,19,6,6,0
+6260,102,16,BAR,British,83,3,3,0
+6265,102,17,Jordan,Irish,5,9,9,0
+6266,102,18,Minardi,Italian,1,10,10,0
+6263,102,19,Jaguar,British,7,8,8,0
+6271,103,1,McLaren,British,49,5,5,1
+6269,103,3,Williams,British,54,4,4,0
+6268,103,4,Renault,French,91,2,2,1
+6267,103,6,Ferrari,Italian,216,1,1,12
+6274,103,7,Toyota,Japanese,9,8,8,0
+6272,103,15,Sauber,Swiss,28,6,6,0
+6270,103,16,BAR,British,83,3,3,0
+6275,103,17,Jordan,Irish,5,9,9,0
+6276,103,18,Minardi,Italian,1,10,10,0
+6273,103,19,Jaguar,British,10,7,7,0
+6281,104,1,McLaren,British,52,5,5,1
+6279,104,3,Williams,British,60,4,4,0
+6278,104,4,Renault,French,91,3,3,1
+6277,104,6,Ferrari,Italian,234,1,1,13
+6284,104,7,Toyota,Japanese,9,8,8,0
+6282,104,15,Sauber,Swiss,29,6,6,0
+6280,104,16,BAR,British,94,2,2,0
+6285,104,17,Jordan,Irish,5,9,9,0
+6286,104,18,Minardi,Italian,1,10,10,0
+6283,104,19,Jaguar,British,10,7,7,0
+6291,105,1,McLaren,British,58,5,5,1
+6289,105,3,Williams,British,64,4,4,0
+6288,105,4,Renault,French,96,3,3,1
+6287,105,6,Ferrari,Italian,244,1,1,14
+6294,105,7,Toyota,Japanese,9,8,8,0
+6292,105,15,Sauber,Swiss,32,6,6,0
+6290,105,16,BAR,British,105,2,2,0
+6295,105,17,Jordan,Irish,5,9,9,0
+6296,105,18,Minardi,Italian,1,10,10,0
+6293,105,19,Jaguar,British,10,7,7,0
+6301,106,1,McLaren,British,61,5,5,1
+6299,106,3,Williams,British,74,4,4,0
+6298,106,4,Renault,French,100,3,3,1
+6297,106,6,Ferrari,Italian,254,1,1,15
+6304,106,7,Toyota,Japanese,9,8,8,0
+6302,106,15,Sauber,Swiss,33,6,6,0
+6300,106,16,BAR,British,116,2,2,0
+6305,106,17,Jordan,Irish,5,9,9,0
+6306,106,18,Minardi,Italian,1,10,10,0
+6303,106,19,Jaguar,British,10,7,7,0
+6311,107,1,McLaren,British,69,5,5,1
+6309,107,3,Williams,British,88,4,4,1
+6308,107,4,Renault,French,105,3,3,1
+6307,107,6,Ferrari,Italian,262,1,1,15
+6314,107,7,Toyota,Japanese,9,8,8,0
+6312,107,15,Sauber,Swiss,34,6,6,0
+6310,107,16,BAR,British,119,2,2,0
+6315,107,17,Jordan,Irish,5,9,9,0
+6316,107,18,Minardi,Italian,1,10,10,0
+6313,107,19,Jaguar,British,10,7,7,0
+5982,108,1,McLaren,British,16,1,1,1
+5983,108,3,Williams,British,9,2,2,0
+5985,108,4,Renault,French,6,3,3,0
+5984,108,6,Ferrari,Italian,5,4,4,0
+5986,108,15,Sauber,Swiss,3,5,5,0
+5987,108,16,BAR,British,0,6,6,0
+5988,108,18,Minardi,Italian,0,7,7,0
+5989,109,1,McLaren,British,26,1,1,2
+5990,109,3,Williams,British,14,4,4,0
+5992,109,4,Renault,French,16,3,3,0
+5991,109,6,Ferrari,Italian,16,2,2,0
+5997,109,7,Toyota,Japanese,0,9,9,0
+5993,109,15,Sauber,Swiss,4,5,5,0
+5994,109,16,BAR,British,2,6,6,0
+5996,109,17,Jordan,Irish,0,7,7,0
+5995,109,18,Minardi,Italian,0,8,8,0
+5998,110,1,McLaren,British,39,1,1,2
+5999,110,3,Williams,British,16,4,4,0
+6001,110,4,Renault,French,23,2,2,0
+6000,110,6,Ferrari,Italian,16,3,3,0
+6006,110,7,Toyota,Japanese,0,9,9,0
+6002,110,15,Sauber,Swiss,8,6,6,0
+6003,110,16,BAR,British,5,7,7,0
+6005,110,17,Jordan,Irish,10,5,5,1
+6004,110,18,Minardi,Italian,0,10,10,0
+6007,110,19,Jaguar,British,0,8,8,0
+6008,111,1,McLaren,British,51,1,1,2
+6009,111,3,Williams,British,23,4,4,0
+6011,111,4,Renault,French,26,3,3,0
+6010,111,6,Ferrari,Italian,32,2,2,1
+6016,111,7,Toyota,Japanese,0,8,8,0
+6012,111,15,Sauber,Swiss,8,6,6,0
+6013,111,16,BAR,British,6,7,7,0
+6015,111,17,Jordan,Irish,10,5,5,1
+6014,111,18,Minardi,Italian,0,10,10,0
+6017,111,19,Jaguar,British,0,9,9,0
+6018,112,1,McLaren,British,51,1,1,2
+6019,112,3,Williams,British,32,4,4,0
+6021,112,4,Renault,French,34,3,3,0
+6020,112,6,Ferrari,Italian,48,2,2,2
+6026,112,7,Toyota,Japanese,3,8,8,0
+6022,112,15,Sauber,Swiss,8,6,6,0
+6023,112,16,BAR,British,6,7,7,0
+6025,112,17,Jordan,Irish,11,5,5,1
+6024,112,18,Minardi,Italian,0,10,10,0
+6027,112,19,Jaguar,British,2,9,9,0
+6028,113,1,McLaren,British,63,2,2,2
+6029,113,3,Williams,British,35,4,4,0
+6031,113,4,Renault,French,35,3,3,0
+6030,113,6,Ferrari,Italian,64,1,1,3
+6036,113,7,Toyota,Japanese,3,9,9,0
+6032,113,15,Sauber,Swiss,8,7,7,0
+6033,113,16,BAR,British,11,6,6,0
+6035,113,17,Jordan,Irish,11,5,5,1
+6034,113,18,Minardi,Italian,0,10,10,0
+6037,113,19,Jaguar,British,4,8,8,0
+6038,114,1,McLaren,British,73,1,1,2
+6039,114,3,Williams,British,50,3,3,1
+6041,114,4,Renault,French,42,4,4,0
+6040,114,6,Ferrari,Italian,71,2,2,3
+6046,114,7,Toyota,Japanese,3,9,9,0
+6042,114,15,Sauber,Swiss,8,7,7,0
+6043,114,16,BAR,British,11,6,6,0
+6045,114,17,Jordan,Irish,11,5,5,1
+6044,114,18,Minardi,Italian,0,10,10,0
+6047,114,19,Jaguar,British,4,8,8,0
+6048,115,1,McLaren,British,76,2,2,2
+6049,115,3,Williams,British,64,3,3,1
+6051,115,4,Renault,French,47,4,4,0
+6050,115,6,Ferrari,Italian,85,1,1,4
+6056,115,7,Toyota,Japanese,4,9,9,0
+6052,115,15,Sauber,Swiss,8,7,7,0
+6053,115,16,BAR,British,11,6,6,0
+6055,115,17,Jordan,Irish,11,5,5,1
+6054,115,18,Minardi,Italian,0,10,10,0
+6057,115,19,Jaguar,British,6,8,8,0
+6058,116,1,McLaren,British,76,3,3,2
+6059,116,3,Williams,British,82,2,2,2
+6061,116,4,Renault,French,52,4,4,0
+6060,116,6,Ferrari,Italian,95,1,1,4
+6066,116,7,Toyota,Japanese,4,9,9,0
+6062,116,15,Sauber,Swiss,9,7,7,0
+6063,116,16,BAR,British,13,5,5,0
+6065,116,17,Jordan,Irish,11,6,6,1
+6064,116,18,Minardi,Italian,0,10,10,0
+6067,116,19,Jaguar,British,9,8,8,0
+6068,117,1,McLaren,British,85,3,3,2
+6069,117,3,Williams,British,100,2,2,3
+6071,117,4,Renault,French,52,4,4,0
+6070,117,6,Ferrari,Italian,103,1,1,4
+6076,117,7,Toyota,Japanese,5,9,9,0
+6072,117,15,Sauber,Swiss,9,8,8,0
+6073,117,16,BAR,British,13,5,5,0
+6075,117,17,Jordan,Irish,11,7,7,1
+6074,117,18,Minardi,Italian,0,10,10,0
+6077,117,19,Jaguar,British,12,6,6,0
+6078,118,1,McLaren,British,95,3,3,2
+6079,118,3,Williams,British,108,2,2,3
+6081,118,4,Renault,French,55,4,4,0
+6080,118,6,Ferrari,Italian,118,1,1,5
+6086,118,7,Toyota,Japanese,7,9,9,0
+6082,118,15,Sauber,Swiss,9,8,8,0
+6083,118,16,BAR,British,14,5,5,0
+6085,118,17,Jordan,Irish,11,7,7,1
+6084,118,18,Minardi,Italian,0,10,10,0
+6087,118,19,Jaguar,British,12,6,6,0
+6088,119,1,McLaren,British,103,3,3,2
+6089,119,3,Williams,British,118,2,2,4
+6091,119,4,Renault,French,66,4,4,0
+6090,119,6,Ferrari,Italian,120,1,1,5
+6096,119,7,Toyota,Japanese,14,6,6,0
+6092,119,15,Sauber,Swiss,9,9,9,0
+6093,119,16,BAR,British,15,5,5,0
+6095,119,17,Jordan,Irish,11,8,8,1
+6094,119,18,Minardi,Italian,0,10,10,0
+6097,119,19,Jaguar,British,12,7,7,0
+6098,120,1,McLaren,British,115,3,3,2
+6099,120,3,Williams,British,129,1,1,4
+6101,120,4,Renault,French,78,4,4,1
+6100,120,6,Ferrari,Italian,121,2,2,5
+6106,120,7,Toyota,Japanese,14,7,7,0
+6102,120,15,Sauber,Swiss,9,9,9,0
+6103,120,16,BAR,British,15,5,5,0
+6105,120,17,Jordan,Irish,11,8,8,1
+6104,120,18,Minardi,Italian,0,10,10,0
+6107,120,19,Jaguar,British,15,6,6,0
+6108,121,1,McLaren,British,120,3,3,2
+6109,121,3,Williams,British,141,1,1,4
+6111,121,4,Renault,French,79,4,4,1
+6110,121,6,Ferrari,Italian,137,2,2,6
+6116,121,7,Toyota,Japanese,14,7,7,0
+6112,121,15,Sauber,Swiss,9,9,9,0
+6113,121,16,BAR,British,18,5,5,0
+6115,121,17,Jordan,Irish,11,8,8,1
+6114,121,18,Minardi,Italian,0,10,10,0
+6117,121,19,Jaguar,British,17,6,6,0
+6118,122,1,McLaren,British,128,3,3,2
+6119,122,3,Williams,British,144,2,2,4
+6121,122,4,Renault,French,84,4,4,1
+6120,122,6,Ferrari,Italian,147,1,1,7
+6126,122,7,Toyota,Japanese,14,8,8,0
+6122,122,15,Sauber,Swiss,19,5,5,0
+6123,122,16,BAR,British,18,6,6,0
+6125,122,17,Jordan,Irish,13,9,9,1
+6124,122,18,Minardi,Italian,0,10,10,0
+6127,122,19,Jaguar,British,18,7,7,0
+6128,123,1,McLaren,British,142,3,3,2
+6129,123,3,Williams,British,144,2,2,4
+6131,123,4,Renault,French,88,4,4,1
+6130,123,6,Ferrari,Italian,158,1,1,8
+6136,123,7,Toyota,Japanese,16,8,8,0
+6132,123,15,Sauber,Swiss,19,6,6,0
+6133,123,16,BAR,British,26,5,5,0
+6135,123,17,Jordan,Irish,13,9,9,1
+6134,123,18,Minardi,Italian,0,10,10,0
+6137,123,19,Jaguar,British,18,7,7,0
+5802,124,1,McLaren,British,4,3,3,0
+5801,124,3,Williams,British,6,2,2,0
+5800,124,6,Ferrari,Italian,10,1,1,1
+5805,124,7,Toyota,Japanese,1,6,6,0
+5804,124,18,Minardi,Italian,2,5,5,0
+5803,124,19,Jaguar,British,3,4,4,0
+5808,125,1,McLaren,British,4,3,3,0
+5807,125,3,Williams,British,22,1,1,1
+5812,125,4,Renault,French,3,5,5,0
+5806,125,6,Ferrari,Italian,14,2,2,1
+5811,125,7,Toyota,Japanese,1,8,8,0
+5813,125,15,Sauber,Swiss,3,6,6,0
+5814,125,16,BAR,British,0,9,9,0
+5815,125,17,Jordan,Irish,0,10,10,0
+5810,125,18,Minardi,Italian,2,7,7,0
+5809,125,19,Jaguar,British,3,4,4,0
+5816,125,21,Arrows,British,0,11,11,0
+5819,126,1,McLaren,British,8,3,3,0
+5818,126,3,Williams,British,30,1,1,1
+5823,126,4,Renault,French,6,4,4,0
+5817,126,6,Ferrari,Italian,24,2,2,2
+5822,126,7,Toyota,Japanese,2,8,8,0
+5824,126,15,Sauber,Swiss,3,6,6,0
+5825,126,16,BAR,British,0,9,9,0
+5826,126,17,Jordan,Irish,0,10,10,0
+5821,126,18,Minardi,Italian,2,7,7,0
+5820,126,19,Jaguar,British,3,5,5,0
+5827,126,21,Arrows,British,0,11,11,0
+5830,127,1,McLaren,British,9,3,3,0
+5829,127,3,Williams,British,37,2,2,1
+5834,127,4,Renault,French,8,4,4,0
+5828,127,6,Ferrari,Italian,40,1,1,3
+5833,127,7,Toyota,Japanese,2,8,8,0
+5835,127,15,Sauber,Swiss,3,6,6,0
+5836,127,16,BAR,British,0,9,9,0
+5837,127,17,Jordan,Irish,0,10,10,0
+5832,127,18,Minardi,Italian,2,7,7,0
+5831,127,19,Jaguar,British,3,5,5,0
+5838,127,21,Arrows,British,0,11,11,0
+5841,128,1,McLaren,British,13,3,3,0
+5840,128,3,Williams,British,43,2,2,1
+5845,128,4,Renault,French,8,4,4,0
+5839,128,6,Ferrari,Italian,50,1,1,4
+5844,128,7,Toyota,Japanese,2,8,8,0
+5846,128,15,Sauber,Swiss,8,5,5,0
+5847,128,16,BAR,British,0,10,10,0
+5848,128,17,Jordan,Irish,0,11,11,0
+5843,128,18,Minardi,Italian,2,7,7,0
+5842,128,19,Jaguar,British,3,6,6,0
+5849,128,21,Arrows,British,1,9,9,0
+5852,129,1,McLaren,British,14,3,3,0
+5851,129,3,Williams,British,50,2,2,1
+5856,129,4,Renault,French,8,4,4,0
+5850,129,6,Ferrari,Italian,66,1,1,5
+5855,129,7,Toyota,Japanese,2,9,9,0
+5857,129,15,Sauber,Swiss,8,5,5,0
+5858,129,16,BAR,British,0,11,11,0
+5859,129,17,Jordan,Irish,2,8,8,0
+5854,129,18,Minardi,Italian,2,7,7,0
+5853,129,19,Jaguar,British,3,6,6,0
+5860,129,21,Arrows,British,1,10,10,0
+5863,130,1,McLaren,British,24,3,3,1
+5862,130,3,Williams,British,54,2,2,1
+5867,130,4,Renault,French,11,4,4,0
+5861,130,6,Ferrari,Italian,72,1,1,5
+5866,130,7,Toyota,Japanese,2,9,9,0
+5868,130,15,Sauber,Swiss,8,5,5,0
+5869,130,16,BAR,British,0,11,11,0
+5870,130,17,Jordan,Irish,4,6,6,0
+5865,130,18,Minardi,Italian,2,8,8,0
+5864,130,19,Jaguar,British,3,7,7,0
+5871,130,21,Arrows,British,2,10,10,0
+5874,131,1,McLaren,British,33,3,3,1
+5873,131,3,Williams,British,54,2,2,1
+5878,131,4,Renault,French,12,4,4,0
+5872,131,6,Ferrari,Italian,86,1,1,6
+5877,131,7,Toyota,Japanese,2,9,9,0
+5879,131,15,Sauber,Swiss,8,5,5,0
+5880,131,16,BAR,British,0,11,11,0
+5881,131,17,Jordan,Irish,6,6,6,0
+5876,131,18,Minardi,Italian,2,8,8,0
+5875,131,19,Jaguar,British,3,7,7,0
+5882,131,21,Arrows,British,2,10,10,0
+5885,132,1,McLaren,British,37,3,3,1
+5884,132,3,Williams,British,57,2,2,1
+5889,132,4,Renault,French,14,4,4,0
+5883,132,6,Ferrari,Italian,102,1,1,7
+5888,132,7,Toyota,Japanese,2,9,9,0
+5890,132,15,Sauber,Swiss,9,5,5,0
+5891,132,16,BAR,British,0,11,11,0
+5892,132,17,Jordan,Irish,6,6,6,0
+5887,132,18,Minardi,Italian,2,8,8,0
+5886,132,19,Jaguar,British,3,7,7,0
+5893,132,21,Arrows,British,2,10,10,0
+5896,133,1,McLaren,British,37,3,3,1
+5895,133,3,Williams,British,61,2,2,1
+5900,133,4,Renault,French,14,4,4,0
+5894,133,6,Ferrari,Italian,118,1,1,8
+5899,133,7,Toyota,Japanese,2,10,10,0
+5901,133,15,Sauber,Swiss,10,5,5,0
+5902,133,16,BAR,British,5,7,7,0
+5903,133,17,Jordan,Irish,6,6,6,0
+5898,133,18,Minardi,Italian,2,9,9,0
+5897,133,19,Jaguar,British,3,8,8,0
+5904,133,21,Arrows,British,2,11,11,0
+5907,134,1,McLaren,British,47,3,3,1
+5906,134,3,Williams,British,66,2,2,1
+5911,134,4,Renault,French,15,4,4,0
+5905,134,6,Ferrari,Italian,128,1,1,9
+5910,134,7,Toyota,Japanese,2,10,10,0
+5912,134,15,Sauber,Swiss,10,5,5,0
+5913,134,16,BAR,British,5,7,7,0
+5914,134,17,Jordan,Irish,6,6,6,0
+5909,134,18,Minardi,Italian,2,9,9,0
+5908,134,19,Jaguar,British,3,8,8,0
+5915,134,21,Arrows,British,2,11,11,0
+5918,135,1,McLaren,British,49,3,3,1
+5917,135,3,Williams,British,76,2,2,1
+5922,135,4,Renault,French,15,4,4,0
+5916,135,6,Ferrari,Italian,141,1,1,10
+5921,135,7,Toyota,Japanese,2,10,10,0
+5923,135,15,Sauber,Swiss,11,5,5,0
+5924,135,16,BAR,British,5,7,7,0
+5925,135,17,Jordan,Irish,6,6,6,0
+5920,135,18,Minardi,Italian,2,9,9,0
+5919,135,19,Jaguar,British,3,8,8,0
+5926,135,21,Arrows,British,2,11,11,0
+5929,136,1,McLaren,British,54,3,3,1
+5928,136,3,Williams,British,80,2,2,1
+5933,136,4,Renault,French,15,4,4,0
+5927,136,6,Ferrari,Italian,157,1,1,11
+5932,136,7,Toyota,Japanese,2,10,10,0
+5934,136,15,Sauber,Swiss,11,5,5,0
+5935,136,16,BAR,British,5,7,7,0
+5936,136,17,Jordan,Irish,7,6,6,0
+5931,136,18,Minardi,Italian,2,9,9,0
+5930,136,19,Jaguar,British,3,8,8,0
+5937,136,21,Arrows,British,2,11,11,0
+5940,137,1,McLaren,British,57,3,3,1
+5939,137,3,Williams,British,86,2,2,1
+5944,137,4,Renault,French,15,4,4,0
+5938,137,6,Ferrari,Italian,173,1,1,12
+5943,137,7,Toyota,Japanese,2,10,10,0
+5945,137,15,Sauber,Swiss,11,5,5,0
+5946,137,16,BAR,British,5,7,7,0
+5947,137,17,Jordan,Irish,7,6,6,0
+5942,137,18,Minardi,Italian,2,9,9,0
+5941,137,19,Jaguar,British,4,8,8,0
+5948,137,21,Arrows,British,2,11,11,0
+5951,138,1,McLaren,British,57,3,3,1
+5950,138,3,Williams,British,86,2,2,1
+5955,138,4,Renault,French,20,4,4,0
+5949,138,6,Ferrari,Italian,189,1,1,13
+5954,138,7,Toyota,Japanese,2,10,10,0
+5956,138,15,Sauber,Swiss,11,5,5,0
+5957,138,16,BAR,British,6,8,8,0
+5958,138,17,Jordan,Irish,7,7,7,0
+5953,138,18,Minardi,Italian,2,9,9,0
+5952,138,19,Jaguar,British,8,6,6,0
+5959,138,21,Arrows,British,2,11,11,0
+5962,139,1,McLaren,British,61,3,3,1
+5961,139,3,Williams,British,89,2,2,1
+5966,139,4,Renault,French,22,4,4,0
+5960,139,6,Ferrari,Italian,205,1,1,14
+5965,139,7,Toyota,Japanese,2,10,10,0
+5967,139,15,Sauber,Swiss,11,5,5,0
+5968,139,16,BAR,British,7,7,7,0
+5969,139,17,Jordan,Irish,7,8,8,0
+5964,139,18,Minardi,Italian,2,9,9,0
+5963,139,19,Jaguar,British,8,6,6,0
+5970,139,21,Arrows,British,2,11,11,0
+5973,140,1,McLaren,British,65,3,3,1
+5972,140,3,Williams,British,92,2,2,1
+5977,140,4,Renault,French,23,4,4,0
+5971,140,6,Ferrari,Italian,221,1,1,15
+5976,140,7,Toyota,Japanese,2,10,10,0
+5978,140,15,Sauber,Swiss,11,5,5,0
+5979,140,16,BAR,British,7,8,8,0
+5980,140,17,Jordan,Irish,9,6,6,0
+5975,140,18,Minardi,Italian,2,9,9,0
+5974,140,19,Jaguar,British,8,7,7,0
+5981,140,21,Arrows,British,2,11,11,0
+5615,141,1,McLaren,British,6,2,2,0
+5614,141,6,Ferrari,Italian,14,1,1,1
+5616,141,15,Sauber,Swiss,4,3,3,0
+5618,141,16,BAR,British,0,5,5,0
+5617,141,17,Jordan,Irish,2,4,4,0
+5622,141,18,Minardi,Italian,0,9,9,0
+5619,141,19,Jaguar,British,0,6,6,0
+5620,141,20,Prost,French,0,7,7,0
+5621,141,21,Arrows,British,0,8,8,0
+5623,141,22,Benetton,Italian,0,10,10,0
+5625,142,1,McLaren,British,11,2,2,0
+5634,142,3,Williams,British,2,5,5,0
+5624,142,6,Ferrari,Italian,30,1,1,2
+5626,142,15,Sauber,Swiss,4,4,4,0
+5628,142,16,BAR,British,0,7,7,0
+5627,142,17,Jordan,Irish,5,3,3,0
+5632,142,18,Minardi,Italian,0,11,11,0
+5629,142,19,Jaguar,British,0,8,8,0
+5630,142,20,Prost,French,0,9,9,0
+5631,142,21,Arrows,British,0,6,6,0
+5633,142,22,Benetton,Italian,0,10,10,0
+5636,143,1,McLaren,British,21,2,2,1
+5645,143,3,Williams,British,2,6,6,0
+5635,143,6,Ferrari,Italian,36,1,1,2
+5637,143,15,Sauber,Swiss,8,3,3,0
+5639,143,16,BAR,British,3,5,5,0
+5638,143,17,Jordan,Irish,7,4,4,0
+5643,143,18,Minardi,Italian,0,11,11,0
+5640,143,19,Jaguar,British,0,10,10,0
+5641,143,20,Prost,French,0,9,9,0
+5642,143,21,Arrows,British,0,8,8,0
+5644,143,22,Benetton,Italian,1,7,7,0
+5647,144,1,McLaren,British,30,2,2,1
+5656,144,3,Williams,British,12,3,3,1
+5646,144,6,Ferrari,Italian,40,1,1,2
+5648,144,15,Sauber,Swiss,8,5,5,0
+5650,144,16,BAR,British,3,6,6,0
+5649,144,17,Jordan,Irish,10,4,4,0
+5654,144,18,Minardi,Italian,0,11,11,0
+5651,144,19,Jaguar,British,0,10,10,0
+5652,144,20,Prost,French,0,9,9,0
+5653,144,21,Arrows,British,0,8,8,0
+5655,144,22,Benetton,Italian,1,7,7,0
+5658,145,1,McLaren,British,32,2,2,1
+5667,145,3,Williams,British,18,3,3,1
+5657,145,6,Ferrari,Italian,50,1,1,3
+5659,145,15,Sauber,Swiss,9,5,5,0
+5661,145,16,BAR,British,7,6,6,0
+5660,145,17,Jordan,Irish,13,4,4,0
+5665,145,18,Minardi,Italian,0,11,11,0
+5662,145,19,Jaguar,British,0,10,10,0
+5663,145,20,Prost,French,0,9,9,0
+5664,145,21,Arrows,British,0,8,8,0
+5666,145,22,Benetton,Italian,1,7,7,0
+5669,146,1,McLaren,British,42,2,2,2
+5678,146,3,Williams,British,18,3,3,1
+5668,146,6,Ferrari,Italian,60,1,1,3
+5670,146,15,Sauber,Swiss,12,5,5,0
+5672,146,16,BAR,British,9,6,6,0
+5671,146,17,Jordan,Irish,13,4,4,0
+5676,146,18,Minardi,Italian,0,11,11,0
+5673,146,19,Jaguar,British,0,9,9,0
+5674,146,20,Prost,French,0,10,10,0
+5675,146,21,Arrows,British,1,7,7,0
+5677,146,22,Benetton,Italian,1,8,8,0
+5680,147,1,McLaren,British,44,2,2,2
+5689,147,3,Williams,British,18,3,3,1
+5679,147,6,Ferrari,Italian,76,1,1,4
+5681,147,15,Sauber,Swiss,12,6,6,0
+5683,147,16,BAR,British,12,5,5,0
+5682,147,17,Jordan,Irish,13,4,4,0
+5687,147,18,Minardi,Italian,0,11,11,0
+5684,147,19,Jaguar,British,4,7,7,0
+5685,147,20,Prost,French,1,10,10,0
+5686,147,21,Arrows,British,1,8,8,0
+5688,147,22,Benetton,Italian,1,9,9,0
+5691,148,1,McLaren,British,48,2,2,2
+5700,148,3,Williams,British,28,3,3,2
+5690,148,6,Ferrari,Italian,82,1,1,4
+5692,148,15,Sauber,Swiss,15,4,4,0
+5694,148,16,BAR,British,12,6,6,0
+5693,148,17,Jordan,Irish,13,5,5,0
+5698,148,18,Minardi,Italian,0,11,11,0
+5695,148,19,Jaguar,British,5,7,7,0
+5696,148,20,Prost,French,3,8,8,0
+5697,148,21,Arrows,British,1,9,9,0
+5699,148,22,Benetton,Italian,1,10,10,0
+5702,149,1,McLaren,British,53,2,2,2
+5711,149,3,Williams,British,37,3,3,2
+5701,149,6,Ferrari,Italian,94,1,1,5
+5703,149,15,Sauber,Swiss,15,4,4,0
+5705,149,16,BAR,British,12,6,6,0
+5704,149,17,Jordan,Irish,13,5,5,0
+5709,149,18,Minardi,Italian,0,11,11,0
+5706,149,19,Jaguar,British,5,7,7,0
+5707,149,20,Prost,French,3,8,8,0
+5708,149,21,Arrows,British,1,9,9,0
+5710,149,22,Benetton,Italian,1,10,10,0
+5713,150,1,McLaren,British,56,2,2,2
+5722,150,3,Williams,British,43,3,3,2
+5712,150,6,Ferrari,Italian,108,1,1,6
+5714,150,15,Sauber,Swiss,16,4,4,0
+5716,150,16,BAR,British,12,6,6,0
+5715,150,17,Jordan,Irish,15,5,5,0
+5720,150,18,Minardi,Italian,0,11,11,0
+5717,150,19,Jaguar,British,5,7,7,0
+5718,150,20,Prost,French,3,8,8,0
+5719,150,21,Arrows,British,1,9,9,0
+5721,150,22,Benetton,Italian,1,10,10,0
+5724,151,1,McLaren,British,66,2,2,3
+5733,151,3,Williams,British,46,3,3,2
+5723,151,6,Ferrari,Italian,118,1,1,6
+5725,151,15,Sauber,Swiss,19,4,4,0
+5727,151,16,BAR,British,12,6,6,0
+5726,151,17,Jordan,Irish,15,5,5,0
+5731,151,18,Minardi,Italian,0,11,11,0
+5728,151,19,Jaguar,British,5,7,7,0
+5729,151,20,Prost,French,3,8,8,0
+5730,151,21,Arrows,British,1,9,9,0
+5732,151,22,Benetton,Italian,1,10,10,0
+5735,152,1,McLaren,British,66,2,2,3
+5744,152,3,Williams,British,56,3,3,3
+5734,152,6,Ferrari,Italian,124,1,1,6
+5736,152,15,Sauber,Swiss,19,4,4,0
+5738,152,16,BAR,British,16,5,5,0
+5737,152,17,Jordan,Irish,15,6,6,0
+5742,152,18,Minardi,Italian,0,11,11,0
+5739,152,19,Jaguar,British,5,8,8,0
+5740,152,20,Prost,French,4,9,9,0
+5741,152,21,Arrows,British,1,10,10,0
+5743,152,22,Benetton,Italian,6,7,7,0
+5746,153,1,McLaren,British,72,2,2,3
+5755,153,3,Williams,British,59,3,3,3
+5745,153,6,Ferrari,Italian,140,1,1,7
+5747,153,15,Sauber,Swiss,20,4,4,0
+5749,153,16,BAR,British,16,5,5,0
+5748,153,17,Jordan,Irish,15,6,6,0
+5753,153,18,Minardi,Italian,0,11,11,0
+5750,153,19,Jaguar,British,5,8,8,0
+5751,153,20,Prost,French,4,9,9,0
+5752,153,21,Arrows,British,1,10,10,0
+5754,153,22,Benetton,Italian,6,7,7,0
+5757,154,1,McLaren,British,81,2,2,3
+5766,154,3,Williams,British,59,3,3,3
+5756,154,6,Ferrari,Italian,152,1,1,8
+5758,154,15,Sauber,Swiss,20,4,4,0
+5760,154,16,BAR,British,16,5,5,0
+5759,154,17,Jordan,Irish,16,6,6,0
+5764,154,18,Minardi,Italian,0,11,11,0
+5761,154,19,Jaguar,British,5,8,8,0
+5762,154,20,Prost,French,4,9,9,0
+5763,154,21,Arrows,British,1,10,10,0
+5765,154,22,Benetton,Italian,10,7,7,0
+5768,155,1,McLaren,British,81,2,2,3
+5777,155,3,Williams,British,73,3,3,4
+5767,155,6,Ferrari,Italian,161,1,1,8
+5769,155,15,Sauber,Swiss,20,4,4,0
+5771,155,16,BAR,British,17,5,5,0
+5770,155,17,Jordan,Irish,16,6,6,0
+5775,155,18,Minardi,Italian,0,11,11,0
+5772,155,19,Jaguar,British,7,8,8,0
+5773,155,20,Prost,French,4,9,9,0
+5774,155,21,Arrows,British,1,10,10,0
+5776,155,22,Benetton,Italian,10,7,7,0
+5779,156,1,McLaren,British,95,2,2,4
+5788,156,3,Williams,British,73,3,3,4
+5778,156,6,Ferrari,Italian,167,1,1,8
+5780,156,15,Sauber,Swiss,21,4,4,0
+5782,156,16,BAR,British,17,6,6,0
+5781,156,17,Jordan,Irish,19,5,5,0
+5786,156,18,Minardi,Italian,0,11,11,0
+5783,156,19,Jaguar,British,9,8,8,0
+5784,156,20,Prost,French,4,9,9,0
+5785,156,21,Arrows,British,1,10,10,0
+5787,156,22,Benetton,Italian,10,7,7,0
+5790,157,1,McLaren,British,102,2,2,4
+5799,157,3,Williams,British,80,3,3,4
+5789,157,6,Ferrari,Italian,179,1,1,9
+5791,157,15,Sauber,Swiss,21,4,4,0
+5793,157,16,BAR,British,17,6,6,0
+5792,157,17,Jordan,Irish,19,5,5,0
+5797,157,18,Minardi,Italian,0,11,11,0
+5794,157,19,Jaguar,British,9,8,8,0
+5795,157,20,Prost,French,4,9,9,0
+5796,157,21,Arrows,British,1,10,10,0
+5798,157,22,Benetton,Italian,10,7,7,0
+1455,158,3,Williams,British,4,2,2,0
+1454,158,6,Ferrari,Italian,16,1,1,1
+1456,158,16,BAR,British,4,3,3,0
+1458,158,18,Minardi,Italian,0,5,5,0
+1459,158,20,Prost,French,0,6,6,0
+1457,158,22,Benetton,Italian,2,4,4,0
+1461,159,3,Williams,British,7,4,4,0
+1460,159,6,Ferrari,Italian,26,1,1,2
+1462,159,16,BAR,British,4,5,5,0
+1466,159,17,Jordan,Irish,7,3,3,0
+1464,159,18,Minardi,Italian,0,7,7,0
+1465,159,20,Prost,French,0,8,8,0
+1467,159,21,Arrows,British,0,6,6,0
+1463,159,22,Benetton,Italian,8,2,2,0
+1476,160,1,McLaren,British,10,2,2,0
+1469,160,3,Williams,British,7,5,5,0
+1468,160,6,Ferrari,Italian,39,1,1,3
+1477,160,15,Sauber,Swiss,1,7,7,0
+1470,160,16,BAR,British,6,6,6,0
+1474,160,17,Jordan,Irish,7,4,4,0
+1472,160,18,Minardi,Italian,0,10,10,0
+1478,160,19,Jaguar,British,0,9,9,0
+1473,160,20,Prost,French,0,11,11,0
+1475,160,21,Arrows,British,0,8,8,0
+1471,160,22,Benetton,Italian,8,3,3,0
+1487,161,1,McLaren,British,26,2,2,1
+1480,161,3,Williams,British,12,3,3,0
+1479,161,6,Ferrari,Italian,43,1,1,3
+1488,161,15,Sauber,Swiss,1,7,7,0
+1481,161,16,BAR,British,6,6,6,0
+1485,161,17,Jordan,Irish,8,5,5,0
+1483,161,18,Minardi,Italian,0,10,10,0
+1489,161,19,Jaguar,British,0,9,9,0
+1484,161,20,Prost,French,0,11,11,0
+1486,161,21,Arrows,British,0,8,8,0
+1482,161,22,Benetton,Italian,8,4,4,0
+1498,162,1,McLaren,British,42,2,2,2
+1491,162,3,Williams,British,15,3,3,0
+1490,162,6,Ferrari,Italian,49,1,1,3
+1499,162,15,Sauber,Swiss,1,7,7,0
+1492,162,16,BAR,British,6,6,6,0
+1496,162,17,Jordan,Irish,9,4,4,0
+1494,162,18,Minardi,Italian,0,10,10,0
+1500,162,19,Jaguar,British,0,9,9,0
+1495,162,20,Prost,French,0,11,11,0
+1497,162,21,Arrows,British,0,8,8,0
+1493,162,22,Benetton,Italian,8,5,5,0
+1509,163,1,McLaren,British,52,2,2,2
+1502,163,3,Williams,British,15,3,3,0
+1501,163,6,Ferrari,Italian,62,1,1,4
+1510,163,15,Sauber,Swiss,1,7,7,0
+1503,163,16,BAR,British,6,6,6,0
+1507,163,17,Jordan,Irish,9,5,5,0
+1505,163,18,Minardi,Italian,0,10,10,0
+1511,163,19,Jaguar,British,0,9,9,0
+1506,163,20,Prost,French,0,11,11,0
+1508,163,21,Arrows,British,1,8,8,0
+1504,163,22,Benetton,Italian,10,4,4,0
+1520,164,1,McLaren,British,63,2,2,3
+1513,164,3,Williams,British,15,3,3,0
+1512,164,6,Ferrari,Italian,68,1,1,4
+1521,164,15,Sauber,Swiss,3,8,8,0
+1514,164,16,BAR,British,6,6,6,0
+1518,164,17,Jordan,Irish,9,5,5,0
+1516,164,18,Minardi,Italian,0,10,10,0
+1522,164,19,Jaguar,British,3,7,7,0
+1517,164,20,Prost,French,0,11,11,0
+1519,164,21,Arrows,British,1,9,9,0
+1515,164,22,Benetton,Italian,14,4,4,0
+1531,165,1,McLaren,British,66,2,2,3
+1524,165,3,Williams,British,15,4,4,0
+1523,165,6,Ferrari,Italian,84,1,1,5
+1532,165,15,Sauber,Swiss,3,8,8,0
+1525,165,16,BAR,British,6,6,6,0
+1529,165,17,Jordan,Irish,10,5,5,0
+1527,165,18,Minardi,Italian,0,10,10,0
+1533,165,19,Jaguar,British,3,7,7,0
+1528,165,20,Prost,French,0,11,11,0
+1530,165,21,Arrows,British,3,9,9,0
+1526,165,22,Benetton,Italian,18,3,3,0
+1542,166,1,McLaren,British,82,2,2,4
+1535,166,3,Williams,British,17,4,4,0
+1534,166,6,Ferrari,Italian,88,1,1,5
+1543,166,15,Sauber,Swiss,3,8,8,0
+1536,166,16,BAR,British,9,6,6,0
+1540,166,17,Jordan,Irish,11,5,5,0
+1538,166,18,Minardi,Italian,0,10,10,0
+1544,166,19,Jaguar,British,3,7,7,0
+1539,166,20,Prost,French,0,11,11,0
+1541,166,21,Arrows,British,3,9,9,0
+1537,166,22,Benetton,Italian,18,3,3,0
+1553,167,1,McLaren,British,98,1,1,5
+1546,167,3,Williams,British,19,3,3,0
+1545,167,6,Ferrari,Italian,92,2,2,5
+1554,167,15,Sauber,Swiss,4,7,7,0
+1547,167,16,BAR,British,12,5,5,0
+1551,167,17,Jordan,Irish,11,6,6,0
+1549,167,18,Minardi,Italian,0,10,10,0
+1555,167,19,Jaguar,British,3,8,8,0
+1550,167,20,Prost,French,0,11,11,0
+1552,167,21,Arrows,British,3,9,9,0
+1548,167,22,Benetton,Italian,18,4,4,0
+1564,168,1,McLaren,British,108,1,1,5
+1557,168,3,Williams,British,22,3,3,0
+1556,168,6,Ferrari,Italian,102,2,2,6
+1565,168,15,Sauber,Swiss,6,7,7,0
+1558,168,16,BAR,British,12,5,5,0
+1562,168,17,Jordan,Irish,11,6,6,0
+1560,168,18,Minardi,Italian,0,10,10,0
+1566,168,19,Jaguar,British,3,9,9,0
+1561,168,20,Prost,French,0,11,11,0
+1563,168,21,Arrows,British,4,8,8,0
+1559,168,22,Benetton,Italian,18,4,4,0
+1575,169,1,McLaren,British,122,1,1,6
+1568,169,3,Williams,British,24,3,3,0
+1567,169,6,Ferrari,Italian,111,2,2,6
+1576,169,15,Sauber,Swiss,6,7,7,0
+1569,169,16,BAR,British,12,6,6,0
+1573,169,17,Jordan,Irish,12,5,5,0
+1571,169,18,Minardi,Italian,0,10,10,0
+1577,169,19,Jaguar,British,3,9,9,0
+1572,169,20,Prost,French,0,11,11,0
+1574,169,21,Arrows,British,4,8,8,0
+1570,169,22,Benetton,Italian,18,4,4,0
+1586,170,1,McLaren,British,135,1,1,7
+1579,170,3,Williams,British,30,3,3,0
+1578,170,6,Ferrari,Italian,117,2,2,6
+1587,170,15,Sauber,Swiss,6,7,7,0
+1580,170,16,BAR,British,12,6,6,0
+1584,170,17,Jordan,Irish,13,5,5,0
+1582,170,18,Minardi,Italian,0,10,10,0
+1588,170,19,Jaguar,British,3,9,9,0
+1583,170,20,Prost,French,0,11,11,0
+1585,170,21,Arrows,British,4,8,8,0
+1581,170,22,Benetton,Italian,18,4,4,0
+1597,171,1,McLaren,British,141,1,1,7
+1590,171,3,Williams,British,34,3,3,0
+1589,171,6,Ferrari,Italian,127,2,2,7
+1598,171,15,Sauber,Swiss,6,8,8,0
+1591,171,16,BAR,British,13,6,6,0
+1595,171,17,Jordan,Irish,13,5,5,0
+1593,171,18,Minardi,Italian,0,10,10,0
+1599,171,19,Jaguar,British,3,9,9,0
+1594,171,20,Prost,French,0,11,11,0
+1596,171,21,Arrows,British,7,7,7,0
+1592,171,22,Benetton,Italian,20,4,4,0
+1608,172,1,McLaren,British,143,2,2,7
+1601,172,3,Williams,British,34,3,3,0
+1600,172,6,Ferrari,Italian,143,1,1,8
+1609,172,15,Sauber,Swiss,6,8,8,0
+1602,172,16,BAR,British,17,6,6,0
+1606,172,17,Jordan,Irish,17,5,5,0
+1604,172,18,Minardi,Italian,0,10,10,0
+1610,172,19,Jaguar,British,3,9,9,0
+1605,172,20,Prost,French,0,11,11,0
+1607,172,21,Arrows,British,7,7,7,0
+1603,172,22,Benetton,Italian,20,4,4,0
+1619,173,1,McLaren,British,153,2,2,7
+1612,173,3,Williams,British,36,3,3,0
+1611,173,6,Ferrari,Italian,156,1,1,9
+1620,173,15,Sauber,Swiss,6,8,8,0
+1613,173,16,BAR,British,18,5,5,0
+1617,173,17,Jordan,Irish,17,6,6,0
+1615,173,18,Minardi,Italian,0,10,10,0
+1621,173,19,Jaguar,British,3,9,9,0
+1616,173,20,Prost,French,0,11,11,0
+1618,173,21,Arrows,British,7,7,7,0
+1614,173,22,Benetton,Italian,20,4,4,0
+1630,174,1,McLaren,British,162,2,2,7
+1623,174,3,Williams,British,36,3,3,0
+1622,174,6,Ferrari,Italian,170,1,1,10
+1631,174,15,Sauber,Swiss,6,8,8,0
+1624,174,16,BAR,British,20,5,5,0
+1628,174,17,Jordan,Irish,17,6,6,0
+1626,174,18,Minardi,Italian,0,10,10,0
+1632,174,19,Jaguar,British,4,9,9,0
+1627,174,20,Prost,French,0,11,11,0
+1629,174,21,Arrows,British,7,7,7,0
+1625,174,22,Benetton,Italian,20,4,4,0
+24233,337,1,McLaren,British,21,2,2,0
+24237,337,3,Williams,British,1,6,6,0
+24238,337,4,Renault,French,0,7,7,0
+24239,337,5,Toro Rosso,Italian,0,8,8,0
+24232,337,6,Ferrari,Italian,43,1,1,1
+24234,337,9,Red Bull,Austrian,16,4,4,0
+24236,337,10,Force India,Indian,2,5,5,0
+24241,337,15,Sauber,Swiss,0,10,10,0
+24235,337,131,Mercedes,German,18,3,3,0
+24242,337,164,HRT,Spanish,0,11,11,0
+24243,337,166,HRT,Spanish,0,12,12,0
+24240,337,205,Lotus,Malaysian,0,9,9,0
+24245,338,1,McLaren,British,54,2,2,1
+24249,338,3,Williams,British,5,7,7,0
+24250,338,4,Renault,French,18,4,4,0
+24251,338,5,Toro Rosso,Italian,0,8,8,0
+24244,338,6,Ferrari,Italian,70,1,1,1
+24246,338,9,Red Bull,Austrian,18,5,5,0
+24248,338,10,Force India,Indian,8,6,6,0
+24253,338,15,Sauber,Swiss,0,9,9,0
+24247,338,131,Mercedes,German,29,3,3,0
+24254,338,164,HRT,Spanish,0,11,11,0
+24255,338,166,HRT,Spanish,0,12,12,0
+24252,338,205,Lotus,Malaysian,0,10,10,0
+24257,339,1,McLaren,British,66,2,2,1
+24261,339,3,Williams,British,6,7,7,0
+24262,339,4,Renault,French,30,5,5,0
+24263,339,5,Toro Rosso,Italian,2,8,8,0
+24256,339,6,Ferrari,Italian,76,1,1,1
+24258,339,9,Red Bull,Austrian,61,3,3,1
+24260,339,10,Force India,Indian,18,6,6,0
+24265,339,15,Sauber,Swiss,0,9,9,0
+24259,339,131,Mercedes,German,44,4,4,0
+24266,339,164,HRT,Spanish,0,11,11,0
+24267,339,166,HRT,Spanish,0,12,12,0
+24264,339,205,Lotus,Malaysian,0,10,10,0
+24269,340,1,McLaren,British,109,1,1,2
+24273,340,3,Williams,British,6,7,7,0
+24274,340,4,Renault,French,46,5,5,0
+24275,340,5,Toro Rosso,Italian,2,8,8,0
+24268,340,6,Ferrari,Italian,90,2,2,1
+24270,340,9,Red Bull,Austrian,73,3,3,1
+24272,340,10,Force India,Indian,18,6,6,0
+24277,340,15,Sauber,Swiss,0,9,9,0
+24271,340,131,Mercedes,German,60,4,4,0
+24278,340,164,HRT,Spanish,0,11,11,0
+24279,340,166,HRT,Spanish,0,12,12,0
+24276,340,205,Lotus,Malaysian,0,10,10,0
+24281,341,1,McLaren,British,119,1,1,2
+24285,341,3,Williams,British,8,7,7,0
+24286,341,4,Renault,French,50,5,5,0
+24287,341,5,Toro Rosso,Italian,3,8,8,0
+24280,341,6,Ferrari,Italian,116,2,2,1
+24282,341,9,Red Bull,Austrian,113,3,3,2
+24284,341,10,Force India,Indian,24,6,6,0
+24289,341,15,Sauber,Swiss,0,9,9,0
+24283,341,131,Mercedes,German,72,4,4,0
+24290,341,164,HRT,Spanish,0,11,11,0
+24291,341,166,HRT,Spanish,0,12,12,0
+24288,341,205,Lotus,Malaysian,0,10,10,0
+24305,342,1,McLaren,British,129,3,3,2
+24309,342,3,Williams,British,8,7,7,0
+24310,342,4,Renault,French,65,5,5,0
+24311,342,5,Toro Rosso,Italian,4,8,8,0
+24304,342,6,Ferrari,Italian,136,2,2,1
+24306,342,9,Red Bull,Austrian,156,1,1,3
+24308,342,10,Force India,Indian,30,6,6,0
+24313,342,15,Sauber,Swiss,0,9,9,0
+24307,342,131,Mercedes,German,78,4,4,0
+24314,342,164,HRT,Spanish,0,11,11,0
+24315,342,166,HRT,Spanish,0,12,12,0
+24312,342,205,Lotus,Malaysian,0,10,10,0
+24317,343,1,McLaren,British,172,1,1,3
+24321,343,3,Williams,British,8,7,7,0
+24322,343,4,Renault,French,73,5,5,0
+24323,343,5,Toro Rosso,Italian,4,8,8,0
+24316,343,6,Ferrari,Italian,146,3,3,1
+24318,343,9,Red Bull,Austrian,171,2,2,3
+24320,343,10,Force India,Indian,32,6,6,0
+24325,343,15,Sauber,Swiss,1,9,9,0
+24319,343,131,Mercedes,German,100,4,4,0
+24326,343,164,HRT,Spanish,0,11,11,0
+24327,343,166,HRT,Spanish,0,12,12,0
+24324,343,205,Lotus,Malaysian,0,10,10,0
+24329,344,1,McLaren,British,215,1,1,4
+24333,344,3,Williams,British,8,8,8,0
+24334,344,4,Renault,French,79,5,5,0
+24335,344,5,Toro Rosso,Italian,8,7,7,0
+24328,344,6,Ferrari,Italian,161,3,3,1
+24330,344,9,Red Bull,Austrian,193,2,2,3
+24332,344,10,Force India,Indian,35,6,6,0
+24337,344,15,Sauber,Swiss,1,9,9,0
+24331,344,131,Mercedes,German,108,4,4,0
+24338,344,164,HRT,Spanish,0,11,11,0
+24339,344,166,HRT,Spanish,0,12,12,0
+24336,344,205,Lotus,Malaysian,0,10,10,0
+24341,345,1,McLaren,British,248,1,1,4
+24345,345,3,Williams,British,20,7,7,0
+24346,345,4,Renault,French,89,5,5,0
+24347,345,5,Toro Rosso,Italian,10,8,8,0
+24340,345,6,Ferrari,Italian,165,3,3,1
+24342,345,9,Red Bull,Austrian,218,2,2,4
+24344,345,10,Force India,Indian,43,6,6,0
+24349,345,15,Sauber,Swiss,7,9,9,0
+24343,345,131,Mercedes,German,109,4,4,0
+24350,345,164,HRT,Spanish,0,11,11,0
+24351,345,166,HRT,Spanish,0,12,12,0
+24348,345,205,Lotus,Malaysian,0,10,10,0
+24353,346,1,McLaren,British,278,1,1,4
+24357,346,3,Williams,British,31,7,7,0
+24358,346,4,Renault,French,89,5,5,0
+24359,346,5,Toro Rosso,Italian,10,9,9,0
+24352,346,6,Ferrari,Italian,165,3,3,1
+24354,346,9,Red Bull,Austrian,249,2,2,5
+24356,346,10,Force India,Indian,47,6,6,0
+24361,346,15,Sauber,Swiss,15,8,8,0
+24355,346,131,Mercedes,German,126,4,4,0
+24362,346,164,HRT,Spanish,0,11,11,0
+24363,346,166,HRT,Spanish,0,12,12,0
+24360,346,205,Lotus,Malaysian,0,10,10,0
+24365,347,1,McLaren,British,300,1,1,4
+24369,347,3,Williams,British,31,7,7,0
+24370,347,4,Renault,French,96,5,5,0
+24371,347,5,Toro Rosso,Italian,10,9,9,0
+24364,347,6,Ferrari,Italian,208,3,3,2
+24366,347,9,Red Bull,Austrian,272,2,2,5
+24368,347,10,Force India,Indian,47,6,6,0
+24373,347,15,Sauber,Swiss,15,8,8,0
+24367,347,131,Mercedes,German,132,4,4,0
+24374,347,164,HRT,Spanish,0,11,11,0
+24375,347,166,HRT,Spanish,0,12,12,0
+24372,347,205,Lotus,Malaysian,0,10,10,0
+24377,348,1,McLaren,British,304,2,2,4
+24381,348,3,Williams,British,40,7,7,0
+24382,348,4,Renault,French,106,5,5,0
+24383,348,5,Toro Rosso,Italian,10,9,9,0
+24376,348,6,Ferrari,Italian,238,3,3,2
+24378,348,9,Red Bull,Austrian,312,1,1,6
+24380,348,10,Force India,Indian,47,6,6,0
+24385,348,15,Sauber,Swiss,23,8,8,0
+24379,348,131,Mercedes,German,132,4,4,0
+24386,348,164,HRT,Spanish,0,11,11,0
+24387,348,166,HRT,Spanish,0,12,12,0
+24384,348,205,Lotus,Malaysian,0,10,10,0
+24389,349,1,McLaren,British,329,2,2,5
+24393,349,3,Williams,British,40,7,7,0
+24394,349,4,Renault,French,123,5,5,0
+24395,349,5,Toro Rosso,Italian,10,9,9,0
+24388,349,6,Ferrari,Italian,250,3,3,2
+24390,349,9,Red Bull,Austrian,330,1,1,6
+24392,349,10,Force India,Indian,58,6,6,0
+24397,349,15,Sauber,Swiss,27,8,8,0
+24391,349,131,Mercedes,German,146,4,4,0
+24398,349,164,HRT,Spanish,0,11,11,0
+24399,349,166,HRT,Spanish,0,12,12,0
+24396,349,205,Lotus,Malaysian,0,10,10,0
+24401,350,1,McLaren,British,347,2,2,5
+24405,350,3,Williams,British,47,7,7,0
+24406,350,4,Renault,French,127,5,5,0
+24407,350,5,Toro Rosso,Italian,10,9,9,0
+24400,350,6,Ferrari,Italian,290,3,3,3
+24402,350,9,Red Bull,Austrian,350,1,1,6
+24404,350,10,Force India,Indian,58,6,6,0
+24409,350,15,Sauber,Swiss,27,8,8,0
+24403,350,131,Mercedes,German,158,4,4,0
+24410,350,164,HRT,Spanish,0,11,11,0
+24411,350,166,HRT,Spanish,0,12,12,0
+24408,350,205,Lotus,Malaysian,0,10,10,0
+24437,351,1,McLaren,British,359,2,2,5
+24441,351,3,Williams,British,56,7,7,0
+24442,351,4,Renault,French,133,5,5,0
+24443,351,5,Toro Rosso,Italian,10,9,9,0
+24436,351,6,Ferrari,Italian,319,3,3,4
+24438,351,9,Red Bull,Austrian,383,1,1,6
+24440,351,10,Force India,Indian,60,6,6,0
+24445,351,15,Sauber,Swiss,27,8,8,0
+24439,351,131,Mercedes,German,168,4,4,0
+24446,351,164,HRT,Spanish,0,11,11,0
+24447,351,166,HRT,Spanish,0,12,12,0
+24444,351,205,Lotus,Malaysian,0,10,10,0
+24449,352,1,McLaren,British,381,2,2,5
+24453,352,3,Williams,British,58,7,7,0
+24454,352,4,Renault,French,133,5,5,0
+24455,352,5,Toro Rosso,Italian,11,9,9,0
+24448,352,6,Ferrari,Italian,334,3,3,4
+24450,352,9,Red Bull,Austrian,426,1,1,7
+24452,352,10,Force India,Indian,60,6,6,0
+24457,352,15,Sauber,Swiss,37,8,8,0
+24451,352,131,Mercedes,German,176,4,4,0
+24458,352,164,HRT,Spanish,0,11,11,0
+24459,352,166,HRT,Spanish,0,12,12,0
+24456,352,205,Lotus,Malaysian,0,10,10,0
+24473,353,1,McLaren,British,399,2,2,5
+24477,353,3,Williams,British,65,7,7,0
+24478,353,4,Renault,French,143,5,5,0
+24479,353,5,Toro Rosso,Italian,11,9,9,0
+24472,353,6,Ferrari,Italian,374,3,3,5
+24474,353,9,Red Bull,Austrian,426,1,1,7
+24476,353,10,Force India,Indian,68,6,6,0
+24481,353,15,Sauber,Swiss,43,8,8,0
+24475,353,131,Mercedes,German,188,4,4,0
+24482,353,164,HRT,Spanish,0,11,11,0
+24483,353,166,HRT,Spanish,0,12,12,0
+24480,353,205,Lotus,Malaysian,0,10,10,0
+24485,354,1,McLaren,British,421,2,2,5
+24489,354,3,Williams,British,69,6,6,0
+24490,354,4,Renault,French,145,5,5,0
+24491,354,5,Toro Rosso,Italian,11,9,9,0
+24484,354,6,Ferrari,Italian,389,3,3,5
+24486,354,9,Red Bull,Austrian,469,1,1,8
+24488,354,10,Force India,Indian,68,7,7,0
+24493,354,15,Sauber,Swiss,44,8,8,0
+24487,354,131,Mercedes,German,202,4,4,0
+24494,354,164,HRT,Spanish,0,11,11,0
+24495,354,166,HRT,Spanish,0,12,12,0
+24492,354,205,Lotus,Malaysian,0,10,10,0
+24497,355,1,McLaren,British,454,2,2,5
+24501,355,3,Williams,British,69,6,6,0
+24502,355,4,Renault,French,163,5,5,0
+24503,355,5,Toro Rosso,Italian,13,9,9,0
+24496,355,6,Ferrari,Italian,396,3,3,5
+24498,355,9,Red Bull,Austrian,498,1,1,9
+24500,355,10,Force India,Indian,68,7,7,0
+24505,355,15,Sauber,Swiss,44,8,8,0
+24499,355,131,Mercedes,German,214,4,4,0
+24506,355,164,HRT,Spanish,0,11,11,0
+24507,355,166,HRT,Spanish,0,12,12,0
+24504,355,205,Lotus,Malaysian,0,10,10,0
+24661,841,1,McLaren,British,26,2,2,0
+24668,841,3,Williams,British,0,9,9,0
+24662,841,4,Renault,French,15,4,4,0
+24664,841,5,Toro Rosso,Italian,4,5,5,0
+24663,841,6,Ferrari,Italian,18,3,3,0
+24660,841,9,Red Bull,Austrian,35,1,1,1
+24665,841,10,Force India,Indian,3,6,6,0
+24669,841,131,Mercedes,German,0,10,10,0
+24667,841,166,HRT,Spanish,0,8,8,0
+24666,841,205,Lotus,Malaysian,0,7,7,0
+24541,842,1,McLaren,British,48,2,2,0
+24548,842,3,Williams,British,0,11,11,0
+24542,842,4,Renault,French,30,4,4,0
+24544,842,5,Toro Rosso,Italian,4,6,6,0
+24543,842,6,Ferrari,Italian,36,3,3,0
+24540,842,9,Red Bull,Austrian,72,1,1,2
+24545,842,10,Force India,Indian,4,7,7,0
+24550,842,15,Sauber,Swiss,6,5,5,0
+24549,842,131,Mercedes,German,2,8,8,0
+24551,842,164,HRT,Spanish,0,12,12,0
+24547,842,166,HRT,Spanish,0,10,10,0
+24546,842,205,Lotus,Malaysian,0,9,9,0
+24553,843,1,McLaren,British,85,2,2,1
+24560,843,3,Williams,British,0,10,10,0
+24554,843,4,Renault,French,32,4,4,0
+24556,843,5,Toro Rosso,Italian,4,7,7,0
+24555,843,6,Ferrari,Italian,50,3,3,0
+24552,843,9,Red Bull,Austrian,105,1,1,2
+24557,843,10,Force India,Indian,4,8,8,0
+24562,843,15,Sauber,Swiss,7,6,6,0
+24561,843,131,Mercedes,German,16,5,5,0
+24563,843,164,HRT,Spanish,0,12,12,0
+24559,843,166,HRT,Spanish,0,11,11,0
+24558,843,205,Lotus,Malaysian,0,9,9,0
+24565,844,1,McLaren,British,105,2,2,1
+24572,844,3,Williams,British,0,10,10,0
+24566,844,4,Renault,French,42,4,4,0
+24568,844,5,Toro Rosso,Italian,6,7,7,0
+24567,844,6,Ferrari,Italian,65,3,3,0
+24564,844,9,Red Bull,Austrian,148,1,1,3
+24569,844,10,Force India,Indian,4,8,8,0
+24574,844,15,Sauber,Swiss,8,6,6,0
+24573,844,131,Mercedes,German,26,5,5,0
+24575,844,164,HRT,Spanish,0,12,12,0
+24571,844,166,HRT,Spanish,0,11,11,0
+24570,844,205,Lotus,Malaysian,0,9,9,0
+24577,845,1,McLaren,British,138,2,2,1
+24584,845,3,Williams,British,0,9,9,0
+24578,845,4,Renault,French,46,4,4,0
+24580,845,5,Toro Rosso,Italian,6,7,7,0
+24579,845,6,Ferrari,Italian,75,3,3,0
+24576,845,9,Red Bull,Austrian,185,1,1,4
+24581,845,10,Force India,Indian,4,8,8,0
+24586,845,15,Sauber,Swiss,11,6,6,0
+24585,845,131,Mercedes,German,40,5,5,0
+24587,845,164,HRT,Spanish,0,12,12,0
+24583,845,166,HRT,Spanish,0,11,11,0
+24582,845,205,Lotus,Malaysian,0,10,10,0
+24589,846,1,McLaren,British,161,2,2,1
+24596,846,3,Williams,British,2,9,9,0
+24590,846,4,Renault,French,50,4,4,0
+24592,846,5,Toro Rosso,Italian,7,8,8,0
+24591,846,6,Ferrari,Italian,93,3,3,0
+24588,846,9,Red Bull,Austrian,222,1,1,5
+24593,846,10,Force India,Indian,10,7,7,0
+24598,846,15,Sauber,Swiss,21,6,6,0
+24597,846,131,Mercedes,German,40,5,5,0
+24599,846,164,HRT,Spanish,0,12,12,0
+24595,846,166,HRT,Spanish,0,11,11,0
+24594,846,205,Lotus,Malaysian,0,10,10,0
+24601,847,1,McLaren,British,186,2,2,2
+24608,847,3,Williams,British,4,9,9,0
+24602,847,4,Renault,French,60,4,4,0
+24604,847,5,Toro Rosso,Italian,12,7,7,0
+24603,847,6,Ferrari,Italian,101,3,3,0
+24600,847,9,Red Bull,Austrian,255,1,1,5
+24605,847,10,Force India,Indian,10,8,8,0
+24610,847,15,Sauber,Swiss,27,6,6,0
+24609,847,131,Mercedes,German,52,5,5,0
+24611,847,164,HRT,Spanish,0,11,11,0
+24607,847,166,HRT,Spanish,0,12,12,0
+24606,847,205,Lotus,Malaysian,0,10,10,0
+24613,848,1,McLaren,British,206,2,2,2
+24620,848,3,Williams,British,4,9,9,0
+24614,848,4,Renault,French,61,4,4,0
+24616,848,5,Toro Rosso,Italian,16,7,7,0
+24615,848,6,Ferrari,Italian,129,3,3,0
+24612,848,9,Red Bull,Austrian,295,1,1,6
+24617,848,10,Force India,Indian,12,8,8,0
+24622,848,15,Sauber,Swiss,27,6,6,0
+24621,848,131,Mercedes,German,58,5,5,0
+24623,848,164,HRT,Spanish,0,11,11,0
+24619,848,166,HRT,Spanish,0,12,12,0
+24618,848,205,Lotus,Malaysian,0,10,10,0
+24625,849,1,McLaren,British,218,2,2,2
+24632,849,3,Williams,British,4,9,9,0
+24626,849,4,Renault,French,65,5,5,0
+24628,849,5,Toro Rosso,Italian,17,7,7,0
+24627,849,6,Ferrari,Italian,164,3,3,1
+24624,849,9,Red Bull,Austrian,328,1,1,6
+24629,849,10,Force India,Indian,12,8,8,0
+24634,849,15,Sauber,Swiss,33,6,6,0
+24633,849,131,Mercedes,German,68,4,4,0
+24635,849,164,HRT,Spanish,0,11,11,0
+24631,849,166,HRT,Spanish,0,12,12,0
+24630,849,205,Lotus,Malaysian,0,10,10,0
+24637,850,1,McLaren,British,243,2,2,3
+24644,850,3,Williams,British,4,9,9,0
+24638,850,4,Renault,French,66,5,5,0
+24640,850,5,Toro Rosso,Italian,17,8,8,0
+24639,850,6,Ferrari,Italian,192,3,3,1
+24636,850,9,Red Bull,Austrian,355,1,1,6
+24641,850,10,Force India,Indian,20,7,7,0
+24646,850,15,Sauber,Swiss,35,6,6,0
+24645,850,131,Mercedes,German,78,4,4,0
+24647,850,164,HRT,Spanish,0,11,11,0
+24643,850,166,HRT,Spanish,0,12,12,0
+24642,850,205,Lotus,Malaysian,0,10,10,0
+24649,851,1,McLaren,British,280,2,2,4
+24656,851,3,Williams,British,4,9,9,0
+24650,851,4,Renault,French,66,5,5,0
+24652,851,5,Toro Rosso,Italian,22,8,8,0
+24651,851,6,Ferrari,Italian,215,3,3,1
+24648,851,9,Red Bull,Austrian,383,1,1,6
+24653,851,10,Force India,Indian,26,7,7,0
+24658,851,15,Sauber,Swiss,35,6,6,0
+24657,851,131,Mercedes,German,80,4,4,0
+24659,851,164,HRT,Spanish,0,11,11,0
+24655,851,166,HRT,Spanish,0,12,12,0
+24654,851,205,Lotus,Malaysian,0,10,10,0
+24671,852,1,McLaren,British,295,2,2,4
+24678,852,3,Williams,British,5,9,9,0
+24672,852,4,Renault,French,68,5,5,0
+24674,852,5,Toro Rosso,Italian,22,8,8,0
+24673,852,6,Ferrari,Italian,231,3,3,1
+24670,852,9,Red Bull,Austrian,426,1,1,7
+24675,852,10,Force India,Indian,32,7,7,0
+24680,852,15,Sauber,Swiss,35,6,6,0
+24679,852,131,Mercedes,German,98,4,4,0
+24681,852,164,HRT,Spanish,0,11,11,0
+24677,852,166,HRT,Spanish,0,12,12,0
+24676,852,205,Lotus,Malaysian,0,10,10,0
+24683,853,1,McLaren,British,325,2,2,4
+24690,853,3,Williams,British,5,9,9,0
+24684,853,4,Renault,French,70,5,5,0
+24686,853,5,Toro Rosso,Italian,29,8,8,0
+24685,853,6,Ferrari,Italian,254,3,3,1
+24682,853,9,Red Bull,Austrian,451,1,1,8
+24687,853,10,Force India,Indian,36,6,6,0
+24692,853,15,Sauber,Swiss,35,7,7,0
+24691,853,131,Mercedes,German,108,4,4,0
+24693,853,164,HRT,Spanish,0,11,11,0
+24689,853,166,HRT,Spanish,0,12,12,0
+24688,853,205,Lotus,Malaysian,0,10,10,0
+24695,854,1,McLaren,British,353,2,2,4
+24702,854,3,Williams,British,5,9,9,0
+24696,854,4,Renault,French,70,5,5,0
+24698,854,5,Toro Rosso,Italian,29,8,8,0
+24697,854,6,Ferrari,Italian,268,3,3,1
+24694,854,9,Red Bull,Austrian,491,1,1,9
+24699,854,10,Force India,Indian,48,6,6,0
+24704,854,15,Sauber,Swiss,36,7,7,0
+24703,854,131,Mercedes,German,114,4,4,0
+24705,854,164,HRT,Spanish,0,11,11,0
+24701,854,166,HRT,Spanish,0,12,12,0
+24700,854,205,Lotus,Malaysian,0,10,10,0
+24707,855,1,McLaren,British,388,2,2,5
+24714,855,3,Williams,British,5,9,9,0
+24708,855,4,Renault,French,72,5,5,0
+24710,855,5,Toro Rosso,Italian,29,8,8,0
+24709,855,6,Ferrari,Italian,292,3,3,1
+24706,855,9,Red Bull,Austrian,518,1,1,9
+24711,855,10,Force India,Indian,48,6,6,0
+24716,855,15,Sauber,Swiss,40,7,7,0
+24715,855,131,Mercedes,German,123,4,4,0
+24717,855,164,HRT,Spanish,0,11,11,0
+24713,855,166,HRT,Spanish,0,12,12,0
+24712,855,205,Lotus,Malaysian,0,10,10,0
+24719,856,1,McLaren,British,418,2,2,5
+24726,856,3,Williams,British,5,9,9,0
+24720,856,4,Renault,French,72,5,5,0
+24722,856,5,Toro Rosso,Italian,37,8,8,0
+24721,856,6,Ferrari,Italian,310,3,3,1
+24718,856,9,Red Bull,Austrian,558,1,1,10
+24723,856,10,Force India,Indian,49,6,6,0
+24728,856,15,Sauber,Swiss,40,7,7,0
+24727,856,131,Mercedes,German,127,4,4,0
+24729,856,164,HRT,Spanish,0,11,11,0
+24725,856,166,HRT,Spanish,0,12,12,0
+24724,856,205,Lotus,Malaysian,0,10,10,0
+24731,857,1,McLaren,British,442,2,2,5
+24738,857,3,Williams,British,5,9,9,0
+24732,857,4,Renault,French,72,5,5,0
+24734,857,5,Toro Rosso,Italian,41,8,8,0
+24733,857,6,Ferrari,Italian,325,3,3,1
+24730,857,9,Red Bull,Austrian,595,1,1,11
+24735,857,10,Force India,Indian,51,6,6,0
+24740,857,15,Sauber,Swiss,41,7,7,0
+24739,857,131,Mercedes,German,145,4,4,0
+24741,857,164,HRT,Spanish,0,11,11,0
+24737,857,166,HRT,Spanish,0,12,12,0
+24736,857,205,Lotus,Malaysian,0,10,10,0
+24743,858,1,McLaren,British,482,2,2,6
+24750,858,3,Williams,British,5,9,9,0
+24744,858,4,Renault,French,72,5,5,0
+24746,858,5,Toro Rosso,Italian,41,8,8,0
+24745,858,6,Ferrari,Italian,353,3,3,1
+24742,858,9,Red Bull,Austrian,607,1,1,11
+24747,858,10,Force India,Indian,57,6,6,0
+24752,858,15,Sauber,Swiss,42,7,7,0
+24751,858,131,Mercedes,German,159,4,4,0
+24753,858,164,HRT,Spanish,0,11,11,0
+24749,858,166,HRT,Spanish,0,12,12,0
+24748,858,205,Lotus,Malaysian,0,10,10,0
+24755,859,1,McLaren,British,497,2,2,6
+24762,859,3,Williams,British,5,9,9,0
+24756,859,4,Renault,French,73,5,5,0
+24758,859,5,Toro Rosso,Italian,41,8,8,0
+24757,859,6,Ferrari,Italian,375,3,3,1
+24754,859,9,Red Bull,Austrian,650,1,1,12
+24759,859,10,Force India,Indian,69,6,6,0
+24764,859,15,Sauber,Swiss,44,7,7,0
+24763,859,131,Mercedes,German,165,4,4,0
+24765,859,164,HRT,Spanish,0,11,11,0
+24761,859,166,HRT,Spanish,0,12,12,0
+24760,859,205,Lotus,Malaysian,0,10,10,0
+24932,860,1,McLaren,British,40,1,1,1
+24940,860,3,Williams,British,0,9,9,0
+24937,860,5,Toro Rosso,Italian,2,6,6,0
+24934,860,6,Ferrari,Italian,10,4,4,0
+24933,860,9,Red Bull,Austrian,30,2,2,0
+24938,860,10,Force India,Indian,1,7,7,0
+24935,860,15,Sauber,Swiss,12,3,3,0
+24939,860,131,Mercedes,German,0,8,8,0
+24941,860,206,Marussia,Russian,0,10,10,0
+24942,860,207,Caterham,Malaysian,0,11,11,0
+24936,860,208,Lotus F1,British,6,5,5,0
+24777,861,1,McLaren,British,55,1,1,1
+24785,861,3,Williams,British,8,7,7,0
+24782,861,5,Toro Rosso,Italian,6,8,8,0
+24779,861,6,Ferrari,Italian,35,3,3,1
+24778,861,9,Red Bull,Austrian,42,2,2,0
+24783,861,10,Force India,Indian,9,6,6,0
+24780,861,15,Sauber,Swiss,30,4,4,0
+24784,861,131,Mercedes,German,1,9,9,0
+24788,861,164,HRT,Spanish,0,12,12,0
+24786,861,206,Marussia,Russian,0,10,10,0
+24787,861,207,Caterham,Malaysian,0,11,11,0
+24781,861,208,Lotus F1,British,16,5,5,0
+24789,862,1,McLaren,British,88,1,1,1
+24797,862,3,Williams,British,18,7,7,0
+24794,862,5,Toro Rosso,Italian,6,9,9,0
+24791,862,6,Ferrari,Italian,37,3,3,1
+24790,862,9,Red Bull,Austrian,64,2,2,0
+24795,862,10,Force India,Indian,9,8,8,0
+24792,862,15,Sauber,Swiss,31,4,4,0
+24796,862,131,Mercedes,German,26,5,5,1
+24800,862,164,HRT,Spanish,0,12,12,0
+24798,862,206,Marussia,Russian,0,10,10,0
+24799,862,207,Caterham,Malaysian,0,11,11,0
+24793,862,208,Lotus F1,British,24,6,6,0
+24824,863,1,McLaren,British,92,2,2,1
+24832,863,3,Williams,British,18,7,7,0
+24829,863,5,Toro Rosso,Italian,6,9,9,0
+24826,863,6,Ferrari,Italian,45,4,4,1
+24825,863,9,Red Bull,Austrian,101,1,1,1
+24830,863,10,Force India,Indian,17,8,8,0
+24827,863,15,Sauber,Swiss,31,6,6,0
+24831,863,131,Mercedes,German,37,5,5,1
+24835,863,164,HRT,Spanish,0,12,12,0
+24833,863,206,Marussia,Russian,0,10,10,0
+24834,863,207,Caterham,Malaysian,0,11,11,0
+24828,863,208,Lotus F1,British,57,3,3,0
+24836,864,1,McLaren,British,98,2,2,1
+24844,864,3,Williams,British,43,6,6,1
+24841,864,5,Toro Rosso,Italian,6,9,9,0
+24838,864,6,Ferrari,Italian,63,4,4,1
+24837,864,9,Red Bull,Austrian,109,1,1,1
+24842,864,10,Force India,Indian,18,8,8,0
+24839,864,15,Sauber,Swiss,41,7,7,0
+24843,864,131,Mercedes,German,43,5,5,1
+24847,864,164,HRT,Spanish,0,12,12,0
+24845,864,206,Marussia,Russian,0,10,10,0
+24846,864,207,Caterham,Malaysian,0,11,11,0
+24840,864,208,Lotus F1,British,84,3,3,0
+24848,865,1,McLaren,British,108,2,2,1
+24856,865,3,Williams,British,44,6,6,1
+24853,865,5,Toro Rosso,Italian,6,9,9,0
+24850,865,6,Ferrari,Italian,86,3,3,1
+24849,865,9,Red Bull,Austrian,146,1,1,2
+24854,865,10,Force India,Indian,28,8,8,0
+24851,865,15,Sauber,Swiss,41,7,7,0
+24855,865,131,Mercedes,German,61,5,5,1
+24859,865,164,HRT,Spanish,0,12,12,0
+24857,865,206,Marussia,Russian,0,11,11,0
+24858,865,207,Caterham,Malaysian,0,10,10,0
+24852,865,208,Lotus F1,British,86,4,4,0
+24860,866,1,McLaren,British,133,2,2,2
+24868,866,3,Williams,British,44,7,7,1
+24865,866,5,Toro Rosso,Italian,6,9,9,0
+24862,866,6,Ferrari,Italian,97,4,4,1
+24861,866,9,Red Bull,Austrian,164,1,1,2
+24866,866,10,Force India,Indian,28,8,8,0
+24863,866,15,Sauber,Swiss,58,6,6,0
+24867,866,131,Mercedes,German,69,5,5,1
+24871,866,164,HRT,Spanish,0,12,12,0
+24869,866,206,Marussia,Russian,0,11,11,0
+24870,866,207,Caterham,Malaysian,0,10,10,0
+24864,866,208,Lotus F1,British,108,3,3,0
+24872,867,1,McLaren,British,137,2,2,2
+24880,867,3,Williams,British,45,7,7,1
+24877,867,5,Toro Rosso,Italian,6,9,9,0
+24874,867,6,Ferrari,Italian,122,4,4,2
+24873,867,9,Red Bull,Austrian,176,1,1,2
+24878,867,10,Force India,Indian,44,8,8,0
+24875,867,15,Sauber,Swiss,60,6,6,0
+24879,867,131,Mercedes,German,92,5,5,1
+24883,867,164,HRT,Spanish,0,12,12,0
+24881,867,206,Marussia,Russian,0,11,11,0
+24882,867,207,Caterham,Malaysian,0,10,10,0
+24876,867,208,Lotus F1,British,126,3,3,0
+24884,868,1,McLaren,British,142,4,4,2
+24892,868,3,Williams,British,47,7,7,1
+24889,868,5,Toro Rosso,Italian,6,9,9,0
+24886,868,6,Ferrari,Italian,152,2,2,2
+24885,868,9,Red Bull,Austrian,216,1,1,3
+24890,868,10,Force India,Indian,44,8,8,0
+24887,868,15,Sauber,Swiss,60,6,6,0
+24891,868,131,Mercedes,German,98,5,5,1
+24895,868,164,HRT,Spanish,0,12,12,0
+24893,868,206,Marussia,Russian,0,11,11,0
+24894,868,207,Caterham,Malaysian,0,10,10,0
+24888,868,208,Lotus F1,British,144,3,3,0
+24967,869,1,McLaren,British,160,3,3,2
+24975,869,3,Williams,British,47,7,7,1
+24972,869,5,Toro Rosso,Italian,6,9,9,0
+24969,869,6,Ferrari,Italian,177,2,2,3
+24968,869,9,Red Bull,Austrian,230,1,1,3
+24973,869,10,Force India,Indian,46,8,8,0
+24970,869,15,Sauber,Swiss,80,6,6,0
+24974,869,131,Mercedes,German,105,5,5,1
+24978,869,164,HRT,Spanish,0,12,12,0
+24976,869,206,Marussia,Russian,0,11,11,0
+24977,869,207,Caterham,Malaysian,0,10,10,0
+24971,869,208,Lotus F1,British,159,4,4,0
+24979,870,1,McLaren,British,193,2,2,3
+24987,870,3,Williams,British,53,7,7,1
+24984,870,5,Toro Rosso,Italian,6,9,9,0
+24981,870,6,Ferrari,Italian,189,4,4,3
+24980,870,9,Red Bull,Austrian,246,1,1,3
+24985,870,10,Force India,Indian,46,8,8,0
+24982,870,15,Sauber,Swiss,80,6,6,0
+24986,870,131,Mercedes,German,106,5,5,1
+24990,870,164,HRT,Spanish,0,12,12,0
+24988,870,206,Marussia,Russian,0,11,11,0
+24989,870,207,Caterham,Malaysian,0,10,10,0
+24983,870,208,Lotus F1,British,192,3,3,0
+24991,871,1,McLaren,British,218,2,2,4
+24999,871,3,Williams,British,53,8,8,1
+24996,871,5,Toro Rosso,Italian,12,9,9,0
+24993,871,6,Ferrari,Italian,199,4,4,3
+24992,871,9,Red Bull,Austrian,272,1,1,3
+24997,871,10,Force India,Indian,59,7,7,0
+24994,871,15,Sauber,Swiss,80,6,6,0
+24998,871,131,Mercedes,German,112,5,5,1
+25002,871,164,HRT,Spanish,0,12,12,0
+25000,871,206,Marussia,Russian,0,11,11,0
+25001,871,207,Caterham,Malaysian,0,10,10,0
+24995,871,208,Lotus F1,British,207,3,3,0
+25003,872,1,McLaren,British,243,2,2,5
+25011,872,3,Williams,British,54,8,8,1
+25008,872,5,Toro Rosso,Italian,12,9,9,0
+25005,872,6,Ferrari,Italian,226,3,3,3
+25004,872,9,Red Bull,Austrian,272,1,1,3
+25009,872,10,Force India,Indian,63,7,7,0
+25006,872,15,Sauber,Swiss,100,6,6,0
+25010,872,131,Mercedes,German,126,5,5,1
+25014,872,164,HRT,Spanish,0,12,12,0
+25012,872,206,Marussia,Russian,0,11,11,0
+25013,872,207,Caterham,Malaysian,0,10,10,0
+25007,872,208,Lotus F1,British,217,4,4,0
+25039,873,1,McLaren,British,261,2,2,5
+25047,873,3,Williams,British,54,8,8,1
+25044,873,5,Toro Rosso,Italian,14,9,9,0
+25041,873,6,Ferrari,Italian,245,3,3,3
+25040,873,9,Red Bull,Austrian,297,1,1,4
+25045,873,10,Force India,Indian,75,7,7,0
+25042,873,15,Sauber,Swiss,101,6,6,0
+25046,873,131,Mercedes,German,136,5,5,1
+25050,873,164,HRT,Spanish,0,12,12,0
+25048,873,206,Marussia,Russian,0,10,10,0
+25049,873,207,Caterham,Malaysian,0,11,11,0
+25043,873,208,Lotus F1,British,231,4,4,0
+25051,874,1,McLaren,British,283,2,2,5
+25059,874,3,Williams,British,58,8,8,1
+25056,874,5,Toro Rosso,Italian,15,9,9,0
+25053,874,6,Ferrari,Italian,263,3,3,3
+25052,874,9,Red Bull,Austrian,324,1,1,5
+25057,874,10,Force India,Indian,81,7,7,0
+25054,874,15,Sauber,Swiss,116,6,6,0
+25058,874,131,Mercedes,German,136,5,5,1
+25062,874,164,HRT,Spanish,0,12,12,0
+25060,874,206,Marussia,Russian,0,10,10,0
+25061,874,207,Caterham,Malaysian,0,11,11,0
+25055,874,208,Lotus F1,British,239,4,4,0
+25063,875,1,McLaren,British,284,3,3,5
+25071,875,3,Williams,British,58,8,8,1
+25068,875,5,Toro Rosso,Italian,21,9,9,0
+25065,875,6,Ferrari,Italian,290,2,2,3
+25064,875,9,Red Bull,Austrian,367,1,1,6
+25069,875,10,Force India,Indian,89,7,7,0
+25066,875,15,Sauber,Swiss,116,6,6,0
+25070,875,131,Mercedes,German,136,5,5,1
+25074,875,164,HRT,Spanish,0,12,12,0
+25072,875,206,Marussia,Russian,0,10,10,0
+25073,875,207,Caterham,Malaysian,0,11,11,0
+25067,875,208,Lotus F1,British,255,4,4,0
+25087,876,1,McLaren,British,306,3,3,5
+25095,876,3,Williams,British,59,8,8,1
+25092,876,5,Toro Rosso,Italian,21,9,9,0
+25089,876,6,Ferrari,Italian,316,2,2,3
+25088,876,9,Red Bull,Austrian,407,1,1,7
+25093,876,10,Force India,Indian,93,7,7,0
+25090,876,15,Sauber,Swiss,116,6,6,0
+25094,876,131,Mercedes,German,136,5,5,1
+25098,876,164,HRT,Spanish,0,12,12,0
+25096,876,206,Marussia,Russian,0,10,10,0
+25097,876,207,Caterham,Malaysian,0,11,11,0
+25091,876,208,Lotus F1,British,263,4,4,0
+25099,877,1,McLaren,British,318,3,3,5
+25107,877,3,Williams,British,73,8,8,1
+25104,877,5,Toro Rosso,Italian,22,9,9,0
+25101,877,6,Ferrari,Italian,340,2,2,3
+25100,877,9,Red Bull,Austrian,422,1,1,7
+25105,877,10,Force India,Indian,95,7,7,0
+25102,877,15,Sauber,Swiss,124,6,6,0
+25106,877,131,Mercedes,German,136,5,5,1
+25110,877,164,HRT,Spanish,0,12,12,0
+25108,877,206,Marussia,Russian,0,10,10,0
+25109,877,207,Caterham,Malaysian,0,11,11,0
+25103,877,208,Lotus F1,British,288,4,4,1
+25111,878,1,McLaren,British,353,3,3,6
+25119,878,3,Williams,British,76,8,8,1
+25116,878,5,Toro Rosso,Italian,22,9,9,0
+25113,878,6,Ferrari,Italian,367,2,2,3
+25112,878,9,Red Bull,Austrian,440,1,1,7
+25117,878,10,Force India,Indian,99,7,7,0
+25114,878,15,Sauber,Swiss,124,6,6,0
+25118,878,131,Mercedes,German,136,5,5,1
+25122,878,164,HRT,Spanish,0,12,12,0
+25120,878,206,Marussia,Russian,0,10,10,0
+25121,878,207,Caterham,Malaysian,0,11,11,0
+25115,878,208,Lotus F1,British,302,4,4,1
+25123,879,1,McLaren,British,378,3,3,7
+25131,879,3,Williams,British,76,8,8,1
+25128,879,5,Toro Rosso,Italian,26,9,9,0
+25125,879,6,Ferrari,Italian,400,2,2,3
+25124,879,9,Red Bull,Austrian,460,1,1,7
+25129,879,10,Force India,Indian,109,7,7,0
+25126,879,15,Sauber,Swiss,126,6,6,0
+25130,879,131,Mercedes,German,142,5,5,1
+25134,879,164,HRT,Spanish,0,12,12,0
+25132,879,206,Marussia,Russian,0,11,11,0
+25133,879,207,Caterham,Malaysian,0,10,10,0
+25127,879,208,Lotus F1,British,303,4,4,1
+25140,880,1,McLaren,British,2,6,6,0
+25143,880,3,Williams,British,0,9,9,0
+25141,880,5,Toro Rosso,Italian,0,7,7,0
+25136,880,6,Ferrari,Italian,30,1,1,0
+25137,880,9,Red Bull,Austrian,23,3,3,0
+25139,880,10,Force India,Indian,10,5,5,0
+25142,880,15,Sauber,Swiss,0,8,8,0
+25138,880,131,Mercedes,German,10,4,4,0
+25144,880,206,Marussia,Russian,0,10,10,0
+25145,880,207,Caterham,Malaysian,0,11,11,0
+25135,880,208,Lotus F1,British,26,2,2,1
+25151,881,1,McLaren,British,4,7,7,0
+25154,881,3,Williams,British,0,9,9,0
+25152,881,5,Toro Rosso,Italian,1,8,8,0
+25147,881,6,Ferrari,Italian,40,3,3,0
+25148,881,9,Red Bull,Austrian,66,1,1,1
+25150,881,10,Force India,Indian,10,5,5,0
+25153,881,15,Sauber,Swiss,4,6,6,0
+25149,881,131,Mercedes,German,37,4,4,0
+25155,881,206,Marussia,Russian,0,10,10,0
+25156,881,207,Caterham,Malaysian,0,11,11,0
+25146,881,208,Lotus F1,British,40,2,2,1
+25162,882,1,McLaren,British,14,5,5,0
+25165,882,3,Williams,British,0,9,9,0
+25163,882,5,Toro Rosso,Italian,7,7,7,0
+25158,882,6,Ferrari,Italian,73,2,2,1
+25159,882,9,Red Bull,Austrian,78,1,1,1
+25161,882,10,Force India,Indian,14,6,6,0
+25164,882,15,Sauber,Swiss,5,8,8,0
+25160,882,131,Mercedes,German,52,4,4,0
+25166,882,206,Marussia,Russian,0,10,10,0
+25167,882,207,Caterham,Malaysian,0,11,11,0
+25157,882,208,Lotus F1,British,60,3,3,1
+25173,883,1,McLaren,British,23,6,6,0
+25176,883,3,Williams,British,0,9,9,0
+25174,883,5,Toro Rosso,Italian,7,7,7,0
+25169,883,6,Ferrari,Italian,77,3,3,1
+25170,883,9,Red Bull,Austrian,109,1,1,2
+25172,883,10,Force India,Indian,26,5,5,0
+25175,883,15,Sauber,Swiss,5,8,8,0
+25171,883,131,Mercedes,German,64,4,4,0
+25177,883,206,Marussia,Russian,0,10,10,0
+25178,883,207,Caterham,Malaysian,0,11,11,0
+25168,883,208,Lotus F1,British,93,2,2,1
+25184,884,1,McLaren,British,29,6,6,0
+25187,884,3,Williams,British,0,9,9,0
+25185,884,5,Toro Rosso,Italian,8,7,7,0
+25180,884,6,Ferrari,Italian,117,2,2,2
+25181,884,9,Red Bull,Austrian,131,1,1,2
+25183,884,10,Force India,Indian,32,5,5,0
+25186,884,15,Sauber,Swiss,5,8,8,0
+25182,884,131,Mercedes,German,72,4,4,0
+25188,884,206,Marussia,Russian,0,10,10,0
+25189,884,207,Caterham,Malaysian,0,11,11,0
+25179,884,208,Lotus F1,British,111,3,3,1
+25195,885,1,McLaren,British,37,6,6,0
+25198,885,3,Williams,British,0,9,9,0
+25196,885,5,Toro Rosso,Italian,12,7,7,0
+25191,885,6,Ferrari,Italian,123,2,2,2
+25192,885,9,Red Bull,Austrian,164,1,1,2
+25194,885,10,Force India,Indian,44,5,5,0
+25197,885,15,Sauber,Swiss,5,8,8,0
+25193,885,131,Mercedes,German,109,4,4,1
+25199,885,206,Marussia,Russian,0,10,10,0
+25200,885,207,Caterham,Malaysian,0,11,11,0
+25190,885,208,Lotus F1,British,112,3,3,1
+25206,886,1,McLaren,British,37,6,6,0
+25209,886,3,Williams,British,0,9,9,0
+25207,886,5,Toro Rosso,Italian,20,7,7,0
+25202,886,6,Ferrari,Italian,145,2,2,2
+25203,886,9,Red Bull,Austrian,201,1,1,3
+25205,886,10,Force India,Indian,51,5,5,0
+25208,886,15,Sauber,Swiss,5,8,8,0
+25204,886,131,Mercedes,German,134,3,3,1
+25210,886,206,Marussia,Russian,0,10,10,0
+25211,886,207,Caterham,Malaysian,0,11,11,0
+25201,886,208,Lotus F1,British,114,4,4,1
+25217,887,1,McLaren,British,37,6,6,0
+25220,887,3,Williams,British,0,9,9,0
+25218,887,5,Toro Rosso,Italian,24,7,7,0
+25213,887,6,Ferrari,Italian,168,3,3,2
+25214,887,9,Red Bull,Austrian,219,1,1,3
+25216,887,10,Force India,Indian,59,5,5,0
+25219,887,15,Sauber,Swiss,6,8,8,0
+25215,887,131,Mercedes,German,171,2,2,2
+25221,887,206,Marussia,Russian,0,10,10,0
+25222,887,207,Caterham,Malaysian,0,11,11,0
+25212,887,208,Lotus F1,British,124,4,4,1
+25228,888,1,McLaren,British,49,6,6,0
+25231,888,3,Williams,British,0,9,9,0
+25229,888,5,Toro Rosso,Italian,24,7,7,0
+25224,888,6,Ferrari,Italian,180,3,3,2
+25225,888,9,Red Bull,Austrian,250,1,1,4
+25227,888,10,Force India,Indian,59,5,5,0
+25230,888,15,Sauber,Swiss,7,8,8,0
+25226,888,131,Mercedes,German,183,2,2,2
+25232,888,206,Marussia,Russian,0,10,10,0
+25233,888,207,Caterham,Malaysian,0,11,11,0
+25223,888,208,Lotus F1,British,157,4,4,1
+25239,890,1,McLaren,British,57,6,6,0
+25242,890,3,Williams,British,1,9,9,0
+25240,890,5,Toro Rosso,Italian,24,7,7,0
+25235,890,6,Ferrari,Italian,194,3,3,2
+25236,890,9,Red Bull,Austrian,277,1,1,4
+25238,890,10,Force India,Indian,59,5,5,0
+25241,890,15,Sauber,Swiss,7,8,8,0
+25237,890,131,Mercedes,German,208,2,2,3
+25243,890,206,Marussia,Russian,0,10,10,0
+25244,890,207,Caterham,Malaysian,0,11,11,0
+25234,890,208,Lotus F1,British,183,4,4,1
+25250,891,1,McLaren,British,65,5,5,0
+25253,891,3,Williams,British,1,9,9,0
+25251,891,5,Toro Rosso,Italian,25,7,7,0
+25246,891,6,Ferrari,Italian,218,3,3,2
+25247,891,9,Red Bull,Austrian,312,1,1,5
+25249,891,10,Force India,Indian,61,6,6,0
+25252,891,15,Sauber,Swiss,7,8,8,0
+25248,891,131,Mercedes,German,235,2,2,3
+25254,891,206,Marussia,Russian,0,10,10,0
+25255,891,207,Caterham,Malaysian,0,11,11,0
+25245,891,208,Lotus F1,British,187,4,4,1
+25272,892,1,McLaren,British,66,5,5,0
+25275,892,3,Williams,British,1,9,9,0
+25273,892,5,Toro Rosso,Italian,31,7,7,0
+25268,892,6,Ferrari,Italian,248,2,2,2
+25269,892,9,Red Bull,Austrian,352,1,1,6
+25271,892,10,Force India,Indian,61,6,6,0
+25274,892,15,Sauber,Swiss,17,8,8,0
+25270,892,131,Mercedes,German,245,3,3,3
+25276,892,206,Marussia,Russian,0,10,10,0
+25277,892,207,Caterham,Malaysian,0,11,11,0
+25267,892,208,Lotus F1,British,191,4,4,1
+25283,893,1,McLaren,British,76,5,5,0
+25286,893,3,Williams,British,1,9,9,0
+25284,893,5,Toro Rosso,Italian,31,7,7,0
+25279,893,6,Ferrari,Italian,274,2,2,2
+25280,893,9,Red Bull,Austrian,377,1,1,7
+25282,893,10,Force India,Indian,62,6,6,0
+25285,893,15,Sauber,Swiss,19,8,8,0
+25281,893,131,Mercedes,German,267,3,3,3
+25287,893,206,Marussia,Russian,0,10,10,0
+25288,893,207,Caterham,Malaysian,0,11,11,0
+25278,893,208,Lotus F1,British,206,4,4,1
+25294,894,1,McLaren,British,81,5,5,0
+25297,894,3,Williams,British,1,9,9,0
+25295,894,5,Toro Rosso,Italian,31,8,8,0
+25290,894,6,Ferrari,Italian,284,2,2,2
+25291,894,9,Red Bull,Austrian,402,1,1,8
+25293,894,10,Force India,Indian,62,6,6,0
+25296,894,15,Sauber,Swiss,31,7,7,0
+25292,894,131,Mercedes,German,283,3,3,3
+25298,894,206,Marussia,Russian,0,10,10,0
+25299,894,207,Caterham,Malaysian,0,11,11,0
+25289,894,208,Lotus F1,British,239,4,4,1
+25305,895,1,McLaren,British,83,5,5,0
+25308,895,3,Williams,British,1,9,9,0
+25306,895,5,Toro Rosso,Italian,31,8,8,0
+25301,895,6,Ferrari,Italian,297,2,2,2
+25302,895,9,Red Bull,Austrian,445,1,1,9
+25304,895,10,Force India,Indian,62,6,6,0
+25307,895,15,Sauber,Swiss,45,7,7,0
+25303,895,131,Mercedes,German,287,3,3,3
+25309,895,206,Marussia,Russian,0,10,10,0
+25310,895,207,Caterham,Malaysian,0,11,11,0
+25300,895,208,Lotus F1,British,264,4,4,1
+25316,896,1,McLaren,British,93,5,5,0
+25319,896,3,Williams,British,1,9,9,0
+25317,896,5,Toro Rosso,Italian,32,8,8,0
+25312,896,6,Ferrari,Italian,309,3,3,2
+25313,896,9,Red Bull,Austrian,470,1,1,10
+25315,896,10,Force India,Indian,68,6,6,0
+25318,896,15,Sauber,Swiss,45,7,7,0
+25314,896,131,Mercedes,German,313,2,2,3
+25320,896,206,Marussia,Russian,0,10,10,0
+25321,896,207,Caterham,Malaysian,0,11,11,0
+25311,896,208,Lotus F1,British,285,4,4,1
+25327,897,1,McLaren,British,95,5,5,0
+25330,897,3,Williams,British,1,9,9,0
+25328,897,5,Toro Rosso,Italian,32,8,8,0
+25323,897,6,Ferrari,Italian,323,3,3,2
+25324,897,9,Red Bull,Austrian,513,1,1,11
+25326,897,10,Force India,Indian,77,6,6,0
+25329,897,15,Sauber,Swiss,45,7,7,0
+25325,897,131,Mercedes,German,334,2,2,3
+25331,897,206,Marussia,Russian,0,10,10,0
+25332,897,207,Caterham,Malaysian,0,11,11,0
+25322,897,208,Lotus F1,British,297,4,4,1
+25338,898,1,McLaren,British,102,5,5,0
+25341,898,3,Williams,British,5,9,9,0
+25339,898,5,Toro Rosso,Italian,32,8,8,0
+25334,898,6,Ferrari,Italian,333,3,3,2
+25335,898,9,Red Bull,Austrian,553,1,1,12
+25337,898,10,Force India,Indian,77,6,6,0
+25340,898,15,Sauber,Swiss,53,7,7,0
+25336,898,131,Mercedes,German,348,2,2,3
+25342,898,206,Marussia,Russian,0,10,10,0
+25343,898,207,Caterham,Malaysian,0,11,11,0
+25333,898,208,Lotus F1,British,315,4,4,1
+25349,899,1,McLaren,British,122,5,5,0
+25352,899,3,Williams,British,5,9,9,0
+25350,899,5,Toro Rosso,Italian,33,8,8,0
+25345,899,6,Ferrari,Italian,354,3,3,2
+25346,899,9,Red Bull,Austrian,596,1,1,13
+25348,899,10,Force India,Indian,77,6,6,0
+25351,899,15,Sauber,Swiss,57,7,7,0
+25347,899,131,Mercedes,German,360,2,2,3
+25353,899,206,Marussia,Russian,0,10,10,0
+25354,899,207,Caterham,Malaysian,0,11,11,0
+25344,899,208,Lotus F1,British,315,4,4,1
+25932,900,1,McLaren,British,33,1,1,0
+25934,900,3,Williams,British,10,4,4,0
+25936,900,5,Toro Rosso,Italian,6,6,6,0
+25933,900,6,Ferrari,Italian,18,3,3,0
+25941,900,9,Red Bull,Austrian,0,11,11,0
+25935,900,10,Force India,Indian,9,5,5,0
+25937,900,15,Sauber,Swiss,0,7,7,0
+25931,900,131,Mercedes,German,25,2,2,1
+25938,900,206,Marussia,Russian,0,8,8,0
+25940,900,207,Caterham,Malaysian,0,10,10,0
+25939,900,208,Lotus F1,British,0,9,9,0
+25943,901,1,McLaren,British,43,2,2,0
+25945,901,3,Williams,British,20,4,4,0
+25947,901,5,Toro Rosso,Italian,7,7,7,0
+25944,901,6,Ferrari,Italian,30,3,3,0
+25952,901,9,Red Bull,Austrian,15,6,6,0
+25946,901,10,Force India,Indian,19,5,5,0
+25948,901,15,Sauber,Swiss,0,8,8,0
+25942,901,131,Mercedes,German,68,1,1,2
+25949,901,206,Marussia,Russian,0,11,11,0
+25951,901,207,Caterham,Malaysian,0,10,10,0
+25950,901,208,Lotus F1,British,0,9,9,0
+25954,902,1,McLaren,British,43,3,3,0
+25956,902,3,Williams,British,30,6,6,0
+25958,902,5,Toro Rosso,Italian,7,7,7,0
+25955,902,6,Ferrari,Italian,33,5,5,0
+25963,902,9,Red Bull,Austrian,35,4,4,0
+25957,902,10,Force India,Indian,44,2,2,0
+25959,902,15,Sauber,Swiss,0,9,9,0
+25953,902,131,Mercedes,German,111,1,1,3
+25960,902,206,Marussia,Russian,0,10,10,0
+25962,902,207,Caterham,Malaysian,0,11,11,0
+25961,902,208,Lotus F1,British,0,8,8,0
+25965,903,1,McLaren,British,43,5,5,0
+25967,903,3,Williams,British,36,6,6,0
+25969,903,5,Toro Rosso,Italian,8,7,7,0
+25966,903,6,Ferrari,Italian,52,4,4,0
+25974,903,9,Red Bull,Austrian,57,2,2,0
+25968,903,10,Force India,Indian,54,3,3,0
+25970,903,15,Sauber,Swiss,0,9,9,0
+25964,903,131,Mercedes,German,154,1,1,4
+25971,903,206,Marussia,Russian,0,10,10,0
+25973,903,207,Caterham,Malaysian,0,11,11,0
+25972,903,208,Lotus F1,British,0,8,8,0
+25976,904,1,McLaren,British,43,6,6,0
+25978,904,3,Williams,British,46,5,5,0
+25980,904,5,Toro Rosso,Italian,8,7,7,0
+25977,904,6,Ferrari,Italian,66,3,3,0
+25985,904,9,Red Bull,Austrian,84,2,2,0
+25979,904,10,Force India,Indian,57,4,4,0
+25981,904,15,Sauber,Swiss,0,9,9,0
+25975,904,131,Mercedes,German,197,1,1,5
+25982,904,206,Marussia,Russian,0,10,10,0
+25984,904,207,Caterham,Malaysian,0,11,11,0
+25983,904,208,Lotus F1,British,4,8,8,0
+25987,905,1,McLaren,British,52,5,5,0
+25989,905,3,Williams,British,52,6,6,0
+25991,905,5,Toro Rosso,Italian,8,8,8,0
+25988,905,6,Ferrari,Italian,78,3,3,0
+25996,905,9,Red Bull,Austrian,99,2,2,0
+25990,905,10,Force India,Indian,67,4,4,0
+25992,905,15,Sauber,Swiss,0,10,10,0
+25986,905,131,Mercedes,German,240,1,1,6
+25993,905,206,Marussia,Russian,2,9,9,0
+25995,905,207,Caterham,Malaysian,0,11,11,0
+25994,905,208,Lotus F1,British,8,7,7,0
+25998,906,1,McLaren,British,66,5,5,0
+26000,906,3,Williams,British,58,6,6,0
+26002,906,5,Toro Rosso,Italian,12,7,7,0
+25999,906,6,Ferrari,Italian,87,3,3,0
+26007,906,9,Red Bull,Austrian,139,2,2,1
+26001,906,10,Force India,Indian,77,4,4,0
+26003,906,15,Sauber,Swiss,0,10,10,0
+25997,906,131,Mercedes,German,258,1,1,6
+26004,906,206,Marussia,Russian,2,9,9,0
+26006,906,207,Caterham,Malaysian,0,11,11,0
+26005,906,208,Lotus F1,British,8,8,8,0
+26009,907,1,McLaren,British,72,6,6,0
+26011,907,3,Williams,British,85,5,5,0
+26013,907,5,Toro Rosso,Italian,12,7,7,0
+26010,907,6,Ferrari,Italian,98,3,3,0
+26018,907,9,Red Bull,Austrian,143,2,2,1
+26012,907,10,Force India,Indian,87,4,4,0
+26014,907,15,Sauber,Swiss,0,10,10,0
+26008,907,131,Mercedes,German,301,1,1,7
+26015,907,206,Marussia,Russian,2,9,9,0
+26017,907,207,Caterham,Malaysian,0,11,11,0
+26016,907,208,Lotus F1,British,8,8,8,0
+26020,908,1,McLaren,British,90,6,6,0
+26022,908,3,Williams,British,103,4,4,0
+26024,908,5,Toro Rosso,Italian,15,7,7,0
+26021,908,6,Ferrari,Italian,106,3,3,0
+26029,908,9,Red Bull,Austrian,168,2,2,1
+26023,908,10,Force India,Indian,91,5,5,0
+26025,908,15,Sauber,Swiss,0,10,10,0
+26019,908,131,Mercedes,German,326,1,1,8
+26026,908,206,Marussia,Russian,2,9,9,0
+26028,908,207,Caterham,Malaysian,0,11,11,0
+26027,908,208,Lotus F1,British,8,8,8,0
+26031,909,1,McLaren,British,96,6,6,0
+26033,909,3,Williams,British,121,3,3,0
+26035,909,5,Toro Rosso,Italian,15,7,7,0
+26032,909,6,Ferrari,Italian,116,4,4,0
+26040,909,9,Red Bull,Austrian,188,2,2,1
+26034,909,10,Force India,Indian,98,5,5,0
+26036,909,15,Sauber,Swiss,0,10,10,0
+26030,909,131,Mercedes,German,366,1,1,9
+26037,909,206,Marussia,Russian,2,9,9,0
+26039,909,207,Caterham,Malaysian,0,11,11,0
+26038,909,208,Lotus F1,British,8,8,8,0
+26042,910,1,McLaren,British,97,6,6,0
+26044,910,3,Williams,British,135,4,4,0
+26046,910,5,Toro Rosso,Italian,17,7,7,0
+26043,910,6,Ferrari,Italian,142,3,3,0
+26051,910,9,Red Bull,Austrian,219,2,2,2
+26045,910,10,Force India,Indian,98,5,5,0
+26047,910,15,Sauber,Swiss,0,10,10,0
+26041,910,131,Mercedes,German,393,1,1,9
+26048,910,206,Marussia,Russian,2,9,9,0
+26050,910,207,Caterham,Malaysian,0,11,11,0
+26049,910,208,Lotus F1,British,8,8,8,0
+26053,911,1,McLaren,British,105,5,5,0
+26055,911,3,Williams,British,150,4,4,0
+26057,911,5,Toro Rosso,Italian,19,7,7,0
+26054,911,6,Ferrari,Italian,160,3,3,0
+26062,911,9,Red Bull,Austrian,254,2,2,3
+26056,911,10,Force India,Indian,103,6,6,0
+26058,911,15,Sauber,Swiss,0,10,10,0
+26052,911,131,Mercedes,German,411,1,1,9
+26059,911,206,Marussia,Russian,2,9,9,0
+26061,911,207,Caterham,Malaysian,0,11,11,0
+26060,911,208,Lotus F1,British,8,8,8,0
+26064,912,1,McLaren,British,110,5,5,0
+26066,912,3,Williams,British,177,3,3,0
+26068,912,5,Toro Rosso,Italian,19,7,7,0
+26065,912,6,Ferrari,Italian,162,4,4,0
+26073,912,9,Red Bull,Austrian,272,2,2,3
+26067,912,10,Force India,Indian,109,6,6,0
+26069,912,15,Sauber,Swiss,0,10,10,0
+26063,912,131,Mercedes,German,454,1,1,10
+26070,912,206,Marussia,Russian,2,9,9,0
+26072,912,207,Caterham,Malaysian,0,11,11,0
+26071,912,208,Lotus F1,British,8,8,8,0
+26075,913,1,McLaren,British,111,6,6,0
+26077,913,3,Williams,British,187,3,3,0
+26079,913,5,Toro Rosso,Italian,27,7,7,0
+26076,913,6,Ferrari,Italian,178,4,4,0
+26084,913,9,Red Bull,Austrian,305,2,2,3
+26078,913,10,Force India,Indian,117,5,5,0
+26080,913,15,Sauber,Swiss,0,10,10,0
+26074,913,131,Mercedes,German,479,1,1,11
+26081,913,206,Marussia,Russian,2,9,9,0
+26083,913,207,Caterham,Malaysian,0,11,11,0
+26082,913,208,Lotus F1,British,8,8,8,0
+26086,914,1,McLaren,British,121,6,6,0
+26088,914,3,Williams,British,201,3,3,0
+26090,914,5,Toro Rosso,Italian,29,7,7,0
+26087,914,6,Ferrari,Italian,178,4,4,0
+26095,914,9,Red Bull,Austrian,332,2,2,3
+26089,914,10,Force India,Indian,122,5,5,0
+26091,914,15,Sauber,Swiss,0,10,10,0
+26085,914,131,Mercedes,German,522,1,1,12
+26092,914,206,Marussia,Russian,2,9,9,0
+26094,914,207,Caterham,Malaysian,0,11,11,0
+26093,914,208,Lotus F1,British,8,8,8,0
+26097,915,1,McLaren,British,143,5,5,0
+26099,915,3,Williams,British,216,3,3,0
+26101,915,5,Toro Rosso,Italian,29,7,7,0
+26098,915,6,Ferrari,Italian,188,4,4,0
+26106,915,9,Red Bull,Austrian,342,2,2,3
+26100,915,10,Force India,Indian,123,6,6,0
+26102,915,15,Sauber,Swiss,0,10,10,0
+26096,915,131,Mercedes,German,565,1,1,13
+26103,915,206,Marussia,Russian,2,9,9,0
+26105,915,207,Caterham,Malaysian,0,11,11,0
+26104,915,208,Lotus F1,British,8,8,8,0
+26108,916,1,McLaren,British,147,5,5,0
+26110,916,3,Williams,British,238,3,3,0
+26112,916,5,Toro Rosso,Italian,30,7,7,0
+26109,916,6,Ferrari,Italian,196,4,4,0
+26117,916,9,Red Bull,Austrian,363,2,2,3
+26111,916,10,Force India,Indian,123,6,6,0
+26113,916,15,Sauber,Swiss,0,10,10,0
+26107,916,131,Mercedes,German,608,1,1,14
+26114,916,206,Marussia,Russian,2,9,9,0
+26116,916,207,Caterham,Malaysian,0,11,11,0
+26115,916,208,Lotus F1,British,10,8,8,0
+26119,917,1,McLaren,British,161,5,5,0
+26121,917,3,Williams,British,254,3,3,0
+26123,917,5,Toro Rosso,Italian,30,7,7,0
+26120,917,6,Ferrari,Italian,210,4,4,0
+26128,917,9,Red Bull,Austrian,373,2,2,3
+26122,917,10,Force India,Indian,127,6,6,0
+26124,917,15,Sauber,Swiss,0,10,10,0
+26118,917,131,Mercedes,German,651,1,1,15
+26125,917,206,Marussia,Russian,2,9,9,0
+26127,917,207,Caterham,Malaysian,0,11,11,0
+26126,917,208,Lotus F1,British,10,8,8,0
+26130,918,1,McLaren,British,181,5,5,0
+26132,918,3,Williams,British,320,3,3,0
+26134,918,5,Toro Rosso,Italian,30,7,7,0
+26131,918,6,Ferrari,Italian,216,4,4,0
+26139,918,9,Red Bull,Austrian,405,2,2,3
+26133,918,10,Force India,Indian,155,6,6,0
+26135,918,15,Sauber,Swiss,0,10,10,0
+26129,918,131,Mercedes,German,701,1,1,16
+26136,918,206,Marussia,Russian,2,9,9,0
+26138,918,207,Caterham,Malaysian,0,11,11,0
+26137,918,208,Lotus F1,British,10,8,8,0
+26147,926,1,McLaren,British,0,8,8,0
+26142,926,3,Williams,British,12,4,4,0
+26146,926,5,Toro Rosso,Italian,2,7,7,0
+26141,926,6,Ferrari,Italian,15,2,2,0
+26144,926,9,Red Bull,Austrian,8,5,5,0
+26145,926,10,Force India,Indian,7,6,6,0
+26143,926,15,Sauber,Swiss,14,3,3,0
+26140,926,131,Mercedes,German,43,1,1,1
+26148,926,208,Lotus F1,British,0,9,9,0
+26156,927,1,McLaren,British,0,9,9,0
+26151,927,3,Williams,British,30,3,3,0
+26155,927,5,Toro Rosso,Italian,12,5,5,0
+26150,927,6,Ferrari,Italian,52,2,2,1
+26153,927,9,Red Bull,Austrian,11,6,6,0
+26154,927,10,Force India,Indian,7,7,7,0
+26152,927,15,Sauber,Swiss,14,4,4,0
+26149,927,131,Mercedes,German,76,1,1,1
+26157,927,208,Lotus F1,British,0,8,8,0
+26158,927,209,Manor Marussia,British,0,10,10,0
+26166,928,1,McLaren,British,0,9,9,0
+26161,928,3,Williams,British,48,3,3,0
+26165,928,5,Toro Rosso,Italian,12,6,6,0
+26160,928,6,Ferrari,Italian,79,2,2,1
+26163,928,9,Red Bull,Austrian,13,5,5,0
+26164,928,10,Force India,Indian,7,7,7,0
+26162,928,15,Sauber,Swiss,19,4,4,0
+26159,928,131,Mercedes,German,119,1,1,2
+26167,928,208,Lotus F1,British,6,8,8,0
+26168,928,209,Manor Marussia,British,0,10,10,0
+26176,929,1,McLaren,British,0,9,9,0
+26171,929,3,Williams,British,61,3,3,0
+26175,929,5,Toro Rosso,Italian,12,7,7,0
+26170,929,6,Ferrari,Italian,107,2,2,1
+26173,929,9,Red Bull,Austrian,23,4,4,0
+26174,929,10,Force India,Indian,11,8,8,0
+26172,929,15,Sauber,Swiss,19,5,5,0
+26169,929,131,Mercedes,German,159,1,1,3
+26177,929,208,Lotus F1,British,12,6,6,0
+26178,929,209,Manor Marussia,British,0,10,10,0
+26186,930,1,McLaren,British,0,9,9,0
+26181,930,3,Williams,British,81,3,3,0
+26185,930,5,Toro Rosso,Italian,14,7,7,0
+26180,930,6,Ferrari,Italian,132,2,2,1
+26183,930,9,Red Bull,Austrian,30,4,4,0
+26184,930,10,Force India,Indian,11,8,8,0
+26182,930,15,Sauber,Swiss,19,5,5,0
+26179,930,131,Mercedes,German,202,1,1,4
+26187,930,208,Lotus F1,British,16,6,6,0
+26188,930,209,Manor Marussia,British,0,10,10,0
+26196,931,1,McLaren,British,4,9,9,0
+26191,931,3,Williams,British,81,3,3,0
+26195,931,5,Toro Rosso,Italian,15,8,8,0
+26190,931,6,Ferrari,Italian,158,2,2,1
+26193,931,9,Red Bull,Austrian,52,4,4,0
+26194,931,10,Force India,Indian,17,6,6,0
+26192,931,15,Sauber,Swiss,21,5,5,0
+26189,931,131,Mercedes,German,242,1,1,5
+26197,931,208,Lotus F1,British,16,7,7,0
+26198,931,209,Manor Marussia,British,0,10,10,0
+26206,932,1,McLaren,British,4,9,9,0
+26201,932,3,Williams,British,104,3,3,0
+26205,932,5,Toro Rosso,Italian,15,8,8,0
+26200,932,6,Ferrari,Italian,180,2,2,1
+26203,932,9,Red Bull,Austrian,54,4,4,0
+26204,932,10,Force India,Indian,21,7,7,0
+26202,932,15,Sauber,Swiss,21,6,6,0
+26199,932,131,Mercedes,German,285,1,1,6
+26207,932,208,Lotus F1,British,23,5,5,0
+26208,932,209,Manor Marussia,British,0,10,10,0
+26216,933,1,McLaren,British,4,9,9,0
+26211,933,3,Williams,British,129,3,3,0
+26215,933,5,Toro Rosso,Italian,19,8,8,0
+26210,933,6,Ferrari,Italian,192,2,2,1
+26213,933,9,Red Bull,Austrian,55,4,4,0
+26214,933,10,Force India,Indian,31,5,5,0
+26212,933,15,Sauber,Swiss,21,7,7,0
+26209,933,131,Mercedes,German,328,1,1,7
+26217,933,208,Lotus F1,British,29,6,6,0
+26218,933,209,Manor Marussia,British,0,10,10,0
+26226,934,1,McLaren,British,5,9,9,0
+26221,934,3,Williams,British,151,3,3,0
+26225,934,5,Toro Rosso,Italian,19,8,8,0
+26220,934,6,Ferrari,Italian,211,2,2,1
+26223,934,9,Red Bull,Austrian,63,4,4,0
+26224,934,10,Force India,Indian,39,5,5,0
+26222,934,15,Sauber,Swiss,21,7,7,0
+26219,934,131,Mercedes,German,371,1,1,8
+26227,934,208,Lotus F1,British,29,6,6,0
+26228,934,209,Manor Marussia,British,0,10,10,0
+26236,936,1,McLaren,British,17,9,9,0
+26231,936,3,Williams,British,151,3,3,0
+26235,936,5,Toro Rosso,Italian,31,7,7,0
+26230,936,6,Ferrari,Italian,236,2,2,2
+26233,936,9,Red Bull,Austrian,96,4,4,0
+26234,936,10,Force India,Indian,39,5,5,0
+26232,936,15,Sauber,Swiss,22,8,8,0
+26229,936,131,Mercedes,German,383,1,1,8
+26237,936,208,Lotus F1,British,35,6,6,0
+26238,936,209,Manor Marussia,British,0,10,10,0
+26257,937,1,McLaren,British,17,9,9,0
+26252,937,3,Williams,British,161,3,3,0
+26256,937,5,Toro Rosso,Italian,35,7,7,0
+26251,937,6,Ferrari,Italian,242,2,2,2
+26254,937,9,Red Bull,Austrian,108,4,4,0
+26255,937,10,Force India,Indian,49,6,6,0
+26253,937,15,Sauber,Swiss,23,8,8,0
+26250,937,131,Mercedes,German,426,1,1,9
+26258,937,208,Lotus F1,British,50,5,5,0
+26259,937,209,Manor Marussia,British,0,10,10,0
+26267,938,1,McLaren,British,17,9,9,0
+26262,938,3,Williams,British,188,3,3,0
+26266,938,5,Toro Rosso,Italian,35,7,7,0
+26261,938,6,Ferrari,Italian,270,2,2,2
+26264,938,9,Red Bull,Austrian,113,4,4,0
+26265,938,10,Force India,Indian,63,5,5,0
+26263,938,15,Sauber,Swiss,25,8,8,0
+26260,938,131,Mercedes,German,451,1,1,10
+26268,938,208,Lotus F1,British,50,6,6,0
+26269,938,209,Manor Marussia,British,0,10,10,0
+26277,939,1,McLaren,British,17,9,9,0
+26272,939,3,Williams,British,198,3,3,0
+26276,939,5,Toro Rosso,Italian,41,7,7,0
+26271,939,6,Ferrari,Italian,310,2,2,3
+26274,939,9,Red Bull,Austrian,139,4,4,0
+26275,939,10,Force India,Indian,69,5,5,0
+26273,939,15,Sauber,Swiss,26,8,8,0
+26270,939,131,Mercedes,German,463,1,1,10
+26278,939,208,Lotus F1,British,50,6,6,0
+26279,939,209,Manor Marussia,British,0,10,10,0
+26297,940,1,McLaren,British,17,9,9,0
+26292,940,3,Williams,British,208,3,3,0
+26296,940,5,Toro Rosso,Italian,44,7,7,0
+26291,940,6,Ferrari,Italian,337,2,2,3
+26294,940,9,Red Bull,Austrian,139,4,4,0
+26295,940,10,Force India,Indian,77,5,5,0
+26293,940,15,Sauber,Swiss,26,8,8,0
+26290,940,131,Mercedes,German,506,1,1,11
+26298,940,208,Lotus F1,British,60,6,6,0
+26299,940,209,Manor Marussia,British,0,10,10,0
+26382,941,1,McLaren,British,19,9,9,0
+26377,941,3,Williams,British,220,3,3,0
+26381,941,5,Toro Rosso,Italian,45,7,7,0
+26376,941,6,Ferrari,Italian,359,2,2,3
+26379,941,9,Red Bull,Austrian,149,4,4,0
+26380,941,10,Force India,Indian,92,5,5,0
+26378,941,15,Sauber,Swiss,34,8,8,0
+26375,941,131,Mercedes,German,531,1,1,12
+26383,941,208,Lotus F1,British,66,6,6,0
+26384,941,209,Manor Marussia,British,0,10,10,0
+26392,942,1,McLaren,British,27,9,9,0
+26387,942,3,Williams,British,220,3,3,0
+26391,942,5,Toro Rosso,Italian,63,7,7,0
+26386,942,6,Ferrari,Italian,374,2,2,3
+26389,942,9,Red Bull,Austrian,150,4,4,0
+26390,942,10,Force India,Indian,102,5,5,0
+26388,942,15,Sauber,Swiss,36,8,8,0
+26385,942,131,Mercedes,German,574,1,1,13
+26393,942,208,Lotus F1,British,70,6,6,0
+26394,942,209,Manor Marussia,British,0,10,10,0
+26402,943,1,McLaren,British,27,9,9,0
+26397,943,3,Williams,British,243,3,3,0
+26401,943,5,Toro Rosso,Italian,65,7,7,0
+26396,943,6,Ferrari,Italian,374,2,2,3
+26399,943,9,Red Bull,Austrian,172,4,4,0
+26400,943,10,Force India,Indian,112,5,5,0
+26398,943,15,Sauber,Swiss,36,8,8,0
+26395,943,131,Mercedes,German,617,1,1,14
+26403,943,208,Lotus F1,British,71,6,6,0
+26404,943,209,Manor Marussia,British,0,10,10,0
+26412,944,1,McLaren,British,27,9,9,0
+26407,944,3,Williams,British,253,3,3,0
+26411,944,5,Toro Rosso,Italian,67,7,7,0
+26406,944,6,Ferrari,Italian,401,2,2,3
+26409,944,9,Red Bull,Austrian,178,4,4,0
+26410,944,10,Force India,Indian,120,5,5,0
+26408,944,15,Sauber,Swiss,36,8,8,0
+26405,944,131,Mercedes,German,660,1,1,15
+26413,944,208,Lotus F1,British,76,6,6,0
+26414,944,209,Manor Marussia,British,0,10,10,0
+26433,945,1,McLaren,British,27,9,9,0
+26428,945,3,Williams,British,257,3,3,0
+26432,945,5,Toro Rosso,Italian,67,7,7,0
+26427,945,6,Ferrari,Italian,428,2,2,3
+26430,945,9,Red Bull,Austrian,187,4,4,0
+26431,945,10,Force India,Indian,136,5,5,0
+26429,945,15,Sauber,Swiss,36,8,8,0
+26426,945,131,Mercedes,German,703,1,1,16
+26434,945,208,Lotus F1,British,78,6,6,0
+26435,945,209,Manor Marussia,British,0,10,10,0
+26565,948,1,McLaren,British,0,9,9,0
+26560,948,3,Williams,British,14,3,3,0
+26564,948,4,Renault,French,0,8,8,0
+26563,948,5,Toro Rosso,Italian,3,7,7,0
+26558,948,6,Ferrari,Italian,15,2,2,0
+26559,948,9,Red Bull,Austrian,12,4,4,0
+26562,948,10,Force India,Indian,6,6,6,0
+26566,948,15,Sauber,Swiss,0,10,10,0
+26557,948,131,Mercedes,German,43,1,1,1
+26567,948,209,Manor Marussia,British,0,11,11,0
+26561,948,210,Haas F1 Team,American,8,5,5,0
+26455,949,1,McLaren,British,1,8,8,0
+26450,949,3,Williams,British,20,4,4,0
+26454,949,4,Renault,French,0,9,9,0
+26453,949,5,Toro Rosso,Italian,11,6,6,0
+26448,949,6,Ferrari,Italian,33,2,2,0
+26449,949,9,Red Bull,Austrian,30,3,3,0
+26452,949,10,Force India,Indian,6,7,7,0
+26456,949,15,Sauber,Swiss,0,10,10,0
+26447,949,131,Mercedes,German,83,1,1,2
+26457,949,209,Manor Marussia,British,0,11,11,0
+26451,949,210,Haas F1 Team,American,18,5,5,0
+26466,950,1,McLaren,British,1,8,8,0
+26461,950,3,Williams,British,29,4,4,0
+26465,950,4,Renault,French,0,9,9,0
+26464,950,5,Toro Rosso,Italian,17,6,6,0
+26459,950,6,Ferrari,Italian,61,2,2,0
+26460,950,9,Red Bull,Austrian,57,3,3,0
+26463,950,10,Force India,Indian,6,7,7,0
+26467,950,15,Sauber,Swiss,0,10,10,0
+26458,950,131,Mercedes,German,114,1,1,3
+26468,950,209,Manor Marussia,British,0,11,11,0
+26462,950,210,Haas F1 Team,American,18,5,5,0
+26477,951,1,McLaren,British,10,7,7,0
+26472,951,3,Williams,British,51,4,4,0
+26476,951,4,Renault,French,6,9,9,0
+26475,951,5,Toro Rosso,Italian,17,6,6,0
+26470,951,6,Ferrari,Italian,76,2,2,0
+26471,951,9,Red Bull,Austrian,57,3,3,0
+26474,951,10,Force India,Indian,8,8,8,0
+26478,951,15,Sauber,Swiss,0,10,10,0
+26469,951,131,Mercedes,German,157,1,1,4
+26479,951,209,Manor Marussia,British,0,11,11,0
+26473,951,210,Haas F1 Team,American,22,5,5,0
+26488,952,1,McLaren,British,12,8,8,0
+26483,952,3,Williams,British,65,4,4,0
+26487,952,4,Renault,French,6,9,9,0
+26486,952,5,Toro Rosso,Italian,26,5,5,0
+26481,952,6,Ferrari,Italian,109,2,2,0
+26482,952,9,Red Bull,Austrian,94,3,3,1
+26485,952,10,Force India,Indian,14,7,7,0
+26489,952,15,Sauber,Swiss,0,10,10,0
+26480,952,131,Mercedes,German,157,1,1,4
+26490,952,209,Manor Marussia,British,0,11,11,0
+26484,952,210,Haas F1 Team,American,22,6,6,0
+26499,953,1,McLaren,British,24,7,7,0
+26494,953,3,Williams,British,66,4,4,0
+26498,953,4,Renault,French,6,9,9,0
+26497,953,5,Toro Rosso,Italian,30,6,6,0
+26492,953,6,Ferrari,Italian,121,2,2,0
+26493,953,9,Red Bull,Austrian,112,3,3,1
+26496,953,10,Force India,Indian,37,5,5,0
+26500,953,15,Sauber,Swiss,0,10,10,0
+26491,953,131,Mercedes,German,188,1,1,5
+26501,953,209,Manor Marussia,British,0,11,11,0
+26495,953,210,Haas F1 Team,American,22,8,8,0
+26510,954,1,McLaren,British,24,7,7,0
+26505,954,3,Williams,British,81,4,4,0
+26509,954,4,Renault,French,6,9,9,0
+26508,954,5,Toro Rosso,Italian,32,6,6,0
+26503,954,6,Ferrari,Italian,147,2,2,0
+26504,954,9,Red Bull,Austrian,130,3,3,1
+26507,954,10,Force India,Indian,42,5,5,0
+26511,954,15,Sauber,Swiss,0,10,10,0
+26502,954,131,Mercedes,German,223,1,1,6
+26512,954,209,Manor Marussia,British,0,11,11,0
+26506,954,210,Haas F1 Team,American,22,8,8,0
+26532,955,1,McLaren,British,24,7,7,0
+26527,955,3,Williams,British,90,4,4,0
+26531,955,4,Renault,French,6,9,9,0
+26530,955,5,Toro Rosso,Italian,32,6,6,0
+26525,955,6,Ferrari,Italian,177,2,2,0
+26526,955,9,Red Bull,Austrian,140,3,3,1
+26529,955,10,Force India,Indian,59,5,5,0
+26533,955,15,Sauber,Swiss,0,10,10,0
+26524,955,131,Mercedes,German,258,1,1,7
+26534,955,209,Manor Marussia,British,0,11,11,0
+26528,955,210,Haas F1 Team,American,22,8,8,0
+26543,956,1,McLaren,British,32,7,7,0
+26538,956,3,Williams,British,92,4,4,0
+26542,956,4,Renault,French,6,9,9,0
+26541,956,5,Toro Rosso,Italian,36,6,6,0
+26536,956,6,Ferrari,Italian,192,2,2,0
+26537,956,9,Red Bull,Austrian,168,3,3,1
+26540,956,10,Force India,Indian,59,5,5,0
+26544,956,15,Sauber,Swiss,0,11,11,0
+26535,956,131,Mercedes,German,295,1,1,8
+26545,956,209,Manor Marussia,British,1,10,10,0
+26539,956,210,Haas F1 Team,American,28,8,8,0
+26554,957,1,McLaren,British,32,7,7,0
+26549,957,3,Williams,British,92,4,4,0
+26553,957,4,Renault,French,6,9,9,0
+26552,957,5,Toro Rosso,Italian,41,6,6,0
+26547,957,6,Ferrari,Italian,204,2,2,0
+26548,957,9,Red Bull,Austrian,198,3,3,1
+26551,957,10,Force India,Indian,73,5,5,0
+26555,957,15,Sauber,Swiss,0,11,11,0
+26546,957,131,Mercedes,German,335,1,1,9
+26556,957,209,Manor Marussia,British,1,10,10,0
+26550,957,210,Haas F1 Team,American,28,8,8,0
+26576,958,1,McLaren,British,38,7,7,0
+26571,958,3,Williams,British,94,4,4,0
+26575,958,4,Renault,French,6,9,9,0
+26574,958,5,Toro Rosso,Italian,45,6,6,0
+26569,958,6,Ferrari,Italian,224,2,2,0
+26570,958,9,Red Bull,Austrian,223,3,3,1
+26573,958,10,Force India,Indian,74,5,5,0
+26577,958,15,Sauber,Swiss,0,11,11,0
+26568,958,131,Mercedes,German,378,1,1,10
+26578,958,209,Manor Marussia,British,1,10,10,0
+26572,958,210,Haas F1 Team,American,28,8,8,0
+26587,959,1,McLaren,British,42,7,7,0
+26582,959,3,Williams,British,96,4,4,0
+26586,959,4,Renault,French,6,9,9,0
+26585,959,5,Toro Rosso,Italian,45,6,6,0
+26580,959,6,Ferrari,Italian,242,3,3,0
+26581,959,9,Red Bull,Austrian,256,2,2,1
+26584,959,10,Force India,Indian,81,5,5,0
+26588,959,15,Sauber,Swiss,0,11,11,0
+26579,959,131,Mercedes,German,415,1,1,11
+26589,959,209,Manor Marussia,British,1,10,10,0
+26583,959,210,Haas F1 Team,American,28,8,8,0
+26598,960,1,McLaren,British,48,6,6,0
+26593,960,3,Williams,British,101,5,5,0
+26597,960,4,Renault,French,6,9,9,0
+26596,960,5,Toro Rosso,Italian,45,7,7,0
+26591,960,6,Ferrari,Italian,252,3,3,0
+26592,960,9,Red Bull,Austrian,274,2,2,1
+26595,960,10,Force India,Indian,103,4,4,0
+26599,960,15,Sauber,Swiss,0,11,11,0
+26590,960,131,Mercedes,German,455,1,1,12
+26600,960,209,Manor Marussia,British,1,10,10,0
+26594,960,210,Haas F1 Team,American,28,8,8,0
+26609,961,1,McLaren,British,48,6,6,0
+26604,961,3,Williams,British,111,4,4,0
+26608,961,4,Renault,French,6,9,9,0
+26607,961,5,Toro Rosso,Italian,45,7,7,0
+26602,961,6,Ferrari,Italian,279,3,3,0
+26603,961,9,Red Bull,Austrian,290,2,2,1
+26606,961,10,Force India,Indian,108,5,5,0
+26610,961,15,Sauber,Swiss,0,11,11,0
+26601,961,131,Mercedes,German,498,1,1,13
+26611,961,209,Manor Marussia,British,1,10,10,0
+26605,961,210,Haas F1 Team,American,28,8,8,0
+26620,962,1,McLaren,British,54,6,6,0
+26615,962,3,Williams,British,111,5,5,0
+26619,962,4,Renault,French,7,9,9,0
+26618,962,5,Toro Rosso,Italian,47,7,7,0
+26613,962,6,Ferrari,Italian,301,3,3,0
+26614,962,9,Red Bull,Austrian,316,2,2,1
+26617,962,10,Force India,Indian,112,4,4,0
+26621,962,15,Sauber,Swiss,0,11,11,0
+26612,962,131,Mercedes,German,538,1,1,14
+26622,962,209,Manor Marussia,British,1,10,10,0
+26616,962,210,Haas F1 Team,American,28,8,8,0
+26631,963,1,McLaren,British,62,6,6,0
+26626,963,3,Williams,British,121,5,5,0
+26630,963,4,Renault,French,8,9,9,0
+26629,963,5,Toro Rosso,Italian,47,7,7,0
+26624,963,6,Ferrari,Italian,313,3,3,0
+26625,963,9,Red Bull,Austrian,359,2,2,2
+26628,963,10,Force India,Indian,124,4,4,0
+26632,963,15,Sauber,Swiss,0,11,11,0
+26623,963,131,Mercedes,German,553,1,1,14
+26633,963,209,Manor Marussia,British,1,10,10,0
+26627,963,210,Haas F1 Team,American,28,8,8,0
+26642,964,1,McLaren,British,62,6,6,0
+26637,964,3,Williams,British,124,5,5,0
+26641,964,4,Renault,French,8,9,9,0
+26640,964,5,Toro Rosso,Italian,47,7,7,0
+26635,964,6,Ferrari,Italian,335,3,3,0
+26636,964,9,Red Bull,Austrian,385,2,2,2
+26639,964,10,Force India,Indian,134,4,4,0
+26643,964,15,Sauber,Swiss,0,11,11,0
+26634,964,131,Mercedes,German,593,1,1,15
+26644,964,209,Manor Marussia,British,1,10,10,0
+26638,964,210,Haas F1 Team,American,28,8,8,0
+26697,965,1,McLaren,British,74,6,6,0
+26692,965,3,Williams,British,130,5,5,0
+26696,965,4,Renault,French,8,9,9,0
+26695,965,5,Toro Rosso,Italian,55,7,7,0
+26690,965,6,Ferrari,Italian,347,3,3,0
+26691,965,9,Red Bull,Austrian,400,2,2,2
+26694,965,10,Force India,Indian,138,4,4,0
+26698,965,15,Sauber,Swiss,0,11,11,0
+26689,965,131,Mercedes,German,636,1,1,16
+26699,965,209,Manor Marussia,British,1,10,10,0
+26693,965,210,Haas F1 Team,American,29,8,8,0
+26708,966,1,McLaren,British,74,6,6,0
+26703,966,3,Williams,British,136,5,5,0
+26707,966,4,Renault,French,8,9,9,0
+26706,966,5,Toro Rosso,Italian,55,7,7,0
+26701,966,6,Ferrari,Italian,365,3,3,0
+26702,966,9,Red Bull,Austrian,427,2,2,2
+26705,966,10,Force India,Indian,145,4,4,0
+26709,966,15,Sauber,Swiss,0,11,11,0
+26700,966,131,Mercedes,German,679,1,1,17
+26710,966,209,Manor Marussia,British,1,10,10,0
+26704,966,210,Haas F1 Team,American,29,8,8,0
+26719,967,1,McLaren,British,75,6,6,0
+26714,967,3,Williams,British,136,5,5,0
+26718,967,4,Renault,French,8,9,9,0
+26717,967,5,Toro Rosso,Italian,63,7,7,0
+26712,967,6,Ferrari,Italian,375,3,3,0
+26713,967,9,Red Bull,Austrian,446,2,2,2
+26716,967,10,Force India,Indian,163,4,4,0
+26720,967,15,Sauber,Swiss,2,10,10,0
+26711,967,131,Mercedes,German,722,1,1,18
+26721,967,209,Manor Marussia,British,1,11,11,0
+26715,967,210,Haas F1 Team,American,29,8,8,0
+26730,968,1,McLaren,British,76,6,6,0
+26725,968,3,Williams,British,138,5,5,0
+26729,968,4,Renault,French,8,9,9,0
+26728,968,5,Toro Rosso,Italian,63,7,7,0
+26723,968,6,Ferrari,Italian,398,3,3,0
+26724,968,9,Red Bull,Austrian,468,2,2,2
+26727,968,10,Force India,Indian,173,4,4,0
+26731,968,15,Sauber,Swiss,2,10,10,0
+26722,968,131,Mercedes,German,765,1,1,19
+26732,968,209,Manor Marussia,British,1,11,11,0
+26726,968,210,Haas F1 Team,American,29,8,8,0
+26741,969,1,McLaren,British,0,9,9,0
+26736,969,3,Williams,British,8,4,4,0
+26739,969,4,Renault,French,0,7,7,0
+26738,969,5,Toro Rosso,Italian,6,6,6,0
+26733,969,6,Ferrari,Italian,37,1,1,1
+26735,969,9,Red Bull,Austrian,10,3,3,0
+26737,969,10,Force India,Indian,7,5,5,0
+26740,969,15,Sauber,Swiss,0,8,8,0
+26734,969,131,Mercedes,German,33,2,2,0
+26742,969,210,Haas F1 Team,American,0,10,10,0
+26751,970,1,McLaren,British,0,10,10,0
+26746,970,3,Williams,British,8,6,6,0
+26749,970,4,Renault,French,0,8,8,0
+26748,970,5,Toro Rosso,Italian,12,4,4,0
+26743,970,6,Ferrari,Italian,65,2,2,1
+26745,970,9,Red Bull,Austrian,37,3,3,0
+26747,970,10,Force India,Indian,10,5,5,0
+26750,970,15,Sauber,Swiss,0,9,9,0
+26744,970,131,Mercedes,German,66,1,1,1
+26752,970,210,Haas F1 Team,American,4,7,7,0
+26761,971,1,McLaren,British,0,10,10,0
+26756,971,3,Williams,British,16,5,5,0
+26759,971,4,Renault,French,2,8,8,0
+26758,971,5,Toro Rosso,Italian,12,6,6,0
+26753,971,6,Ferrari,Italian,102,1,1,2
+26755,971,9,Red Bull,Austrian,47,3,3,0
+26757,971,10,Force India,Indian,17,4,4,0
+26760,971,15,Sauber,Swiss,0,9,9,0
+26754,971,131,Mercedes,German,99,2,2,1
+26762,971,210,Haas F1 Team,American,8,7,7,0
+26771,972,1,McLaren,British,0,10,10,0
+26766,972,3,Williams,British,18,5,5,0
+26769,972,4,Renault,French,6,8,8,0
+26768,972,5,Toro Rosso,Italian,13,6,6,0
+26763,972,6,Ferrari,Italian,135,2,2,2
+26765,972,9,Red Bull,Austrian,57,3,3,0
+26767,972,10,Force India,Indian,31,4,4,0
+26770,972,15,Sauber,Swiss,0,9,9,0
+26764,972,131,Mercedes,German,136,1,1,2
+26772,972,210,Haas F1 Team,American,8,7,7,0
+26781,973,1,McLaren,British,0,10,10,0
+26776,973,3,Williams,British,18,6,6,0
+26779,973,4,Renault,French,14,7,7,0
+26778,973,5,Toro Rosso,Italian,21,5,5,0
+26773,973,6,Ferrari,Italian,153,2,2,2
+26775,973,9,Red Bull,Austrian,72,3,3,0
+26777,973,10,Force India,Indian,53,4,4,0
+26780,973,15,Sauber,Swiss,4,9,9,0
+26774,973,131,Mercedes,German,161,1,1,3
+26782,973,210,Haas F1 Team,American,9,8,8,0
+26791,974,1,McLaren,British,0,10,10,0
+26786,974,3,Williams,British,20,6,6,0
+26789,974,4,Renault,French,14,7,7,0
+26788,974,5,Toro Rosso,Italian,29,5,5,0
+26783,974,6,Ferrari,Italian,196,1,1,3
+26785,974,9,Red Bull,Austrian,97,3,3,0
+26787,974,10,Force India,Indian,53,4,4,0
+26790,974,15,Sauber,Swiss,4,9,9,0
+26784,974,131,Mercedes,German,179,2,2,3
+26792,974,210,Haas F1 Team,American,14,8,8,0
+26801,975,1,McLaren,British,0,10,10,0
+26796,975,3,Williams,British,22,6,6,0
+26799,975,4,Renault,French,18,7,7,0
+26798,975,5,Toro Rosso,Italian,29,5,5,0
+26793,975,6,Ferrari,Italian,214,2,2,3
+26795,975,9,Red Bull,Austrian,112,3,3,0
+26797,975,10,Force India,Indian,71,4,4,0
+26800,975,15,Sauber,Swiss,4,9,9,0
+26794,975,131,Mercedes,German,222,1,1,4
+26802,975,210,Haas F1 Team,American,15,8,8,0
+26811,976,1,McLaren,British,2,10,10,0
+26806,976,3,Williams,British,37,5,5,0
+26809,976,4,Renault,French,18,8,8,0
+26808,976,5,Toro Rosso,Italian,33,6,6,0
+26803,976,6,Ferrari,Italian,226,2,2,3
+26805,976,9,Red Bull,Austrian,137,3,3,1
+26807,976,10,Force India,Indian,79,4,4,0
+26810,976,15,Sauber,Swiss,5,9,9,0
+26804,976,131,Mercedes,German,250,1,1,4
+26812,976,210,Haas F1 Team,American,21,7,7,0
+26821,977,1,McLaren,British,2,10,10,0
+26816,977,3,Williams,British,40,5,5,0
+26819,977,4,Renault,French,18,8,8,0
+26818,977,5,Toro Rosso,Italian,33,6,6,0
+26813,977,6,Ferrari,Italian,254,2,2,3
+26815,977,9,Red Bull,Austrian,152,3,3,1
+26817,977,10,Force India,Indian,89,4,4,0
+26820,977,15,Sauber,Swiss,5,9,9,0
+26814,977,131,Mercedes,German,287,1,1,5
+26822,977,210,Haas F1 Team,American,29,7,7,0
+26831,978,1,McLaren,British,2,10,10,0
+26826,978,3,Williams,British,41,5,5,0
+26829,978,4,Renault,French,26,8,8,0
+26828,978,5,Toro Rosso,Italian,33,6,6,0
+26823,978,6,Ferrari,Italian,275,2,2,3
+26825,978,9,Red Bull,Austrian,174,3,3,1
+26827,978,10,Force India,Indian,95,4,4,0
+26830,978,15,Sauber,Swiss,5,9,9,0
+26824,978,131,Mercedes,German,330,1,1,6
+26832,978,210,Haas F1 Team,American,29,7,7,0
+26841,979,1,McLaren,British,11,9,9,0
+26836,979,3,Williams,British,41,5,5,0
+26839,979,4,Renault,French,26,8,8,0
+26838,979,5,Toro Rosso,Italian,39,6,6,0
+26833,979,6,Ferrari,Italian,318,2,2,4
+26835,979,9,Red Bull,Austrian,184,3,3,1
+26837,979,10,Force India,Indian,101,4,4,0
+26840,979,15,Sauber,Swiss,5,10,10,0
+26834,979,131,Mercedes,German,357,1,1,6
+26842,979,210,Haas F1 Team,American,29,7,7,0
+26851,980,1,McLaren,British,11,9,9,0
+26846,980,3,Williams,British,45,5,5,0
+26849,980,4,Renault,French,34,8,8,0
+26848,980,5,Toro Rosso,Italian,40,6,6,0
+26843,980,6,Ferrari,Italian,348,2,2,4
+26845,980,9,Red Bull,Austrian,199,3,3,1
+26847,980,10,Force India,Indian,103,4,4,0
+26850,980,15,Sauber,Swiss,5,10,10,0
+26844,980,131,Mercedes,German,392,1,1,7
+26852,980,210,Haas F1 Team,American,35,7,7,0
+26861,981,1,McLaren,British,11,9,9,0
+26856,981,3,Williams,British,55,5,5,0
+26859,981,4,Renault,French,34,8,8,0
+26858,981,5,Toro Rosso,Italian,40,6,6,0
+26853,981,6,Ferrari,Italian,373,2,2,4
+26855,981,9,Red Bull,Austrian,212,3,3,1
+26857,981,10,Force India,Indian,113,4,4,0
+26860,981,15,Sauber,Swiss,5,10,10,0
+26854,981,131,Mercedes,German,435,1,1,8
+26862,981,210,Haas F1 Team,American,35,7,7,0
+26871,982,1,McLaren,British,17,9,9,0
+26866,982,3,Williams,British,59,5,5,0
+26869,982,4,Renault,French,42,7,7,0
+26868,982,5,Toro Rosso,Italian,52,6,6,0
+26863,982,6,Ferrari,Italian,373,2,2,4
+26865,982,9,Red Bull,Austrian,230,3,3,1
+26867,982,10,Force India,Indian,124,4,4,0
+26870,982,15,Sauber,Swiss,5,10,10,0
+26864,982,131,Mercedes,German,475,1,1,9
+26872,982,210,Haas F1 Team,American,37,8,8,0
+26881,983,1,McLaren,British,23,9,9,0
+26876,983,3,Williams,British,65,5,5,0
+26879,983,4,Renault,French,42,7,7,0
+26878,983,5,Toro Rosso,Italian,52,6,6,0
+26873,983,6,Ferrari,Italian,385,2,2,4
+26875,983,9,Red Bull,Austrian,270,3,3,2
+26877,983,10,Force India,Indian,133,4,4,0
+26880,983,15,Sauber,Swiss,5,10,10,0
+26874,983,131,Mercedes,German,503,1,1,9
+26882,983,210,Haas F1 Team,American,37,8,8,0
+26891,984,1,McLaren,British,23,9,9,0
+26886,984,3,Williams,British,66,5,5,0
+26889,984,4,Renault,French,42,8,8,0
+26888,984,5,Toro Rosso,Italian,52,6,6,0
+26883,984,6,Ferrari,Italian,395,2,2,4
+26885,984,9,Red Bull,Austrian,303,3,3,2
+26887,984,10,Force India,Indian,147,4,4,0
+26890,984,15,Sauber,Swiss,5,10,10,0
+26884,984,131,Mercedes,German,540,1,1,10
+26892,984,210,Haas F1 Team,American,43,7,7,0
+26901,985,1,McLaren,British,23,9,9,0
+26896,985,3,Williams,British,68,5,5,0
+26899,985,4,Renault,French,48,7,7,0
+26898,985,5,Toro Rosso,Italian,53,6,6,0
+26893,985,6,Ferrari,Italian,428,2,2,4
+26895,985,9,Red Bull,Austrian,315,3,3,2
+26897,985,10,Force India,Indian,159,4,4,0
+26900,985,15,Sauber,Swiss,5,10,10,0
+26894,985,131,Mercedes,German,575,1,1,11
+26902,985,210,Haas F1 Team,American,43,8,8,0
+26911,986,1,McLaren,British,24,9,9,0
+26906,986,3,Williams,British,76,5,5,0
+26909,986,4,Renault,French,48,7,7,0
+26908,986,5,Toro Rosso,Italian,53,6,6,0
+26903,986,6,Ferrari,Italian,455,2,2,4
+26905,986,9,Red Bull,Austrian,340,3,3,3
+26907,986,10,Force India,Indian,175,4,4,0
+26910,986,15,Sauber,Swiss,5,10,10,0
+26904,986,131,Mercedes,German,595,1,1,11
+26912,986,210,Haas F1 Team,American,47,8,8,0
+26921,987,1,McLaren,British,28,9,9,0
+26916,987,3,Williams,British,82,5,5,0
+26919,987,4,Renault,French,49,7,7,0
+26918,987,5,Toro Rosso,Italian,53,6,6,0
+26913,987,6,Ferrari,Italian,495,2,2,5
+26915,987,9,Red Bull,Austrian,358,3,3,3
+26917,987,10,Force India,Indian,177,4,4,0
+26920,987,15,Sauber,Swiss,5,10,10,0
+26914,987,131,Mercedes,German,625,1,1,11
+26922,987,210,Haas F1 Team,American,47,8,8,0
+26931,988,1,McLaren,British,30,9,9,0
+26926,988,3,Williams,British,83,5,5,0
+26929,988,4,Renault,French,57,6,6,0
+26928,988,5,Toro Rosso,Italian,53,7,7,0
+26923,988,6,Ferrari,Italian,522,2,2,5
+26925,988,9,Red Bull,Austrian,368,3,3,3
+26927,988,10,Force India,Indian,187,4,4,0
+26930,988,15,Sauber,Swiss,5,10,10,0
+26924,988,131,Mercedes,German,668,1,1,12
+26932,988,210,Haas F1 Team,American,47,8,8,0
+26936,989,1,McLaren,British,12,4,4,0
+26940,989,3,Williams,British,0,8,8,0
+26937,989,4,Renault,French,7,5,5,0
+26941,989,5,Toro Rosso,Italian,0,9,9,0
+26933,989,6,Ferrari,Italian,40,1,1,1
+26935,989,9,Red Bull,Austrian,20,3,3,0
+26938,989,10,Force India,Indian,0,6,6,0
+26939,989,15,Sauber,Swiss,0,7,7,0
+26934,989,131,Mercedes,German,22,2,2,0
+26942,989,210,Haas F1 Team,American,0,10,10,0
+26976,990,1,McLaren,British,22,3,3,0
+26980,990,3,Williams,British,0,10,10,0
+26977,990,4,Renault,French,15,5,5,0
+26981,990,5,Toro Rosso,Italian,12,6,6,0
+26973,990,6,Ferrari,Italian,65,1,1,2
+26975,990,9,Red Bull,Austrian,20,4,4,0
+26978,990,10,Force India,Indian,1,9,9,0
+26979,990,15,Sauber,Swiss,2,8,8,0
+26974,990,131,Mercedes,German,55,2,2,0
+26982,990,210,Haas F1 Team,American,10,7,7,0
+26966,991,1,McLaren,British,28,4,4,0
+26970,991,3,Williams,British,0,10,10,0
+26967,991,4,Renault,French,25,5,5,0
+26971,991,5,Toro Rosso,Italian,12,6,6,0
+26963,991,6,Ferrari,Italian,84,2,2,2
+26965,991,9,Red Bull,Austrian,55,3,3,1
+26968,991,10,Force India,Indian,1,9,9,0
+26969,991,15,Sauber,Swiss,2,8,8,0
+26964,991,131,Mercedes,German,85,1,1,0
+26972,991,210,Haas F1 Team,American,11,7,7,0
+26986,992,1,McLaren,British,36,4,4,0
+26990,992,3,Williams,British,4,10,10,0
+26987,992,4,Renault,French,35,5,5,0
+26991,992,5,Toro Rosso,Italian,13,7,7,0
+26983,992,6,Ferrari,Italian,114,1,1,2
+26985,992,9,Red Bull,Austrian,55,3,3,1
+26988,992,10,Force India,Indian,16,6,6,0
+26989,992,15,Sauber,Swiss,10,9,9,0
+26984,992,131,Mercedes,German,110,2,2,1
+26992,992,210,Haas F1 Team,American,11,8,8,0
+26996,993,1,McLaren,British,40,5,5,0
+27000,993,3,Williams,British,4,10,10,0
+26997,993,4,Renault,French,41,4,4,0
+27001,993,5,Toro Rosso,Italian,13,8,8,0
+26993,993,6,Ferrari,Italian,126,2,2,2
+26995,993,9,Red Bull,Austrian,80,3,3,1
+26998,993,10,Force India,Indian,18,7,7,0
+26999,993,15,Sauber,Swiss,11,9,9,0
+26994,993,131,Mercedes,German,153,1,1,2
+27002,993,210,Haas F1 Team,American,19,6,6,0
+27006,994,1,McLaren,British,40,5,5,0
+27010,994,3,Williams,British,4,10,10,0
+27007,994,4,Renault,French,46,4,4,0
+27011,994,5,Toro Rosso,Italian,19,7,7,0
+27003,994,6,Ferrari,Italian,156,2,2,2
+27005,994,9,Red Bull,Austrian,107,3,3,2
+27008,994,10,Force India,Indian,26,6,6,0
+27009,994,15,Sauber,Swiss,11,9,9,0
+27004,994,131,Mercedes,German,178,1,1,2
+27012,994,210,Haas F1 Team,American,19,8,8,0
+27016,995,1,McLaren,British,40,5,5,0
+27020,995,3,Williams,British,4,10,10,0
+27017,995,4,Renault,French,56,4,4,0
+27021,995,5,Toro Rosso,Italian,19,7,7,0
+27013,995,6,Ferrari,Italian,189,2,2,3
+27015,995,9,Red Bull,Austrian,134,3,3,2
+27018,995,10,Force India,Indian,28,6,6,0
+27019,995,15,Sauber,Swiss,12,9,9,0
+27014,995,131,Mercedes,German,206,1,1,2
+27022,995,210,Haas F1 Team,American,19,8,8,0
+27026,996,1,McLaren,British,40,5,5,0
+27030,996,3,Williams,British,4,10,10,0
+27027,996,4,Renault,French,62,4,4,0
+27031,996,5,Toro Rosso,Italian,19,8,8,0
+27023,996,6,Ferrari,Italian,214,2,2,3
+27025,996,9,Red Bull,Austrian,164,3,3,2
+27028,996,10,Force India,Indian,28,6,6,0
+27029,996,15,Sauber,Swiss,13,9,9,0
+27024,996,131,Mercedes,German,237,1,1,3
+27032,996,210,Haas F1 Team,American,27,7,7,0
+27036,997,1,McLaren,British,44,6,6,0
+27040,997,3,Williams,British,4,10,10,0
+27037,997,4,Renault,French,62,4,4,0
+27041,997,5,Toro Rosso,Italian,19,8,8,0
+27033,997,6,Ferrari,Italian,247,1,1,3
+27035,997,9,Red Bull,Austrian,189,3,3,3
+27038,997,10,Force India,Indian,42,7,7,0
+27039,997,15,Sauber,Swiss,16,9,9,0
+27034,997,131,Mercedes,German,237,2,2,3
+27042,997,210,Haas F1 Team,American,49,5,5,0
+27046,998,1,McLaren,British,48,7,7,0
+27050,998,3,Williams,British,4,10,10,0
+27047,998,4,Renault,French,70,4,4,0
+27051,998,5,Toro Rosso,Italian,19,8,8,0
+27043,998,6,Ferrari,Italian,287,1,1,4
+27045,998,9,Red Bull,Austrian,199,3,3,3
+27048,998,10,Force India,Indian,49,6,6,0
+27049,998,15,Sauber,Swiss,16,9,9,0
+27044,998,131,Mercedes,German,267,2,2,3
+27052,998,210,Haas F1 Team,American,51,5,5,0
+27056,999,1,McLaren,British,48,7,7,0
+27060,999,3,Williams,British,4,10,10,0
+27057,999,4,Renault,French,80,4,4,0
+27061,999,5,Toro Rosso,Italian,20,8,8,0
+27053,999,6,Ferrari,Italian,302,2,2,4
+27055,999,9,Red Bull,Austrian,211,3,3,3
+27058,999,10,Force India,Indian,59,5,5,0
+27059,999,15,Sauber,Swiss,18,9,9,0
+27054,999,131,Mercedes,German,310,1,1,4
+27062,999,210,Haas F1 Team,American,59,6,6,0
+27066,1000,1,McLaren,British,52,7,7,0
+27070,1000,3,Williams,British,4,10,10,0
+27067,1000,4,Renault,French,82,4,4,0
+27071,1000,5,Toro Rosso,Italian,28,8,8,0
+27063,1000,6,Ferrari,Italian,335,2,2,4
+27065,1000,9,Red Bull,Austrian,223,3,3,3
+27068,1000,10,Force India,Indian,59,6,6,0
+27069,1000,15,Sauber,Swiss,18,9,9,0
+27064,1000,131,Mercedes,German,345,1,1,5
+27072,1000,210,Haas F1 Team,American,66,5,5,0
+27076,1001,1,McLaren,British,52,6,6,0
+27080,1001,3,Williams,British,4,10,10,0
+27077,1001,4,Renault,French,82,4,4,0
+27081,1001,5,Toro Rosso,Italian,30,7,7,0
+27073,1001,6,Ferrari,Italian,360,2,2,5
+27075,1001,9,Red Bull,Austrian,238,3,3,3
+27078,1001,10,Force India,Indian,18,9,9,0
+27079,1001,15,Sauber,Swiss,19,8,8,0
+27074,1001,131,Mercedes,German,375,1,1,5
+27082,1001,210,Haas F1 Team,American,76,5,5,0
+27096,1002,1,McLaren,British,52,6,6,0
+27100,1002,3,Williams,British,7,10,10,0
+27097,1002,4,Renault,French,86,4,4,0
+27101,1002,5,Toro Rosso,Italian,30,8,8,0
+27093,1002,6,Ferrari,Italian,390,2,2,5
+27095,1002,9,Red Bull,Austrian,248,3,3,3
+27098,1002,10,Force India,Indian,32,7,7,0
+27099,1002,15,Sauber,Swiss,19,9,9,0
+27094,1002,131,Mercedes,German,415,1,1,6
+27102,1002,210,Haas F1 Team,American,76,5,5,0
+27106,1003,1,McLaren,British,58,6,6,0
+27110,1003,3,Williams,British,7,10,10,0
+27107,1003,4,Renault,French,91,4,4,0
+27111,1003,5,Toro Rosso,Italian,30,8,8,0
+27103,1003,6,Ferrari,Italian,415,2,2,5
+27105,1003,9,Red Bull,Austrian,274,3,3,3
+27108,1003,10,Force India,Indian,32,7,7,0
+27109,1003,15,Sauber,Swiss,21,9,9,0
+27104,1003,131,Mercedes,German,452,1,1,7
+27112,1003,210,Haas F1 Team,American,76,5,5,0
+27116,1004,1,McLaren,British,58,6,6,0
+27120,1004,3,Williams,British,7,10,10,0
+27117,1004,4,Renault,French,91,4,4,0
+27121,1004,5,Toro Rosso,Italian,30,8,8,0
+27113,1004,6,Ferrari,Italian,442,2,2,5
+27115,1004,9,Red Bull,Austrian,292,3,3,3
+27118,1004,10,Force India,Indian,35,7,7,0
+27119,1004,15,Sauber,Swiss,27,9,9,0
+27114,1004,131,Mercedes,German,495,1,1,8
+27122,1004,210,Haas F1 Team,American,80,5,5,0
+27126,1005,1,McLaren,British,58,6,6,0
+27130,1005,3,Williams,British,7,10,10,0
+27127,1005,4,Renault,French,92,4,4,0
+27131,1005,5,Toro Rosso,Italian,30,8,8,0
+27123,1005,6,Ferrari,Italian,460,2,2,5
+27125,1005,9,Red Bull,Austrian,319,3,3,3
+27128,1005,10,Force India,Indian,43,7,7,0
+27129,1005,15,Sauber,Swiss,27,9,9,0
+27124,1005,131,Mercedes,German,538,1,1,9
+27132,1005,210,Haas F1 Team,American,84,5,5,0
+27146,1006,1,McLaren,British,58,6,6,0
+27150,1006,3,Williams,British,7,10,10,0
+27147,1006,4,Renault,French,106,4,4,0
+27151,1006,5,Toro Rosso,Italian,32,8,8,0
+27143,1006,6,Ferrari,Italian,497,2,2,6
+27145,1006,9,Red Bull,Austrian,337,3,3,3
+27148,1006,10,Force India,Indian,47,7,7,0
+27149,1006,15,Sauber,Swiss,28,9,9,0
+27144,1006,131,Mercedes,German,563,1,1,9
+27152,1006,210,Haas F1 Team,American,84,5,5,0
+27156,1007,1,McLaren,British,62,6,6,0
+27160,1007,3,Williams,British,7,10,10,0
+27157,1007,4,Renault,French,114,4,4,0
+27161,1007,5,Toro Rosso,Italian,33,9,9,0
+27153,1007,6,Ferrari,Italian,530,2,2,6
+27155,1007,9,Red Bull,Austrian,362,3,3,4
+27158,1007,10,Force India,Indian,47,7,7,0
+27159,1007,15,Sauber,Swiss,36,8,8,0
+27154,1007,131,Mercedes,German,585,1,1,9
+27162,1007,210,Haas F1 Team,American,84,5,5,0
+27166,1008,1,McLaren,British,62,6,6,0
+27170,1008,3,Williams,British,7,10,10,0
+27167,1008,4,Renault,French,114,4,4,0
+27171,1008,5,Toro Rosso,Italian,33,9,9,0
+27163,1008,6,Ferrari,Italian,553,2,2,6
+27165,1008,9,Red Bull,Austrian,392,3,3,4
+27168,1008,10,Force India,Indian,48,7,7,0
+27169,1008,15,Sauber,Swiss,42,8,8,0
+27164,1008,131,Mercedes,German,620,1,1,10
+27172,1008,210,Haas F1 Team,American,90,5,5,0
+27176,1009,1,McLaren,British,62,6,6,0
+27180,1009,3,Williams,British,7,10,10,0
+27177,1009,4,Renault,French,122,4,4,0
+27181,1009,5,Toro Rosso,Italian,33,9,9,0
+27173,1009,6,Ferrari,Italian,571,2,2,6
+27175,1009,9,Red Bull,Austrian,419,3,3,4
+27178,1009,10,Force India,Indian,52,7,7,0
+27179,1009,15,Sauber,Swiss,48,8,8,0
+27174,1009,131,Mercedes,German,655,1,1,11
+27182,1009,210,Haas F1 Team,American,93,5,5,0
+27201,1010,1,McLaren,British,0,9,9,0
+27202,1010,3,Williams,British,0,10,10,0
+27197,1010,4,Renault,French,6,5,5,0
+27200,1010,5,Toro Rosso,Italian,1,8,8,0
+27195,1010,6,Ferrari,Italian,22,2,2,0
+27194,1010,9,Red Bull,Austrian,15,3,3,0
+27198,1010,51,Alfa Romeo,Swiss,4,6,6,0
+27193,1010,131,Mercedes,German,44,1,1,1
+27196,1010,210,Haas F1 Team,American,8,4,4,0
+27199,1010,211,Racing Point,British,2,7,7,0
+27221,1011,1,McLaren,British,8,5,5,0
+27222,1011,3,Williams,British,0,10,10,0
+27217,1011,4,Renault,French,6,7,7,0
+27220,1011,5,Toro Rosso,Italian,3,8,8,0
+27215,1011,6,Ferrari,Italian,48,2,2,0
+27214,1011,9,Red Bull,Austrian,31,3,3,0
+27218,1011,51,Alfa Romeo,Swiss,10,4,4,0
+27213,1011,131,Mercedes,German,87,1,1,2
+27216,1011,210,Haas F1 Team,American,8,6,6,0
+27219,1011,211,Racing Point,British,3,9,9,0
+27231,1012,1,McLaren,British,8,7,7,0
+27232,1012,3,Williams,British,0,10,10,0
+27227,1012,4,Renault,French,12,4,4,0
+27230,1012,5,Toro Rosso,Italian,4,9,9,0
+27225,1012,6,Ferrari,Italian,73,2,2,0
+27224,1012,9,Red Bull,Austrian,52,3,3,0
+27228,1012,51,Alfa Romeo,Swiss,12,5,5,0
+27223,1012,131,Mercedes,German,130,1,1,3
+27226,1012,210,Haas F1 Team,American,8,6,6,0
+27229,1012,211,Racing Point,British,7,8,8,0
+27241,1013,1,McLaren,British,18,4,4,0
+27242,1013,3,Williams,British,0,10,10,0
+27237,1013,4,Renault,French,12,7,7,0
+27240,1013,5,Toro Rosso,Italian,4,9,9,0
+27235,1013,6,Ferrari,Italian,99,2,2,0
+27234,1013,9,Red Bull,Austrian,64,3,3,0
+27238,1013,51,Alfa Romeo,Swiss,13,6,6,0
+27233,1013,131,Mercedes,German,173,1,1,4
+27236,1013,210,Haas F1 Team,American,8,8,8,0
+27239,1013,211,Racing Point,British,17,5,5,0
+27251,1014,1,McLaren,British,22,4,4,0
+27252,1014,3,Williams,British,0,10,10,0
+27247,1014,4,Renault,French,12,8,8,0
+27250,1014,5,Toro Rosso,Italian,6,9,9,0
+27245,1014,6,Ferrari,Italian,121,2,2,0
+27244,1014,9,Red Bull,Austrian,87,3,3,0
+27248,1014,51,Alfa Romeo,Swiss,13,7,7,0
+27243,1014,131,Mercedes,German,217,1,1,5
+27246,1014,210,Haas F1 Team,American,15,6,6,0
+27249,1014,211,Racing Point,British,17,5,5,0
+27261,1015,1,McLaren,British,30,4,4,0
+27262,1015,3,Williams,British,0,10,10,0
+27257,1015,4,Renault,French,14,8,8,0
+27260,1015,5,Toro Rosso,Italian,16,7,7,0
+27255,1015,6,Ferrari,Italian,139,2,2,0
+27254,1015,9,Red Bull,Austrian,110,3,3,0
+27258,1015,51,Alfa Romeo,Swiss,13,9,9,0
+27253,1015,131,Mercedes,German,257,1,1,6
+27256,1015,210,Haas F1 Team,American,16,6,6,0
+27259,1015,211,Racing Point,British,17,5,5,0
+27271,1016,1,McLaren,British,30,4,4,0
+27272,1016,3,Williams,British,0,10,10,0
+27267,1016,4,Renault,French,28,5,5,0
+27270,1016,5,Toro Rosso,Italian,17,7,7,0
+27265,1016,6,Ferrari,Italian,172,2,2,0
+27264,1016,9,Red Bull,Austrian,124,3,3,0
+27268,1016,51,Alfa Romeo,Swiss,13,9,9,0
+27263,1016,131,Mercedes,German,295,1,1,7
+27266,1016,210,Haas F1 Team,American,16,8,8,0
+27269,1016,211,Racing Point,British,19,6,6,0
+27301,1017,1,McLaren,British,40,4,4,0
+27302,1017,3,Williams,British,0,10,10,0
+27297,1017,4,Renault,French,32,5,5,0
+27300,1017,5,Toro Rosso,Italian,17,8,8,0
+27295,1017,6,Ferrari,Italian,198,2,2,0
+27294,1017,9,Red Bull,Austrian,137,3,3,0
+27298,1017,51,Alfa Romeo,Swiss,19,7,7,0
+27293,1017,131,Mercedes,German,338,1,1,8
+27296,1017,210,Haas F1 Team,American,16,9,9,0
+27299,1017,211,Racing Point,British,19,6,6,0
+27311,1018,1,McLaren,British,52,4,4,0
+27312,1018,3,Williams,British,0,10,10,0
+27307,1018,4,Renault,French,32,5,5,0
+27310,1018,5,Toro Rosso,Italian,17,8,8,0
+27305,1018,6,Ferrari,Italian,228,2,2,0
+27304,1018,9,Red Bull,Austrian,169,3,3,1
+27308,1018,51,Alfa Romeo,Swiss,22,6,6,0
+27303,1018,131,Mercedes,German,363,1,1,8
+27306,1018,210,Haas F1 Team,American,16,9,9,0
+27309,1018,211,Racing Point,British,19,7,7,0
+27321,1019,1,McLaren,British,60,4,4,0
+27322,1019,3,Williams,British,0,10,10,0
+27317,1019,4,Renault,French,39,5,5,0
+27320,1019,5,Toro Rosso,Italian,19,8,8,0
+27315,1019,6,Ferrari,Italian,243,2,2,0
+27314,1019,9,Red Bull,Austrian,191,3,3,1
+27318,1019,51,Alfa Romeo,Swiss,26,6,6,0
+27313,1019,131,Mercedes,German,407,1,1,9
+27316,1019,210,Haas F1 Team,American,16,9,9,0
+27319,1019,211,Racing Point,British,19,7,7,0
+27341,1020,1,McLaren,British,70,4,4,0
+27342,1020,3,Williams,British,1,10,10,0
+27337,1020,4,Renault,French,39,6,6,0
+27340,1020,5,Toro Rosso,Italian,42,5,5,0
+27335,1020,6,Ferrari,Italian,261,2,2,0
+27334,1020,9,Red Bull,Austrian,217,3,3,2
+27338,1020,51,Alfa Romeo,Swiss,26,9,9,0
+27333,1020,131,Mercedes,German,409,1,1,9
+27336,1020,210,Haas F1 Team,American,26,8,8,0
+27339,1020,211,Racing Point,British,31,7,7,0
+27351,1021,1,McLaren,British,82,4,4,0
+27352,1021,3,Williams,British,1,10,10,0
+27347,1021,4,Renault,French,39,6,6,0
+27350,1021,5,Toro Rosso,Italian,43,5,5,0
+27345,1021,6,Ferrari,Italian,288,2,2,0
+27344,1021,9,Red Bull,Austrian,244,3,3,2
+27348,1021,51,Alfa Romeo,Swiss,32,7,7,0
+27343,1021,131,Mercedes,German,438,1,1,10
+27346,1021,210,Haas F1 Team,American,26,9,9,0
+27349,1021,211,Racing Point,British,31,8,8,0
+27361,1022,1,McLaren,British,82,4,4,0
+27362,1022,3,Williams,British,1,10,10,0
+27357,1022,4,Renault,French,43,6,6,0
+27360,1022,5,Toro Rosso,Italian,51,5,5,0
+27355,1022,6,Ferrari,Italian,326,2,2,1
+27354,1022,9,Red Bull,Austrian,254,3,3,2
+27358,1022,51,Alfa Romeo,Swiss,32,8,8,0
+27353,1022,131,Mercedes,German,471,1,1,10
+27356,1022,210,Haas F1 Team,American,26,9,9,0
+27359,1022,211,Racing Point,British,40,7,7,0
+27371,1023,1,McLaren,British,83,4,4,0
+27372,1023,3,Williams,British,1,10,10,0
+27367,1023,4,Renault,French,65,5,5,0
+27370,1023,5,Toro Rosso,Italian,51,6,6,0
+27365,1023,6,Ferrari,Italian,351,2,2,2
+27364,1023,9,Red Bull,Austrian,266,3,3,2
+27368,1023,51,Alfa Romeo,Swiss,34,8,8,0
+27363,1023,131,Mercedes,German,505,1,1,10
+27366,1023,210,Haas F1 Team,American,26,9,9,0
+27369,1023,211,Racing Point,British,46,7,7,0
+27381,1024,1,McLaren,British,89,4,4,0
+27382,1024,3,Williams,British,1,10,10,0
+27377,1024,4,Renault,French,67,5,5,0
+27380,1024,5,Toro Rosso,Italian,55,6,6,0
+27375,1024,6,Ferrari,Italian,394,2,2,3
+27374,1024,9,Red Bull,Austrian,289,3,3,2
+27378,1024,51,Alfa Romeo,Swiss,35,8,8,0
+27373,1024,131,Mercedes,German,527,1,1,10
+27376,1024,210,Haas F1 Team,American,26,9,9,0
+27379,1024,211,Racing Point,British,46,7,7,0
+27391,1025,1,McLaren,British,101,4,4,0
+27392,1025,3,Williams,British,1,10,10,0
+27387,1025,4,Renault,French,68,5,5,0
+27390,1025,5,Toro Rosso,Italian,55,6,6,0
+27385,1025,6,Ferrari,Italian,409,2,2,3
+27384,1025,9,Red Bull,Austrian,311,3,3,2
+27388,1025,51,Alfa Romeo,Swiss,35,8,8,0
+27383,1025,131,Mercedes,German,571,1,1,11
+27386,1025,210,Haas F1 Team,American,28,9,9,0
+27389,1025,211,Racing Point,British,52,7,7,0
+27421,1026,1,McLaren,British,111,4,4,0
+27422,1026,3,Williams,British,1,10,10,0
+27417,1026,4,Renault,French,68,5,5,0
+27420,1026,5,Toro Rosso,Italian,62,6,6,0
+27415,1026,6,Ferrari,Italian,435,2,2,3
+27414,1026,9,Red Bull,Austrian,323,3,3,2
+27418,1026,51,Alfa Romeo,Swiss,35,8,8,0
+27413,1026,131,Mercedes,German,612,1,1,12
+27416,1026,210,Haas F1 Team,American,28,9,9,0
+27419,1026,211,Racing Point,British,58,7,7,0
+27431,1027,1,McLaren,British,111,4,4,0
+27432,1027,3,Williams,British,1,10,10,0
+27427,1027,4,Renault,French,73,5,5,0
+27430,1027,5,Toro Rosso,Italian,64,6,6,0
+27425,1027,6,Ferrari,Italian,466,2,2,3
+27424,1027,9,Red Bull,Austrian,341,3,3,2
+27428,1027,51,Alfa Romeo,Swiss,35,8,8,0
+27423,1027,131,Mercedes,German,652,1,1,13
+27426,1027,210,Haas F1 Team,American,28,9,9,0
+27429,1027,211,Racing Point,British,64,7,7,0
+27441,1028,1,McLaren,British,121,4,4,0
+27442,1028,3,Williams,British,1,10,10,0
+27437,1028,4,Renault,French,83,5,5,0
+27440,1028,5,Toro Rosso,Italian,64,7,7,0
+27435,1028,6,Ferrari,Italian,479,2,2,3
+27434,1028,9,Red Bull,Austrian,366,3,3,2
+27438,1028,51,Alfa Romeo,Swiss,35,8,8,0
+27433,1028,131,Mercedes,German,695,1,1,14
+27436,1028,210,Haas F1 Team,American,28,9,9,0
+27439,1028,211,Racing Point,British,65,6,6,0
+27451,1029,1,McLaren,British,140,4,4,0
+27452,1029,3,Williams,British,1,10,10,0
+27447,1029,4,Renault,French,91,5,5,0
+27450,1029,5,Toro Rosso,Italian,83,6,6,0
+27445,1029,6,Ferrari,Italian,479,2,2,3
+27444,1029,9,Red Bull,Austrian,391,3,3,3
+27448,1029,51,Alfa Romeo,Swiss,57,8,8,0
+27443,1029,131,Mercedes,German,701,1,1,14
+27446,1029,210,Haas F1 Team,American,28,9,9,0
+27449,1029,211,Racing Point,British,67,7,7,0
+27461,1030,1,McLaren,British,145,4,4,0
+27462,1030,3,Williams,British,1,10,10,0
+27457,1030,4,Renault,French,91,5,5,0
+27460,1030,5,Toro Rosso,Italian,85,6,6,0
+27455,1030,6,Ferrari,Italian,504,2,2,3
+27454,1030,9,Red Bull,Austrian,417,3,3,3
+27458,1030,51,Alfa Romeo,Swiss,57,8,8,0
+27453,1030,131,Mercedes,German,739,1,1,15
+27456,1030,210,Haas F1 Team,American,28,9,9,0
+27459,1030,211,Racing Point,British,73,7,7,0
+27575,1031,1,McLaren,British,26,2,2,0
+27580,1031,3,Williams,British,0,8,8,0
+27578,1031,4,Renault,French,4,6,6,0
+27574,1031,6,Ferrari,Italian,19,3,3,0
+27581,1031,9,Red Bull,Austrian,0,9,9,0
+27579,1031,51,Alfa Romeo,Swiss,2,7,7,0
+27573,1031,131,Mercedes,German,37,1,1,1
+27582,1031,210,Haas F1 Team,American,0,10,10,0
+27576,1031,211,Racing Point,British,8,4,4,0
+27577,1031,213,AlphaTauri,Italian,6,5,5,0
+27485,1032,1,McLaren,British,39,2,2,0
+27490,1032,3,Williams,British,0,9,9,0
+27488,1032,4,Renault,French,8,6,6,0
+27484,1032,6,Ferrari,Italian,19,5,5,0
+27491,1032,9,Red Bull,Austrian,27,3,3,0
+27489,1032,51,Alfa Romeo,Swiss,2,8,8,0
+27483,1032,131,Mercedes,German,80,1,1,2
+27492,1032,210,Haas F1 Team,American,0,10,10,0
+27486,1032,211,Racing Point,British,22,4,4,0
+27487,1032,213,AlphaTauri,Italian,7,7,7,0
+27505,1033,1,McLaren,British,41,3,3,0
+27510,1033,3,Williams,British,0,10,10,0
+27508,1033,4,Renault,French,12,6,6,0
+27504,1033,6,Ferrari,Italian,27,5,5,0
+27511,1033,9,Red Bull,Austrian,55,2,2,0
+27509,1033,51,Alfa Romeo,Swiss,2,8,8,0
+27503,1033,131,Mercedes,German,121,1,1,3
+27512,1033,210,Haas F1 Team,American,1,9,9,0
+27506,1033,211,Racing Point,British,40,4,4,0
+27507,1033,213,AlphaTauri,Italian,7,7,7,0
+27515,1034,1,McLaren,British,51,3,3,0
+27520,1034,3,Williams,British,0,10,10,0
+27518,1034,4,Renault,French,32,6,6,0
+27514,1034,6,Ferrari,Italian,43,4,4,0
+27521,1034,9,Red Bull,Austrian,78,2,2,0
+27519,1034,51,Alfa Romeo,Swiss,2,8,8,0
+27513,1034,131,Mercedes,German,146,1,1,4
+27522,1034,210,Haas F1 Team,American,1,9,9,0
+27516,1034,211,Racing Point,British,42,5,5,0
+27517,1034,213,AlphaTauri,Italian,13,7,7,0
+27525,1035,1,McLaren,British,53,4,4,0
+27530,1035,3,Williams,British,0,10,10,0
+27528,1035,4,Renault,French,36,6,6,0
+27524,1035,6,Ferrari,Italian,55,3,3,0
+27531,1035,9,Red Bull,Austrian,113,2,2,1
+27529,1035,51,Alfa Romeo,Swiss,2,8,8,0
+27523,1035,131,Mercedes,German,180,1,1,4
+27532,1035,210,Haas F1 Team,American,1,9,9,0
+27526,1035,211,Racing Point,British,41,5,5,0
+27527,1035,213,AlphaTauri,Italian,14,7,7,0
+27535,1036,1,McLaren,British,62,4,4,0
+27540,1036,3,Williams,British,0,10,10,0
+27538,1036,4,Renault,French,36,6,6,0
+27534,1036,6,Ferrari,Italian,61,5,5,0
+27541,1036,9,Red Bull,Austrian,135,2,2,1
+27539,1036,51,Alfa Romeo,Swiss,2,8,8,0
+27533,1036,131,Mercedes,German,221,1,1,5
+27542,1036,210,Haas F1 Team,American,1,9,9,0
+27536,1036,211,Racing Point,British,63,3,3,0
+27537,1036,213,AlphaTauri,Italian,16,7,7,0
+27545,1037,1,McLaren,British,68,3,3,0
+27550,1037,3,Williams,British,0,10,10,0
+27548,1037,4,Renault,French,59,6,6,0
+27544,1037,6,Ferrari,Italian,61,5,5,0
+27551,1037,9,Red Bull,Austrian,158,2,2,1
+27549,1037,51,Alfa Romeo,Swiss,2,8,8,0
+27543,1037,131,Mercedes,German,264,1,1,6
+27552,1037,210,Haas F1 Team,American,1,9,9,0
+27546,1037,211,Racing Point,British,66,4,4,0
+27547,1037,213,AlphaTauri,Italian,20,7,7,0
+27555,1038,1,McLaren,British,98,3,3,0
+27560,1038,3,Williams,British,0,10,10,0
+27558,1038,4,Renault,French,71,5,5,0
+27554,1038,6,Ferrari,Italian,61,6,6,0
+27561,1038,9,Red Bull,Austrian,158,2,2,1
+27559,1038,51,Alfa Romeo,Swiss,2,8,8,0
+27553,1038,131,Mercedes,German,281,1,1,6
+27562,1038,210,Haas F1 Team,American,1,9,9,0
+27556,1038,211,Racing Point,British,82,4,4,0
+27557,1038,213,AlphaTauri,Italian,47,7,7,1
+27565,1039,1,McLaren,British,106,3,3,0
+27570,1039,3,Williams,British,0,10,10,0
+27568,1039,4,Renault,French,83,5,5,0
+27564,1039,6,Ferrari,Italian,66,6,6,0
+27571,1039,9,Red Bull,Austrian,173,2,2,1
+27569,1039,51,Alfa Romeo,Swiss,4,8,8,0
+27563,1039,131,Mercedes,German,325,1,1,7
+27572,1039,210,Haas F1 Team,American,1,9,9,0
+27566,1039,211,Racing Point,British,92,4,4,0
+27567,1039,213,AlphaTauri,Italian,53,7,7,1
+27585,1040,1,McLaren,British,106,3,3,0
+27590,1040,3,Williams,British,0,10,10,0
+27588,1040,4,Renault,French,99,5,5,0
+27584,1040,6,Ferrari,Italian,74,6,6,0
+27591,1040,9,Red Bull,Austrian,192,2,2,1
+27589,1040,51,Alfa Romeo,Swiss,4,8,8,0
+27583,1040,131,Mercedes,German,366,1,1,8
+27592,1040,210,Haas F1 Team,American,1,9,9,0
+27586,1040,211,Racing Point,British,104,4,4,0
+27587,1040,213,AlphaTauri,Italian,59,7,7,1
+27595,1041,1,McLaren,British,116,4,4,0
+27600,1041,3,Williams,British,0,10,10,0
+27598,1041,4,Renault,French,114,5,5,0
+27594,1041,6,Ferrari,Italian,80,6,6,0
+27601,1041,9,Red Bull,Austrian,211,2,2,1
+27599,1041,51,Alfa Romeo,Swiss,5,8,8,0
+27593,1041,131,Mercedes,German,391,1,1,9
+27602,1041,210,Haas F1 Team,American,3,9,9,0
+27596,1041,211,Racing Point,British,120,3,3,0
+27597,1041,213,AlphaTauri,Italian,67,7,7,1
+27605,1042,1,McLaren,British,124,4,4,0
+27610,1042,3,Williams,British,0,10,10,0
+27608,1042,4,Renault,French,120,5,5,0
+27604,1042,6,Ferrari,Italian,93,6,6,0
+27611,1042,9,Red Bull,Austrian,226,2,2,1
+27609,1042,51,Alfa Romeo,Swiss,5,8,8,0
+27603,1042,131,Mercedes,German,435,1,1,10
+27612,1042,210,Haas F1 Team,American,3,9,9,0
+27606,1042,211,Racing Point,British,126,3,3,0
+27607,1042,213,AlphaTauri,Italian,77,7,7,1
+27615,1043,1,McLaren,British,134,4,4,0
+27620,1043,3,Williams,British,0,10,10,0
+27618,1043,4,Renault,French,135,3,3,0
+27614,1043,6,Ferrari,Italian,103,6,6,0
+27621,1043,9,Red Bull,Austrian,226,2,2,1
+27619,1043,51,Alfa Romeo,Swiss,8,8,8,0
+27613,1043,131,Mercedes,German,479,1,1,11
+27622,1043,210,Haas F1 Team,American,3,9,9,0
+27616,1043,211,Racing Point,British,134,5,5,0
+27617,1043,213,AlphaTauri,Italian,89,7,7,1
+27625,1044,1,McLaren,British,149,4,4,0
+27630,1044,3,Williams,British,0,10,10,0
+27628,1044,4,Renault,French,136,5,5,0
+27624,1044,6,Ferrari,Italian,130,6,6,0
+27631,1044,9,Red Bull,Austrian,240,2,2,1
+27629,1044,51,Alfa Romeo,Swiss,8,8,8,0
+27623,1044,131,Mercedes,German,504,1,1,12
+27632,1044,210,Haas F1 Team,American,3,9,9,0
+27626,1044,211,Racing Point,British,154,3,3,0
+27627,1044,213,AlphaTauri,Italian,89,7,7,1
+27635,1045,1,McLaren,British,171,3,3,0
+27640,1045,3,Williams,British,0,10,10,0
+27638,1045,4,Renault,French,144,5,5,0
+27634,1045,6,Ferrari,Italian,131,6,6,0
+27641,1045,9,Red Bull,Austrian,274,2,2,1
+27639,1045,51,Alfa Romeo,Swiss,8,8,8,0
+27633,1045,131,Mercedes,German,533,1,1,13
+27642,1045,210,Haas F1 Team,American,3,9,9,0
+27636,1045,211,Racing Point,British,154,4,4,0
+27637,1045,213,AlphaTauri,Italian,97,7,7,1
+27645,1046,1,McLaren,British,184,4,4,0
+27650,1046,3,Williams,British,0,10,10,0
+27648,1046,4,Renault,French,172,5,5,0
+27644,1046,6,Ferrari,Italian,131,6,6,0
+27651,1046,9,Red Bull,Austrian,282,2,2,1
+27649,1046,51,Alfa Romeo,Swiss,8,8,8,0
+27643,1046,131,Mercedes,German,540,1,1,13
+27652,1046,210,Haas F1 Team,American,3,9,9,0
+27646,1046,211,Racing Point,British,194,3,3,1
+27647,1046,213,AlphaTauri,Italian,103,7,7,1
+27655,1047,1,McLaren,British,202,3,3,0
+27660,1047,3,Williams,British,0,10,10,0
+27658,1047,4,Renault,French,181,5,5,0
+27654,1047,6,Ferrari,Italian,131,6,6,0
+27661,1047,9,Red Bull,Austrian,319,2,2,2
+27659,1047,51,Alfa Romeo,Swiss,8,8,8,0
+27653,1047,131,Mercedes,German,573,1,1,13
+27662,1047,210,Haas F1 Team,American,3,9,9,0
+27656,1047,211,Racing Point,British,195,4,4,1
+27657,1047,213,AlphaTauri,Italian,107,7,7,1
+27668,1051,1,McLaren,British,0,6,-,0
+27672,1051,3,Williams,British,0,10,-,0
+27666,1051,6,Ferrari,Italian,0,4,-,0
+27670,1051,9,Red Bull,Austrian,0,8,-,0
+27663,1051,51,Alfa Romeo,Swiss,0,1,-,0
+27665,1051,117,Aston Martin,British,0,3,-,0
+27669,1051,131,Mercedes,German,0,7,-,0
+27667,1051,210,Haas F1 Team,American,0,5,-,0
+27671,1051,213,AlphaTauri,Italian,0,9,-,0
+27664,1051,214,Alpine F1 Team,French,0,2,-,0
+27675,1052,1,McLaren,British,18,3,3,0
+27681,1052,3,Williams,British,0,9,9,0
+27676,1052,6,Ferrari,Italian,12,4,4,0
+27674,1052,9,Red Bull,Austrian,28,2,2,0
+27679,1052,51,Alfa Romeo,Swiss,0,7,7,0
+27678,1052,117,Aston Martin,British,1,6,6,0
+27673,1052,131,Mercedes,German,41,1,1,1
+27682,1052,210,Haas F1 Team,American,0,10,10,0
+27677,1052,213,AlphaTauri,Italian,2,5,5,0
+27680,1052,214,Alpine F1 Team,French,0,8,8,0
+27705,1053,1,McLaren,British,41,3,3,0
+27711,1053,3,Williams,British,0,9,9,0
+27706,1053,6,Ferrari,Italian,34,4,4,0
+27704,1053,9,Red Bull,Austrian,53,2,2,1
+27709,1053,51,Alfa Romeo,Swiss,0,8,8,0
+27708,1053,117,Aston Martin,British,5,6,6,0
+27703,1053,131,Mercedes,German,60,1,1,1
+27712,1053,210,Haas F1 Team,American,0,10,10,0
+27707,1053,213,AlphaTauri,Italian,8,5,5,0
+27710,1053,214,Alpine F1 Team,French,3,7,7,0
+27715,1054,1,McLaren,British,53,3,3,0
+27721,1054,3,Williams,British,0,9,9,0
+27716,1054,6,Ferrari,Italian,42,4,4,0
+27714,1054,9,Red Bull,Austrian,83,2,2,1
+27719,1054,51,Alfa Romeo,Swiss,0,8,8,0
+27718,1054,117,Aston Martin,British,5,7,7,0
+27713,1054,131,Mercedes,German,101,1,1,2
+27722,1054,210,Haas F1 Team,American,0,10,10,0
+27717,1054,213,AlphaTauri,Italian,9,6,6,0
+27720,1054,214,Alpine F1 Team,French,13,5,5,0
+27725,1055,1,McLaren,British,65,3,3,0
+27731,1055,3,Williams,British,0,9,9,0
+27726,1055,6,Ferrari,Italian,60,4,4,0
+27724,1055,9,Red Bull,Austrian,112,2,2,1
+27729,1055,51,Alfa Romeo,Swiss,0,8,8,0
+27728,1055,117,Aston Martin,British,5,7,7,0
+27723,1055,131,Mercedes,German,141,1,1,3
+27732,1055,210,Haas F1 Team,American,0,10,10,0
+27727,1055,213,AlphaTauri,Italian,10,6,6,0
+27730,1055,214,Alpine F1 Team,French,15,5,5,0
+27735,1056,1,McLaren,British,80,3,3,0
+27741,1056,3,Williams,British,0,9,9,0
+27736,1056,6,Ferrari,Italian,78,4,4,0
+27734,1056,9,Red Bull,Austrian,149,1,1,2
+27739,1056,51,Alfa Romeo,Swiss,1,8,8,0
+27738,1056,117,Aston Martin,British,19,5,5,0
+27733,1056,131,Mercedes,German,148,2,2,3
+27742,1056,210,Haas F1 Team,American,0,10,10,0
+27737,1056,213,AlphaTauri,Italian,18,6,6,0
+27740,1056,214,Alpine F1 Team,French,17,7,7,0
+27745,1057,1,McLaren,British,92,4,4,0
+27751,1057,3,Williams,British,0,10,10,0
+27746,1057,6,Ferrari,Italian,94,3,3,0
+27744,1057,9,Red Bull,Austrian,174,1,1,3
+27749,1057,51,Alfa Romeo,Swiss,2,8,8,0
+27748,1057,117,Aston Martin,British,37,6,6,0
+27743,1057,131,Mercedes,German,148,2,2,3
+27752,1057,210,Haas F1 Team,American,0,9,9,0
+27747,1057,213,AlphaTauri,Italian,39,5,5,0
+27750,1057,214,Alpine F1 Team,French,25,7,7,0
+27765,1058,1,McLaren,British,120,3,3,0
+27771,1058,3,Williams,British,0,9,9,0
+27766,1058,6,Ferrari,Italian,108,4,4,0
+27764,1058,9,Red Bull,Austrian,252,1,1,5
+27769,1058,51,Alfa Romeo,Swiss,2,8,8,0
+27768,1058,117,Aston Martin,British,44,6,6,0
+27763,1058,131,Mercedes,German,212,2,2,3
+27772,1058,210,Haas F1 Team,American,0,10,10,0
+27767,1058,213,AlphaTauri,Italian,46,5,5,0
+27770,1058,214,Alpine F1 Team,French,31,7,7,0
+27755,1059,1,McLaren,British,110,3,3,0
+27761,1059,3,Williams,British,0,9,9,0
+27756,1059,6,Ferrari,Italian,94,4,4,0
+27754,1059,9,Red Bull,Austrian,215,1,1,4
+27759,1059,51,Alfa Romeo,Swiss,2,8,8,0
+27758,1059,117,Aston Martin,British,40,6,6,0
+27753,1059,131,Mercedes,German,178,2,2,3
+27762,1059,210,Haas F1 Team,American,0,10,10,0
+27757,1059,213,AlphaTauri,Italian,45,5,5,0
+27760,1059,214,Alpine F1 Team,French,29,7,7,0
+27785,1060,1,McLaren,British,141,3,3,0
+27791,1060,3,Williams,British,0,9,9,0
+27786,1060,6,Ferrari,Italian,122,4,4,0
+27784,1060,9,Red Bull,Austrian,286,1,1,6
+27789,1060,51,Alfa Romeo,Swiss,2,8,8,0
+27788,1060,117,Aston Martin,British,44,6,6,0
+27783,1060,131,Mercedes,German,242,2,2,3
+27792,1060,210,Haas F1 Team,American,0,10,10,0
+27787,1060,213,AlphaTauri,Italian,48,5,5,0
+27790,1060,214,Alpine F1 Team,French,32,7,7,0
