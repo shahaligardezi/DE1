@@ -13,7 +13,7 @@ The used dataset contains the following five tables and this is what they broadl
 
 It is a relational dataset which has been linked together to provide the EER diagram has shown below. As the diagram illustrates the results table serves as a central table in the star schema. There are different kind of linkages, such as one to many (between races & results; constructors and results) many to one (between results & status) and many to many (between results and drivers) in this relational dataset. 
 
-![](https://user-images.githubusercontent.com/90857281/141663842-885b0d34-b444-4641-926d-fe72036b1337.png)
+![EER_diagram.png](https://user-images.githubusercontent.com/90857281/141663842-885b0d34-b444-4641-926d-fe72036b1337.png)
 
 Analytics
 
