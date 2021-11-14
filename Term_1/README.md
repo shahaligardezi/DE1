@@ -30,17 +30,16 @@ In order to achieve the desired analytics results my plan of action involved
 - Creating an ETL pipeline to create data marts for analysis 
 The figure below illustrates the above.
 
- ![EER_diagram.png](https://github.com/shahaligardezi/DE1/blob/main/Term_1/EER_diagram.png)
+ ![Analytics_plan.png](https://github.com/shahaligardezi/DE1/blob/main/Term_1/Analytics_plan.png)
 
 
 
-Analytical layer: 
+ ## Analytical layer: 
 
 In the analytical layer I created a data warehouse with relevant columns to aid to my analysis. This data warehouse was then used to create views.  While creating the data warehouse, I used multiple joins between the tables like Left Join, Right Join and Union (in case of many to many relationships between drivers and results table. The purpose of the analytical layer was to provide one single table which consists of both qualitative and quantitative parameters pertaining to all the stakeholders in each race of the Formula One season. 
  
-
+  ![Analytics_plan.png](https://github.com/shahaligardezi/DE1/blob/main/Term_1/Analytics_plan.png)
  
-
 
 Data Marts: 
 
