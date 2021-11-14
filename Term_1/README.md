@@ -1,15 +1,15 @@
 # Data Engineering Project 1:  Formula One (2000-2021) dataset.
 
-This report serves as a complete documentation for the Term Project 1 for Data Engineering 1 course. In order to perform this task, I used the dataset from Kaggle which was about Formula One racing.  Keeping in view the constantly evolving nature of Formula One racing rules, I have examined 20 years of data from 2000 to 2021 instead of 1950-2021 as on Kaggle. 
+This report serves as a complete documentation for the Term Project 1 for Data Engineering 1 course. In order to perform this task, I used the dataset from Kaggle which was about Formula One racing.  Keeping in view the constantly evolving nature of Formula One racing rules, I have examined 20 years of data from **2000 to 2021** instead of 1950-2021 as on Kaggle. 
 
 ## Operational Layer
 
 The used dataset contains the following five tables and this is what they broadly describe:
-- Results - contains information of different parameters of recorded in a race;
-- Constructors - contains information about car sponsoring teams;
-- Races - describes race venues, circuits, date & time;
-- Drivers - description of participants driving the vehicle and how they performed in different races;
-- Status - car status at the end of the race. 
+- **Results** - contains information of different parameters of recorded in a race;
+- **Constructors** - contains information about car sponsoring teams;
+- **Races** - describes race venues, circuits, date & time;
+- **Drivers** - description of participants driving the vehicle and how they performed in different races;
+- **Status** - car status at the end of the race. 
 
 It is a relational dataset which has been linked together to provide the EER diagram has shown below. As the diagram illustrates the results table serves as a central table in the star schema. There are different kind of linkages, such as one to many (between races & results; constructors and results) many to one (between results & status) and many to many (between results and drivers) in this relational dataset. 
 
@@ -19,10 +19,10 @@ It is a relational dataset which has been linked together to provide the EER dia
 
 In order to create an analytics plan, I thought from the perspective of Formula One 
 data-analyst team member. I would require a dataset to provide me information about 
--	Constructors with engine failures status by year
--	Drivers performance in a particular Grand Prix
--	Race events in which the highest number of drivers finished the race safely
--	Constructors’ score board
+-	_Constructors with engine failures status by year_
+-	_Drivers performance in a particular Grand Prix_
+-	_Race events in which the highest number of drivers finished the race safely_
+-	_Constructors’ score board_
 
 In order to achieve the desired analytics results my plan of action involved 
 - Loading the data into tables in MySQL
